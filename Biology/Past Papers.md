@@ -13,14 +13,14 @@
 	- *Correct* *Answer*:
 		- Fewer People in the population have the disease / with the disease
 		- (so) Less likely for the pathogen to be spread / caught.
-- **2.1**
+- **2.1** (0/1)
 	- *Question:*
 		- Name one disease that obesity is a risk factor for.
 	- *Incorrect Answer:*
 		- "Diabetes"
 	- *Correct Answer:*
 		- "**Type 2** Diabetes"
-- **2.2**
+- **2.2** (3/4, -1)
 	- Error:
 		- Forgot to label axis on a graph
 - **3.1** (2/6)
