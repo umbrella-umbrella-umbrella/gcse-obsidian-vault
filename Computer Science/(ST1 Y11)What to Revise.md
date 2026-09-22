@@ -1,4 +1,3 @@
-
 ### 1. Computational Thinking
 
 - Truth tables — AND, OR and NOT; completing truth tables with up to three inputs.
