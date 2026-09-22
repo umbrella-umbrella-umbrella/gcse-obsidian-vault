@@ -12,5 +12,6 @@
 - The CPU follows three steps in order to process data known as the fetch-decode-execute cycle.
 - Whenever you open and work with a program its data + instructions are loaded into your computer's RAM
 	- Fetch
-		- 
+		- In this step the CPU fetches data from the **RAM** (main memory) and then stores it in its own ultra-fast memory known as **Registers**
+		- For this to happen the CPU uses a hardware path known as the **address bus***
 
