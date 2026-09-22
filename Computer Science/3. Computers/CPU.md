@@ -3,8 +3,8 @@ Purpose of the CPU
 
 - Buses:
 	- Data Bus
-		- 
+		- Carries the actualy data between the procssor and other componen
 	- Address Bus
-		- 
+		- Carries Memory *Addresses* from the processor to other components such as RAM
 	- Control Bus
 		- 
