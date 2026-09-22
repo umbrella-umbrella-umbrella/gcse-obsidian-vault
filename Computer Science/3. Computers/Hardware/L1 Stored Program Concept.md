@@ -1,5 +1,6 @@
 Von Neumann Architecture
-- Nearly E
+- Nearly every modern-day computer uses this Architecture pioneered by Von Neumann, they are made of:
+	- A procession unit that contains an ALU and processors **registers** 
 
 
 
