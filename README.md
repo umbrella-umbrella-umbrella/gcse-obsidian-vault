@@ -1,2 +1,2 @@
-# obsidianv
-this is a test
+# GCSE Obsidian Vault
+a "Vault" of notes for GCSE
