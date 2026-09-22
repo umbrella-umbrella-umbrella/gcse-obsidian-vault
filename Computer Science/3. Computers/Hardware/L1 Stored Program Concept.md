@@ -26,3 +26,8 @@
 
 - Once a FDE cycle is complete another begins.
 
+Summary of FDE:
+- Instructions and data are stored in the memory. (Initially)
+- Instructions are fetched one at a time into the processor. ()
+- The instructions are decoded by the control unit.
+- The instructions are executed, sometimes using the arithmetic logic unit.
