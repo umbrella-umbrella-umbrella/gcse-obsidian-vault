@@ -1,4 +1,4 @@
-# An embedded computer is usually a simple computer, responsible for a dedicated task.
+### An embedded computer is usually a simple computer, responsible for a dedicated task.
 
 - Their *Characteristics* Include:
 	- Responsive to their environment
