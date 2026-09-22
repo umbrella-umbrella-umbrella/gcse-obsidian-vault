@@ -23,3 +23,5 @@
 - **2.2**
 	- Error:
 		- Forgot to label axis on a graph
+- **3.1** (2/6)
+	- 
