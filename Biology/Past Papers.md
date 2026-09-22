@@ -5,7 +5,7 @@
 	- Did poor on "Tiered*" 6-markers where there wasn't a set amount of points and the overall quality of the answer mattered. \*(Level 1, Level 2, Level 3)
 
 **ERRORS LOG:**
-- **1.5 *Herd Immunity***
+- **1.5 *Herd Immunity*** (0/2)
 	- *Question*:
 		- Explain why vaccinating large numbers of children helps to reduce the spread of the measles pathogen in the population
 	- *Incorrect Answer*:
@@ -30,3 +30,4 @@
 	- No logical order
 	- Lack of a clear judgement
 	- No mention of strengths of the method
+	- Should give reasons for improvements.
