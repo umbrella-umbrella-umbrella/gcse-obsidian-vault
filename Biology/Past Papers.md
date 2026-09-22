@@ -25,7 +25,8 @@
 		- Forgot to label axis on a graph
 - **3.1** (2/6)
 	- Context:
-		- Potato Osmosis Question: Method was 
+		- *A student investigated osmosis in pieces of potato. This is the method used. 1. Cut a piece of potato into a cube. 2. Record the mass of the cube. 3. Place the cube into a beaker containing 0.4 mol/dm3 salt solution. 4. After some time, remove the cube and record the mass. 5. Calculate the change in the mass of the cube. 6. Repeat steps 1 to 5 using two more different concentrations of salt solution.* 
+		- *Evaluate the student’s method. You should include how the student could improve the validity of their results.*
 	- No logical order
 	- Lack of a clear judgement
 	- No mention of strengths of the method
