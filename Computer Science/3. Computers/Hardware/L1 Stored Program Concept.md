@@ -19,5 +19,8 @@
 	- ***Decode***
 		- Decode = working out what the instruction it has just fetched actually means
 		- The **control unit** decodes the instruction by looking it up in the instruction set.
-		  Instruction Set = the full list of operations that a microprocessor can carry out.
+		  *Instruction Set = the full list of operations that a microprocessor can carry out.*
+	- ***Execute***
+		- When Data Processing happens
+		  
 
