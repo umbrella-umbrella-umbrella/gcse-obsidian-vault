@@ -2,8 +2,9 @@
 - **General**
 	- Grade: 8
 	- Mark: 61/92 / 66%
+	- Did poor on "Tiered" 6-markers wher ethere wasn;t a set amount of 
 
-ERRORS LOG:
+**ERRORS LOG:**
 - **1.5 *Herd Immunity***
 	- *Question*:
 		- Explain why vaccinating large numbers of children helps to reduce the spread of the measles pathogen in the population
