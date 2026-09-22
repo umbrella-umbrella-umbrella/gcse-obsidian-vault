@@ -16,4 +16,6 @@
 		- For this to happen the CPU uses a hardware path known as the **address bus*** 
 			- The memory address of the next item that the CPU wants is put onto the address bus. 
 			- Data from this memory address then travels from the RAM to the CPU on another hardware path called the **data bus.**
+	- ***Decode***
+		- 
 
