@@ -26,7 +26,7 @@
 
 ## 3. Computers
 
-- [ ] Embedded systems — their functions and uses.
+- [x] Embedded systems — their functions and uses.
 - [ ] Non-volatile storage — why it is used.
 - [ ] Secondary storage media — magnetic, optical and solid-state storage; pits and lands.
 - [ ] Interpreters — how they translate high-level code.
@@ -34,7 +34,7 @@
 - [ ] Version control — recording code changes, who made them and when.
 - [ ] Virtual memory — how it is used when main memory is insufficient.
 - [ ] Utility software — file repair and why it is needed.
-- [ ] CPU components — control unit, ALU and registers.
+- [x] CPU components — control unit, ALU and registers.
 - [ ] Buses — address bus, data bus and control bus.
 
 ## 4. Networks
