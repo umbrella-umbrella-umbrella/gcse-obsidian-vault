@@ -10,3 +10,7 @@
 
 ## Fetch, Decode, Execute
 - The CPU follows three steps in order to process data known as the fetch-decode-execute cycle.
+- Whenever you open and work with a program its data + instructions are loaded into your computer's RAM
+	- Fetch
+		- 
+
