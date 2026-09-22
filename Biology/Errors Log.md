@@ -1,4 +1,5 @@
 ### Past Paper (2025 Higher):
+- **General**
 - **1.5 *Herd Immunity***
 	- *Question*:
 		- Explain why vaccinating large numbers of children helps to reduce the spread of the measles pathogen in the population
@@ -14,3 +15,6 @@
 		- "Diabetes"
 	- *Correct Answer:*
 		- "**Type 2** Diabetes"
+- **2.2**
+	- Error:
+		- Forgot to label axis on a graph
