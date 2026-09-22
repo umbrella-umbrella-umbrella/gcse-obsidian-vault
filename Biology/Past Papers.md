@@ -1,4 +1,4 @@
-### Past Paper (2025 Higher):
+## Past Paper (2025 Higher):
 - **General**
 	- Grade: 8
 	- Mark: 61/92 / 66%
