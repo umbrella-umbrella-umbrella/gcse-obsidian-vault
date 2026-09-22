@@ -6,7 +6,7 @@
 	- external data storage
 	- input and output mechanisms
 
-![[Pasted image 20260922203412.png|418]]
+![[von-neumann-arc.png|418]]
 
 # Fetch, Decode, Execute
 - The CPU follows three steps in order to process data known as the fetch-decode-execute cycle.
@@ -23,5 +23,6 @@
 	- ***Execute***
 		- When Data Processing happens
 		- Instructions are carried out on the data, some are carried by the ALU (adding, shifting, AND, OR et.c)
-	- Once a FDE 
+
+- Once a FDE cycle is complete another begins.
 
