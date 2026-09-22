@@ -24,4 +24,8 @@
 	- Error:
 		- Forgot to label axis on a graph
 - **3.1** (2/6)
-	- 
+	- Context:
+		- Potato Osmosis Question: Method was 
+	- No logical order
+	- Lack of a clear judgement
+	- No mention of strengths of the method
