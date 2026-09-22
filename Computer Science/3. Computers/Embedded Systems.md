@@ -1,5 +1,6 @@
- An embedded computer is usually a simple computer, responsible for a dedicated task.
-- Characteristics Include
+# An embedded computer is usually a simple computer, responsible for a dedicated task.
+
+- Their *Characteristics* Include:
 	- Responsive to their environment
 	- Task Specific
 	- Low power consumption
