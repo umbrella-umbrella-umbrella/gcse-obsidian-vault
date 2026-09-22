@@ -2,7 +2,7 @@
 - **General**
 	- Grade: 8
 	- Mark: 61/92 / 66%
-	- Did poor on "Tiered" 6-markers wher ethere wasn;t a set amount of 
+	- Did poor on "Tiered*" 6-markers where there wasn't a set amount of points and the overall quality of the answer mattered. \*(Level 1, Level 2, Level 3)
 
 **ERRORS LOG:**
 - **1.5 *Herd Immunity***
