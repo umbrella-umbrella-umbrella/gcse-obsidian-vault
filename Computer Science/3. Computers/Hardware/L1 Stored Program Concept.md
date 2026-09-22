@@ -22,5 +22,6 @@
 		  *Instruction Set = the full list of operations that a microprocessor can carry out.*
 	- ***Execute***
 		- When Data Processing happens
-		  
+		- Instructions are carried out on the data, some are carried by the ALU (adding, shifting, AND, OR et.c)
+	- Once a FDE 
 
