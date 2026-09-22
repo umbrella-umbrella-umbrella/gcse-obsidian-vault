@@ -1,5 +1,5 @@
 ### Past Paper (2025 Higher):
-- **1.5 Herd Immunity**
+- **1.5 *Herd Immunity***
 	- *Question*:
 		- Explain why vaccinating large numbers of children helps to reduce the spread of the measles pathogen in the population
 	- *Error*:
@@ -7,4 +7,8 @@
 	- *Correct*:
 		- Fewer People in the population have the disease / with the disease
 		- (so) Less likely for the pathogen to be spread / caught.
-- 2.1
+- **2.1**
+	- Question:
+		- Name one disease that obesity is a risk factor for.
+	- Error:
+		- "Diabetes"
