@@ -5,11 +5,11 @@
 | Silver    | 20         | 22       | 2           |
 ![[Effect of surface type on the absorption of Infra-red radiation.png|321]]
 ### Variables:
-- Independent
+- *Independent*
 	- Type of test tube
-- Dependant
+- *Dependant*
 	- Temperature change, and at the start / end
-- Control
+- *Control*
 	- Distance of Test Tube to the Bunsen
 	- Volume of water in each test tube
 
@@ -21,11 +21,11 @@
 5. When the stopwatch hits 5 minutes, turn off the Bunsen and measure the ending temperature
 6. Record results
 ### Equipment List
-- Thermometer (2)
-- Black Test Tube
-- Silver Test Tube
-- Heat-Proof Mat
-- Clamp Stand (2)
-  Bunsen Burner
+- *Thermometer (2)*
+- *Black Test Tube*
+- *Silver Test Tube*
+- *Heat-Proof Mat*
+- *Clamp Stand (2)*
+  *Bunsen Burner*
 ### Conclusion:
 - Darker colours absorb more infra-red radiation that lighter colours.

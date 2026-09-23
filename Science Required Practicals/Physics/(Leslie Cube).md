@@ -3,11 +3,11 @@
 ![[Pasted image 20260923190158.png]]
 
 ### Variables
-- Independent
+- *Independent*
 	- Material on the "Leslie" cube
-- Dependant
+- *Dependant*
 	- Temperature in °C
-- Control
+- *Control*
 	- Distance the Infra-red thermometer is held
 
 ### Method
@@ -20,9 +20,11 @@
 - Heat-proof mat
 - Infra-red thermometer
 
+### Results
+
 | Side of Cube | Temperature (°C) |
 | ------------ | ---------------- |
-|              | 63               |
-|              | 65               |
+| Shiny Steel  | 63               |
+| White        | 65               |
 | Matte Black  | 78               |
 | Shiny Copper | 28               |
