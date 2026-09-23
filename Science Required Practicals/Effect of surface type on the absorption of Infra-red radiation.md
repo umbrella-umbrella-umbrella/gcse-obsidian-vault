@@ -13,6 +13,7 @@
 	- Distance of Test Tube to the Bunsen
 	- Volume of water in each test tube
 
+![[Pasted image 20260923182025.png]]
 ### Method:
 1. Prepare the equipment shown in the diagram
 2. Wear safety goggles
