@@ -3,7 +3,7 @@
 | --------- | ---------- | -------- | ----------- |
 | Black     | 20         | 26       | 6           |
 | Silver    | 20         | 22       | 2           |
-
+![[Effect of surface type on the absorption of Infra-red radiation.png|321]]
 ### Variables:
 - Independent
 	- Type of test tube
@@ -13,7 +13,6 @@
 	- Distance of Test Tube to the Bunsen
 	- Volume of water in each test tube
 
-![[Effect of surface type on the absorption of Infra-red radiation.png|287]]
 ### Method:
 1. Prepare the equipment shown in the diagram
 2. Wear safety goggles
@@ -22,7 +21,7 @@
 5. When the stopwatch hits 5 minutes, turn off the Bunsen and measure the ending temperature
 6. Record results
 ### Equipment List
-- Thermometer
+- Thermometer (2)
 - Black Test Tube
 - Silver Test Tube
 - Heat-Proof Mat
