@@ -21,6 +21,12 @@
 4. Turn on the Bunsen and start the stopwatch
 5. When the stopwatch hits 5 minutes, turn off the Bunsen and measure the ending temperature
 6. Record results
-
+### Equipment List
+- Thermometer
+- Black Test Tube
+- Silver Test Tube
+- Heat-Proof Mat
+- Clamp Stand (2)
+  Bunsen Burner
 ### Conclusion:
 - Darker colours absorb more infra-red radiation that lighter colours.
