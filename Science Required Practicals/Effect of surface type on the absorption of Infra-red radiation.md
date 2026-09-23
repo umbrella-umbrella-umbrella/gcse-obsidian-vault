@@ -16,4 +16,8 @@
 - Darker colours absorb more infra-red radiation that lighter colours.
 
 ### Method:
-1. Prepare the qu
+1. Prepare the equipment shown in the diagram
+2. Wear safety goggles
+3. Measure the starting temp of both test tubes using thermometers
+4. Turn on the Bunsen and start the stopwatch
+5. When the stopwatch hits 5 minutes, TUrn off the bunsen and measure the ending temperature.
