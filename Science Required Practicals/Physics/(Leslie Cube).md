@@ -8,8 +8,9 @@
 - Dependant
 	- Temperature in °C
 - Control
-	- Distance the Infra-red thermometer / detector is held
+	- Distance the Infra-red thermometer is held
 
 ### Method
-1. Fill the Leslie Cube with hot water from a kettle and wait 5 minutes
-2. After 5 minutes , use the infra-red detector to record the temperature of each side, being `White, Matte Black, Shiny Copper and Shiny Steel`
+1. Fill the Leslie Cube (on top ) with hot water from a kettle and wait 5 minutes
+2. After 5 minutes , use the infra-red thermometer to record the temperature of each side, being `White, Matte Black, Shiny Copper and Shiny Steel` keeping an equal distance from each side.
+3. Record the results
