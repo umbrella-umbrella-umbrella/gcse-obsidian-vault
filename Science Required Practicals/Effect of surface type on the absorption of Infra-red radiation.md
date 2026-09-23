@@ -12,12 +12,13 @@
 - Control
 	- Distance of Test Tube to the Bunsen
 
-### Conclusion:
-- Darker colours absorb more infra-red radiation that lighter colours.
-
 ### Method:
 1. Prepare the equipment shown in the diagram
 2. Wear safety goggles
 3. Measure the starting temp of both test tubes using thermometers
 4. Turn on the Bunsen and start the stopwatch
-5. When the stopwatch hits 5 minutes, TUrn off the bunsen and measure the ending temperature.
+5. When the stopwatch hits 5 minutes, turn off the Bunsen and measure the ending temperature
+6. Record results
+
+### Conclusion:
+- Darker colours absorb more infra-red radiation that lighter colours.
