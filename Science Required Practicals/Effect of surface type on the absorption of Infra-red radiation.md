@@ -12,4 +12,8 @@
 - Control
 	- Distance of Test Tube to the Bunsen
 
-Concl
+### Conclusion:
+- Darker colours absorb more infra-red radiation that lighter colours.
+
+### Method:
+1. Prepare the qu
