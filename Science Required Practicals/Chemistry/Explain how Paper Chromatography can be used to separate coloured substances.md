@@ -8,3 +8,8 @@
 7. Measure the distance in mm between the two pencil lines. This is the distance travelled by the water solvent. Write the same distance in the table below for each colouring.
 8. For each of the four known colours measure the distance in mm from the bottom line to the centre of each spot. Write each measurement in the table.
 
+### Equipment List
+- Beaker
+- Glass Rod
+- Rectangle of Chromatography Paper
+- 4 Known Food Colou
