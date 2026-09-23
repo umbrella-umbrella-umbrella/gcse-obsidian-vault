@@ -3,7 +3,7 @@
 - Independant
 	- 
 - Dependant
-	- 
+	- The distance 
 - Control
 	- 
 ### Method:
