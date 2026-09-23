@@ -5,5 +5,11 @@
 | Silver    | 20         | 22       | 2           |
 
 ### Variables:
-- Independant
+- Independent
 	- Type of test tube
+- Dependant
+	- Temperature change, and at the start / end
+- Control
+	- Distance of Test Tube to the Bunsen
+
+Concl
