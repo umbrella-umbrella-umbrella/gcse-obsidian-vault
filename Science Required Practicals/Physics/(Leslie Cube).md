@@ -4,8 +4,9 @@
 
 ### Variables: 
 - Independant
-	- Temperature in °
+	- Material on the "Leslie" cube
 - Dependant
-	- 
+	- Temperature in °C
 - Control
-	- 
+	- Distance the Infra-red thermometer / detector is held
+
