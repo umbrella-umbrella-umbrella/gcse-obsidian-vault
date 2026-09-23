@@ -1,6 +1,6 @@
 # The "Leslie" Cube
 
-![[Pasted image 20260923190158.png]]
+![[(Image) Leslie Cube.png]]
 
 ### Variables
 - *Independent*
@@ -16,9 +16,9 @@
 3. Record the results
 
 ### Equipment List
-- Leslie Cube
-- Heat-proof mat
-- Infra-red thermometer
+- *Leslie Cube*
+- *Heat-proof mat*
+- *Infra-red thermometer*
 
 ### Results
 
