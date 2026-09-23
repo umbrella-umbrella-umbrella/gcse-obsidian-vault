@@ -20,6 +20,9 @@
 - Heat-proof mat
 - Infra-red thermometer
 
-|     |     |
-| --- | --- |
-|     |     |
+| Side of Cube | Temperature (°C) |
+| ------------ | ---------------- |
+|              | 63               |
+|              | 65               |
+| Matte Black  | 78               |
+| Shiny Copper | 28               |
