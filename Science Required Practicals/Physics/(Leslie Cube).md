@@ -12,4 +12,4 @@
 
 ### Method
 1. Fill the Leslie Cube with hot water from a kettle and wait 5 minutes
-2. After 5 minutes , use the infra-red detector to record th
+2. After 5 minutes , use the infra-red detector to record the temperature of each side, being `White, Matte Black, Shiny Copper and Shiny Steel`
