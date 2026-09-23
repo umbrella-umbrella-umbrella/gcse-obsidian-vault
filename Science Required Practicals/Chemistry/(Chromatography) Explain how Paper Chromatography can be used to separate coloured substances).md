@@ -1,10 +1,10 @@
 
 ### Variables:
-- Independant
+- *Independant*
 	- The Food Colouring
-- Dependant
+- *Dependant*
 	- Distance in mm from the bottom line to the centre of each spot
-- Control
+- *Control*
 	- Solvent
 	- Amount of Solvent
 	- Time we let the Solvent to travel
