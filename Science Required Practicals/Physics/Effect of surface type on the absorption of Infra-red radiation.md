@@ -3,6 +3,7 @@
 | --------- | ---------- | -------- | ----------- |
 | Black     | 20         | 26       | 6           |
 | Silver    | 20         | 22       | 2           |
+
 ![[(Image) Effect of surface type on the absorption of Infra-red radiation.png|321]]
 ### Variables:
 - *Independent*
