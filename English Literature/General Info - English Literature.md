@@ -28,4 +28,6 @@
 ## Key for Band 5 / Grade 9
 - Focused
 - (For a theme) Talk about multiple viewpoints / ways it can be interpreted
-- Be intentional with each word 
+- Be intentional with each word + quotation
+
+Conclusions aren't really necessary, but are used to "round off" your essay. You can still get a Grade 9 without them.
