@@ -19,9 +19,9 @@
 - Networking
 - Databases
 
-### Tools and Features
+### Features of Cloud Computing
 
-| Features                              | Explanation                                                                                                     |
+| Features of Cloud Computing           | Explanation                                                                                                     |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Online Applications                   | Cloud computing delivers software and services through a browser or app instead of needing local installation.  |
 | Consistency of versions between users | All users automatically work with the latest version of software and files, avoiding compatibility issues.      |
