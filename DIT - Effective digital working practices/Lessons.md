@@ -15,7 +15,7 @@
 [[C1 L15 Shared data]]
 [[C1 L16 Environmental impact]]
 [[C2 L17 Equal access to IT]]
-[[C2 L18 Social and Business boundaries]]
+[[C2 L18 Social and business boundaries]]
 [[C2 L19 Respecting data and technology]]
 [[C2 L20 Intellectual property]]
 
