@@ -20,9 +20,9 @@
 
 | Implications for using cloud technologies | Explanation                                                                                                                                                                 |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|                                           | If policies aren’t aligned, downtime could be longer, data could be lost, or recovery may cost more than expected.                                                          |
-|                                           | Poor security controls or unclear data storage locations could result in breaches, fines, or reputational damage.                                                           |
-|                                           | If compatibility isn’t considered, organisations may face high<br>costs in re-training, migrating systems, or adapting processes.                                           |
-|                                           | Saves time and resources, but organisations lose some direct control and must trust the provider.                                                                           |
-|                                           | Cloud enables rapid scalability and flexibility, but it might encourage organisations to adopt solutions without fully assessing long-term costs or integration challenges. |
-|                                           | Poor performance can frustrate staff, reduce productivity, and limit adoption of cloud systems. Organisations must balance local and cloud resources.                       |
+| Disaster recovery policies                | If policies aren’t aligned, downtime could be longer, data could be lost, or recovery may cost more than expected.                                                          |
+| Security of Data                          | Poor security controls or unclear data storage locations could result in breaches, fines, or reputational damage.                                                           |
+| Compatibility                             | If compatibility isn’t considered, organisations may face high costs in re-training, migrating systems, or adapting processes.                                              |
+| Maintenance                               | Saves time and resources, but organisations lose some direct control and must trust the provider.                                                                           |
+| Fast/Efficient service                    | Cloud enables rapid scalability and flexibility, but it might encourage organisations to adopt solutions without fully assessing long-term costs or integration challenges. |
+| Performance                               | Poor performance can frustrate staff, reduce productivity, and limit adoption of cloud systems. Organisations must balance local and cloud resources.                       |
