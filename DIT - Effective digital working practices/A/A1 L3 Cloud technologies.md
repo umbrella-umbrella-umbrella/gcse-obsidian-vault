@@ -1,4 +1,4 @@
-# Cloud Technologies
+# Cloud technologies
 - Cloud Systems are software, and data that are stored and run over the internet on the provider's servers
 
 | Cloud System features    | Explanation                                                                                       |
@@ -10,6 +10,7 @@
 ### Traditional Systems
 - Where software and data are installed and stored locally (on your own computer or organisation's servers)
 
-### How do traditional and cloud systems wor
-- Where software and data are installed and stored locally (on your own computer or organisation's servers)
+### How do traditional and cloud systems work together?
+- It is possible to move from Office Online to the full desktop version.
 
+# Choosing cloud technologies

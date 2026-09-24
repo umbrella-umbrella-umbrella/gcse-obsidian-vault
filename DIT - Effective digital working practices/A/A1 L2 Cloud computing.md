@@ -1,4 +1,4 @@
-# Cloud Storage
+# Cloud storage
 - Cloud Storage is a wat of saving data on the internet instead ofdirectly on a physical device like a hard drive or USB stick
 
 ### Features of Cloud Storage
@@ -19,7 +19,7 @@
 - Networking
 - Databases
 
-### Features of Cloud Computing
+### Features of cloud computing
 
 | Features of Cloud Computing           | Explanation                                                                                                     |
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------------- |

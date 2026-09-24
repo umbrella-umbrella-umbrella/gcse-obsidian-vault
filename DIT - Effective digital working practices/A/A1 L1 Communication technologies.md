@@ -10,7 +10,7 @@
 | Open Wi-Fi | - A Wi-Fi network without a password<br>- Devices connect directly to the access point.                                                                                                                                |
 | ---------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Tethering  | - This is known as a personal hotspot.<br>- A smartphone shares its mobile data connection with<br>other devices via Wi-Fi, Bluetooth, or USB.<br>- Devices connect directly to the smartphone instead of<br>a router. |
-# Network Security
+# Network security
 
 ### Security Issues
 - **Security issues** threaten safety and privacy of data, especially the use of open networks.
@@ -30,7 +30,7 @@
 - Public Wi-Fi is convenient but often not secure, hackers can intercept data sent over the network. 
 - A VPN (Virtual Private Network) encrypts your internet traffic, making it unreadable to others on the same network
 
-# Network Performance
+# Network performance
 
 ### Performance Issues
 - Performance issues affect the speed, reliability, and usability of the network and in particular, ad hoc networks
@@ -46,7 +46,7 @@ Impact on digital devices
 - You may use up the monthly data limit. 
 - Difficult to monitor signal strength
 
-# Network Availability
+# Network availability
 - Network availability varies depending on location, infrastructure, and coverage
 
 | Rural vs City Locations                                                                                                                                          | Developed vs Developing Countries                                                                                                                                            | Available Infrastructure                                                                      | Mobile Network Coverage                                                                                                     |
