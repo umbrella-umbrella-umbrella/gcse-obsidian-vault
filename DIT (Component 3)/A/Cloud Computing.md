@@ -4,8 +4,9 @@
 ### Features of Cloud Storage
 
 
-| Setting and Sharing of acces rights             | Control who can view,<br>edit, or comment on<br>files.        |
-| ----------------------------------------------- | ------------------------------------------------------------- |
-| Synchronisation of cloud and individual devices | Automatically updates<br>files across all linked<br>devices.  |
-| Availability (24/7)                             | Files can be accessed<br>anytime, anywhere<br>with internet.  |
-| Scalability                                     | Users can rent more<br>storage or reduce it to<br>save money. |
+| Features of Cloud Storage                             |                                                               | Examples |
+| ----------------------------------------------------- | ------------------------------------------------------------- | -------- |
+| Setting and sharing of<br>access rights               |                                                               |          |
+| Synchronisation of<br>cloud and individual<br>devices |                                                               |          |
+| Availability (24/7)                                   |                                                               |          |
+| Scalability                                           | Users can rent more<br>storage or reduce it to<br>save money. |          |
