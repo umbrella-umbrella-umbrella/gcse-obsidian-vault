@@ -1,6 +1,7 @@
 Exam Board = Eduqas
-Shakespeare Text = Romeo and Juliet
-
+Shakespearean Text = Romeo and Juliet
+Modern Drama = Blood Brothers
+19th Century Text 
 
 ## Overview
 1. **Academic Opening** - 3 adjectives (e.g, Romeo - *Amorous, Passionate and Impulsive*)
