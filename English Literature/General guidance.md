@@ -5,8 +5,8 @@
 4. Summary of the Poem / Question Subject throughout the text
 
 - Example:
-	- (Romeo and Juliet)
-	  Heart-breaking, fateful and all-consuming, love is presented in Shakespeare's Romeo and Juliet as the driving force behind many of the character's actions and motivations. Through the play, love is seen
+	- (Romeo and Juliet - Theme of Love)
+	  Heart-breaking, fateful and all-consuming, love is presented in Shakespeare's Romeo and Juliet as the driving force behind many of the character's actions and motivations. Throughout the play, love is seen as ties with hate and violence, suggesting that love is an equally violent emotion that when we refuse to "love moderately" can be destructive.
 
 ## Spot, Comment, Zoom Structure:
 1. **Signpost**
