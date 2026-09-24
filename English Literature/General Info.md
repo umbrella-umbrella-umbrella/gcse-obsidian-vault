@@ -1,3 +1,7 @@
+Exam Board = Eduqas
+Shakespeare Text = Romeo and Juliet
+
+
 ## Overview
 1. **Academic Opening** - 3 adjectives (e.g, Romeo - *Amorous, Passionate and Impulsive*)
 2. Question Focus
@@ -7,6 +11,7 @@
 - Example:
 	- (Romeo and Juliet - Theme of Love)
 	  Heart-breaking, fateful and all-consuming, love is presented in Shakespeare's Romeo and Juliet as the driving force behind many of the character's actions and motivations. Throughout the play, love is seen as ties with hate and violence, suggesting that love is an equally violent emotion that when we refuse to "love moderately" can be destructive.
+	- (Poetry Anthology 2027)
 
 ## Spot, Comment, Zoom Structure:
 1. **Signpost**
