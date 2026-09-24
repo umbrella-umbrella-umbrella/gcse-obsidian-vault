@@ -1,4 +1,4 @@
-﻿# Hacking
+# Hacking
 - **Hacking** means gaining unauthorised access to a computer system, network, or data.
 - Hacking can be harmful, neutral, or beneficial, such as finding vulnerabilities so security can be improved.
 
