@@ -1,4 +1,4 @@
-# Social and business boundaries
+﻿# Social and business boundaries
 - Blurring social and business boundaries means the lines between personal life and professional life become less separate or clearly defined.
 
 ### How technology contributes
@@ -7,5 +7,7 @@
 - These tools can make it harder to keep work and personal lives separate.
 
 ### Possible effects
-- **Positive:** Flexibility, stronger relationships and networking, new work opportunities, improved collaboration, professional learning, and personal branding.
-- **Negative:** Burnout and over-availability, work-life imbalance, privacy and surveillance concerns, blurred professionalism, misinterpretation of tone online, reputational damage, and productivity issues.
+
+| Positive effects | Negative effects |
+| --- | --- |
+| Flexibility; stronger relationships and networking; new work opportunities; improved collaboration; professional learning and development; personal branding. | Burnout and over-availability; work-life imbalance; privacy and surveillance concerns; blurred professionalism; misinterpretation of tone online; reputational damage; productivity issues. |

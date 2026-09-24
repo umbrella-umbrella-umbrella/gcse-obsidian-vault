@@ -1,19 +1,23 @@
-# Denial of service attacks
+﻿# Denial of service attacks
 - A **cyber attack** is an attempt to damage or disrupt a computer system, network, or device, or gain unauthorised access to it or its data.
 - Reasons for cyber attacks can include fun or challenge, industrial espionage or financial gain, personal attacks, disruption, and information theft.
 
 ### Types of cyber security threat
-- Denial of Service (DoS)
-- Hacking
-- Malware
-- Social engineering
-- Data interception
+
+| Threat | Description |
+| --- | --- |
+| Denial of Service (DoS) | Overwhelms a service or network to disrupt its operation. |
+| Hacking | Attempts to gain unauthorised access. |
+| Malware | Malicious software that can harm systems or data. |
+| Social engineering | Manipulates people into revealing information or enabling access. |
+| Data interception | Captures data as it is transmitted. |
 
 ### Possible effects of a cyber attack
-- Data may be lost, stolen, deleted, or corrupted; privacy may be lost and people may face fraud or identity theft.
-- Systems may become unreliable or unavailable, causing downtime and reduced productivity.
-- Organisations may suffer financial loss, legal action, and damage to their public image or customer trust.
-- Individuals may experience financial harm, a damaged credit rating, or emotional distress.
+
+| Individuals | Organisations |
+| --- | --- |
+| Data loss, loss of privacy, fraud, or identity theft. | Data loss or corruption, downtime, and reduced productivity. |
+| Financial harm, damaged credit rating, or emotional distress. | Financial loss, legal action, and damage to public image or customer trust. |
 
 ### Denial of Service (DoS)
 - A **DoS attack** attempts to disrupt a server, service, or network by overwhelming it with a flood of internet traffic.

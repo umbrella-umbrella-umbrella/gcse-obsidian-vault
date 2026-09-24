@@ -1,4 +1,4 @@
-# Modern teams
+﻿# Modern teams
 - A modern team works together using contemporary methods and tools to achieve shared goals, often in a flexible, collaborative, technology-driven way.
 
 ### Features of modern teams
@@ -11,6 +11,7 @@
 | 24/7/365 work | Teams in different time zones can provide continuous service by handing work between regions. |
 
 ### Managing modern teams
+
 | Tool type | Purpose |
 | --- | --- |
 | Collaboration | Supports shared tasks, documents, and projects. |
