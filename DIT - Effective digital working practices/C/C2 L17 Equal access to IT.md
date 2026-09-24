@@ -1,4 +1,4 @@
-﻿# Equal access to IT
+# Equal access to IT
 - **Equal access to IT** means everyone has a fair and reasonable opportunity to use digital technology, online services, and information systems.
 - When people are excluded, a **digital divide** is created: the gap between people with access to digital technologies, fast internet, and digital skills and those without them.
 
