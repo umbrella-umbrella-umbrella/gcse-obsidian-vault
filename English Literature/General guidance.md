@@ -6,6 +6,7 @@
 
 - Example:
 	- (Romeo and Juliet)
+	  Heart-breaking, fateful and all-consuming, love is presented in Shakespeare's Romeo and Juliet as the driving force behind many of the character's actions and motivations. Through the play, love is seen
 
 ## Spot, Comment, Zoom Structure:
 1. **Signpost**
