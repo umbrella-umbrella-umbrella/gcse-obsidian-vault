@@ -1,4 +1,4 @@
-﻿# Internal threats
+# Internal threats
 - An **internal threat** (or insider threat) is a security risk that comes from within an organisation rather than from external attackers.
 - People who may create an internal threat include employees, students, contractors, volunteers, and temporary staff who already have authorised access.
 

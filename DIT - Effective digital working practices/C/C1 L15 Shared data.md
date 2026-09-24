@@ -1,4 +1,4 @@
-﻿# Shared data
+# Shared data
 - **Shared data** is information passed between two or more systems, organisations, apps, or services rather than kept by just one.
 - It may be shared to improve services, coordination, security, or analysis. It may be personal data or service/system data.
 

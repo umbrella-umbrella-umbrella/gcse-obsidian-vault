@@ -1,4 +1,4 @@
-﻿# Denial of service attacks
+# Denial of service attacks
 - A **cyber attack** is an attempt to damage or disrupt a computer system, network, or device, or gain unauthorised access to it or its data.
 - Reasons for cyber attacks can include fun or challenge, industrial espionage or financial gain, personal attacks, disruption, and information theft.
 
