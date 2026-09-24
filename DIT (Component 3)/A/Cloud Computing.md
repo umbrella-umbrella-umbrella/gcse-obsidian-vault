@@ -9,3 +9,7 @@
 | Synchronisation of cloud and individual devices | Automatically updates files across all linked devices.  | Dropbox synchronises files on a laptop, phone, and tablet so changes appear everywhere. |
 | Availability (24/7)                             | Files can be accessed anytime, anywhere with internet.  | iCloud allows users to access documents or photos from any Apple device at any time.    |
 | Scalability                                     | Users can rent more storage or reduce it to save money. | OneDrive offers 5 GB free<br>storage, with paid plans up to 1 TB.                       |
+# Cloud Computing
+- Cloud Computing is the delivery of computing services over the internet instead of relying on local computers or servers
+
+### Services provided by Cloud Computing
