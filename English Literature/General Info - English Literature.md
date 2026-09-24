@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!Exam Info]
 > Exam Board = Eduqas
 > Shakespearean Text = Romeo and Juliet
 > Poetry Anthology = For Exams in 2027
@@ -24,3 +24,6 @@
 5. Any Extras (Authorial intent, audience response(+ modern vs at the time), link to context, structure note)
 
 - You want 5 of these in an essay
+
+## Key for Band 5 / Grade 9
+- 
