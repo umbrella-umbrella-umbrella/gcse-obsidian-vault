@@ -2,17 +2,21 @@
 - A modern team works together using contemporary methods and tools to achieve shared goals, often in a flexible, collaborative, technology-driven way.
 
 ### Features of modern teams
-- **World teams:** People collaborate across geographical locations. For example, a London marketing agency can work with video editors in Canada and writers in South Africa using Zoom and shared Google Docs.
-- **Multicultural teams:** Team members from different cultures work together. Communication tools such as Slack and translation plugins can help.
-- **Inclusivity:** Tools and working practices should accommodate members' needs, such as screen readers and live captions.
-- **24/7/365 work:** Teams in different time zones can provide continuous service by handing work between regions.
+
+| Feature | Description and example |
+| --- | --- |
+| World teams | People collaborate across locations. A London marketing agency could work with video editors in Canada and writers in South Africa using Zoom and shared Google Docs. |
+| Multicultural teams | Members from different cultures work together; Slack and translation plugins can help. |
+| Inclusivity | Tools and practices accommodate members' needs, such as screen readers and live captions. |
+| 24/7/365 work | Teams in different time zones can provide continuous service by handing work between regions. |
 
 ### Managing modern teams
-- Collaboration tools support shared tasks, documents, and projects.
-- Communication tools keep members connected and help them share updates and ideas.
-- Scheduling tools organise meetings across time zones and set reminders.
-- Planning tools assign tasks and track progress. Monday.com is an example used to track timelines and responsibilities.
-- Planning tools help visualise deadlines, identify delays, and spot resource issues.
+| Tool type | Purpose |
+| --- | --- |
+| Collaboration | Supports shared tasks, documents, and projects. |
+| Communication | Keeps members connected and helps them share updates and ideas. |
+| Scheduling | Organises meetings across time zones and sets reminders. |
+| Planning | Assigns tasks, tracks progress, visualises deadlines, and helps identify delays or resource issues. Monday.com is one example. |
 
 ### Stakeholders
 - A stakeholder is a person, group, or organisation with an interest in or affected by a project, business, or organisation.
