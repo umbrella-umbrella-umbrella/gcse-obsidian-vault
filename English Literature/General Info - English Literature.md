@@ -26,4 +26,6 @@
 - You want 5 of these in an essay
 
 ## Key for Band 5 / Grade 9
-- 
+- Focused
+- (For a theme) Talk about multiple viewpoints / ways it can be interpreted
+- Be intentional with each word 
