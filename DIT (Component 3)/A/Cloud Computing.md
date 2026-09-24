@@ -13,3 +13,10 @@
 - Cloud Computing is the delivery of computing services over the internet instead of relying on local computers or servers
 
 ### Services provided by Cloud Computing
+- Storage (e.g Google Drive)
+- Applications (e.g Office 365)
+- Processing Power (e.g Amazon Web Services)
+- Networking
+- Databases
+
+### Tools a
