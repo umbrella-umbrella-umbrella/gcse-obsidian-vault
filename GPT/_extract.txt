@@ -1,0 +1,2431 @@
+--- PAGE 1 ---
+08/09/2025 1
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+A1: Communication technologies
+Key terms:
+Ad hoc networks are temporary networks created without a 
+central router or access point. 
+Types of ad hoc networks
+Type Description
+Open Wi-Fi • A Wi-Fi network without a password.
+• Devices connect directly to the access point.
+Tethering • This is known as a personal hotspot. 
+• A smartphone shares its mobile data connection 
+with other devices via Wi-Fi, Bluetooth, or USB.
+• Devices connect directly to the smartphone 
+instead of a router.
+Security and performance issues
+Security issues Performance issues
+Eavesdropping: Others can 
+intercept data sent over the 
+network.
+Man-in-the-middle attacks: 
+Hackers can intercept or modify 
+communications.
+Malware distribution: Devices can 
+be infected by malicious users on 
+the same network.
+Unauthorised access: Any device 
+can connect without 
+authentication, potentially 
+accessing shared ﬁles.
+Limited range: Wi-Fi hotspots 
+only cover a small area.
+Shared bandwidth: Multiple 
+devices using the same 
+connection can slow speeds.
+Interference: Other wireless 
+devices (microwaves, Bluetooth, 
+nearby networks) can reduce 
+performance.
+Device dependency: If the host 
+device (e.g., smartphone) moves 
+or loses power, the network is 
+disrupted.
+Network availability
+🌄
+ Rural vs City Locations 🌍
+ Developed vs Developing 
+Countries
+🏗
+ Available Infrastructure
+📡
+ Mobile Network Coverage
+--- PAGE 2 ---
+15/09/2025 2
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+A1: Cloud computing
+Key terms:
+Cloud storage is a way of saving data on the internet instead 
+of directly on a physical device like a hard drive or USB stick.
+Features of cloud storage
+Advantages and disadvantages of cloud services 
+Setting and sharing of access 
+rights
+Control who can view, edit, 
+or comment on ﬁles.
+Synchronisation of cloud and 
+individual devices
+Automatically updates ﬁles 
+across all linked devices.
+Availability (24/7) Files can be accessed 
+anytime, anywhere with 
+internet.
+Scalability Users can rent more storage 
+or reduce it to save money.
+Access data remotely (anywhere 
+with an internet connection.)
+Access to software remotely. 
+Encourages collaborative 
+working.
+Easy to increase the capacity (if 
+needed)
+Share data with other users in 
+other locations.
+Technical issues can cause 
+downtime. 
+Concerns over network security.
+Need a good internet 
+connection.
+Services provided by cloud 
+computing
+• Storage (e.g., Google Drive, 
+Dropbox)
+• Applications/Software (e.g., 
+Google Docs, Ofﬁce 365)
+• Processing power (e.g., Amazon 
+Web Services, Microsoft Azure)
+• Networking
+• Databases
+--- PAGE 3 ---
+15/09/2025 3
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+A1: Cloud computing
+Key terms:
+Cloud computing is the delivery of computing services over 
+the internet instead of relying on local computers or servers. 
+Tools and features
+Platforms and services
+Online applications Cloud computing delivers software 
+and services through a browser or app 
+instead of needing local installation.
+Consistency of 
+version between 
+users 
+All users automatically work with the 
+latest version of software and ﬁles, 
+avoiding compatibility issues.
+Single shared 
+instance of a ﬁle
+A ﬁle stored in the cloud has one 
+central version, so users don’t have to 
+send multiple copies back and forth.
+Collaboration 
+tools/features
+Cloud platforms include features like 
+live editing, comments, chat, and task 
+assignment.
+The platform or service chosen affects how people access, use, and 
+beneﬁt from cloud technologies. The right choice depends on the 
+balance between features, cost, usability, and device compatibility.
+Number and Complexity of 
+Features
+A platform with many advanced 
+features may be powerful but 
+harder for beginners to use. 
+Simpler services may be easier 
+but limited.
+Paid-for Versus Free
+ Free services usually have limited 
+storage, fewer features, or ads. 
+Paid services offer more capacity, 
+advanced tools, and better 
+support.
+Interface Design
+A well-designed interface 
+improves usability and 
+accessibility. Poor design or 
+device restrictions can make a 
+platform frustrating.
+. Available Devices
+The usefulness of a cloud service 
+depends on whether it supports 
+the devices users have (PC, Mac, 
+tablet, phone, Chromebook).
+
+--- PAGE 4 ---
+29/09/2025 4
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+A1: Cloud technologies
+Key terms:
+Cloud systems are software, and data are stored and 
+run over the internet on the provider’s servers. 
+Features of cloud systems
+Implications for organisations when choosing cloud technologies
+Device 
+Synchronisation 
+Keeping ﬁles, apps, or settings the 
+same across multiple devices.
+Online/Ofﬂine 
+Working 
+Being able to work with or without 
+an internet connection, with 
+changes syncing when back 
+online.
+Notiﬁcations Real-time alerts across devices to 
+keep users updated.
+Disaster recovery policies
+Key terms:
+Traditional systems are software and data are installed 
+and stored locally (on your own computer or 
+organisation’s servers).
+Security of data
+Compatibility Maintenance 
+Fast/Efﬁcient service Performance
+How do traditional and 
+cloud systems work 
+together?
+It is possible to move from 
+Ofﬁce Online to the full 
+featured desktop version.
+Examples of traditional systems
+• Installing Microsoft Ofﬁce from a CD 
+onto a PC
+• Running payroll software on a 
+company’s own server.
+• Storing ﬁles on a school’s local server
+--- PAGE 5 ---
+1
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B1: Threats to data
+FirewallKey terms:
+A denial of service (DoS) attack is a malicious attempt to 
+disrupt the normal functioning of a targeted server, service, 
+or network by overwhelming it with a ﬂood of internet trafﬁc. 
+How to identity/prevent a denial-of-service attack
+• Firewalls
+• Access rights & permissions (limits exposed services)
+• Anti-virus / malware software (prevents botnet 
+infections)
+• Secure backups (mitigates disruption to services)
+• Usernames & passwords (prevents unauthorised access 
+to servers
+Impact
+• Flooding servers with trafﬁc.
+• Exhausting system resources (CPU, RAM, bandwidth).
+• Crashing services.
+Key terms:
+A ﬁrewall is a security system that monitors and controls the trafﬁc 
+entering and leaving a computer or network.
+How does a ﬁrewall keep 
+devices and data secure?
+• Firewalls stop attackers 
+from accessing internal 
+computers or servers.
+• Prevents malware 
+entering the network 
+• Stops unauthorised 
+outgoing trafﬁc If a device 
+becomes infected.
+• Protects 
+personal/organisation 
+data
+How can a ﬁrewall mitigate security 
+risks?
+• Prevents unauthorised access.
+• Reduces the attack surface (Only 
+necessary ports and services are 
+allowed, making the network 
+harder to attack.)
+• Protects from DoS attacks (to 
+some extent) 
+• Stops internal threats spreading
+• Helps enforce organisational 
+policies.
+• Works with other security tools
+--- PAGE 6 ---
+2
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B1: Threats to data
+Different types of hackers
+Key terms:
+Hacking refers to the act of gaining unauthorised access to a 
+computer system, network, or data.
+What are the reasons for hacking?
+• Harmful (stealing data, causing damage),
+• Neutral
+• Beneﬁcial (ﬁnding vulnerabilities to improve security).
+White hat hacker
+To improve security 
+by ﬁnding and ﬁxing 
+vulnerabilities
+Black hat hacker
+To exploit systems 
+for personal gain, 
+crime, or malicious 
+intent
+Grey hat hacker
+To explore systems 
+and identify ﬂaws, 
+sometimes without 
+permission
+Penetration testing, is a method of evaluating the security 
+by simulating a cyber-attack using ethical hackers.
+What does it prevent or limit?
+Identifying and securing weak points
+ It helps to prevent data breaches
+How does it limit attacks?
+Identify vulnerabilities
+Enhance training and awareness
+Validate use of ﬁrewalls
+--- PAGE 7 ---
+3
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B1: Threats to data
+Key terms
+Malware (short for malicious software) is any software 
+intentionally designed to cause damage, disrupt operations, steal 
+information, or gain unauthorised access to computer systems, 
+networks, or devices.
+ 
+Types of malware
+What is the purpose of this 
+attack?
+• Stealing sensitive 
+information
+• Financial gain
+• Disruption to services
+• Gain control
+• Unauthorised access to 
+systems
+• Spreading other 
+malware
+🦠
+ Viruses: A computer program that can copy itself onto other 
+programs often with the intention of maliciously damaging data. 
+Transmitted by 'piggybacking' on another program known as a 
+'vector' . 
+Trojan horse: This malware pretends to be harmless but contains 
+harmful code. It tricks users into activating it, allowing 
+unauthorised activities. 
+🐴
+Ransomware: Software that will restrict the access of data or 
+systems to the user unless a ransom is paid. This is often done 
+through encryption, blocking, or locking the data. 
+💰
+Worms: Malware, like a virus, but is a standalone program that 
+replicates itself to spread to other computers. ??
+Spyware: Malware that secretly monitors a user's activities, 
+collecting information without user consent or knowledge. Usually 
+installed by opening attachments or downloading infected 
+software. 
+󰡷
+Types of malware
+Botnet: A group of infected 
+computers that are remotely 
+controlled by a cybercriminal.
+🤖
+Pharming: Pharming is a cyberattack that redirects users from a 
+legitimate website to a fake one without their knowledge🌀
+Rootkit: Designed to hide itself 
+and other malware on a 
+computer, giving an attacker 
+hidden, long-term control over 
+the system and making detection 
+extremely difﬁcult.
+🛡
+
+--- PAGE 8 ---
+4
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B1: Threats to data
+Key terms
+Social engineering is a manipulation technique that deceives 
+individuals into divulging conﬁdential information.
+ 
+Social engineering techniques
+What is the purpose of this attack?
+• Gather sensitive information
+• Unauthorised access to systems
+• Fraud and ﬁnancial gain
+• Disrupt operations
+• Damage individuals/organisations 
+reputation
+Phishing: Gathering information from a recipient of a text, 
+email or phone call by pretending to be a legitimate 
+company. 
+Pretexting: The act of setting up the context of a ﬁctious 
+story to make the user more likely to believe a phishing 
+attack scenario. 
+Baiting: The act of luring a recipient into giving out 
+information or installing malware by clicking on or 
+installing software by giving an incentive. 
+Quid pro quo: The act of convincing the recipient to give 
+information not for ﬁnancial gain or because they will 
+receive something.
+Scareware: Tricks users by showing fake warning 
+messages that claim the device is infected, pressuring 
+them into downloading harmful software.
+How to prevent being a 
+victim of social 
+engineering.
+• Passwords
+• Multi-factor 
+authentication
+• User access levels
+• Secure by design
+Indicators of a phishing email
+• Attachment of a html ﬁle – could be a virus.
+• Not personalised – dear customer
+• Pressurising language – your account has been restricted.
+• Incorrect spelling – the word ‘please’ .
+• Different time zone
+🎣
+??
+??
+ 
+🔄
+ 
+??
+Shoulder-surﬁng: Someone watches over your shoulder 
+to steal sensitive information like PINs, passwords, or 
+messages.
+??
+--- PAGE 9 ---
+5
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B1: Threats to data
+Key terms
+An internal threat (or insider threat) in the context of 
+cybersecurity is a risk that comes from within an organisation, 
+rather than from external attackers like hackers or criminal 
+groups.
+Types of internal threats
+What counts as an internal threat?
+An internal threat is caused by 
+people who already have authorised 
+access to a system, such as:
+• Employees
+• Students
+• Contractors
+• Volunteers
+• Temporary staff
+Unintentional disclosure of data: When a user accidentally shares 
+sensitive information without meaning to, often due to human 
+error or lack of awareness.
+Intention stealing or leaking of information : When an employee 
+deliberately takes, copies, or shares conﬁdential data for personal 
+gain or malicious reasons.
+Users overriding security controls: When users disable or bypass 
+security features because they see them as inconvenient.
+Use of portable storage devices: Portable devices such as USB 
+sticks can introduce malware or be lost, exposing sensitive data.
+Downloads from the internet: Downloading ﬁles from unveriﬁed 
+sources can introduce malware or spyware into a system.
+Why are internal 
+threats dangerous?
+• Insiders already 
+have access 
+permissions
+• Their actions may 
+not trigger security 
+alerts
+• They understand 
+how systems work
+• Damage can happen 
+quickly and quietly Visiting untrustworthy websites: Malicious websites may install 
+malware automatically or trick users into giving away personal 
+information.
+??
+??♂
+🚫
+💾
+⬇
+⚠
+
+--- PAGE 10 ---
+1
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B2 Prevention and management of threats to data
+Key terms
+User access restriction means limiting what users are allowed to 
+see, do, or change within a system, based on who they are and 
+what they need to do.
+User access restriction methods
+Physical security measures (locks): Prevent unauthorised physical 
+access to buildings, rooms, or devices by using locks, key cards, or 
+security barriers.
+Biometrics: Use unique physical characteristics (such as 
+ﬁngerprints or facial recognition) to identify users.
+User access levels: To ensure users only have access to the 
+information and features necessary for their roles.
+Passwords: To restrict access to systems and protect user 
+accounts.
+Secure backups: To enable data recovery after loss, corruption, or 
+attack.
+Two-factor authentication: To enhance security by requiring more 
+than one method of identity veriﬁcation.📲
+💾
+??
+??
+🔏
+Why restrict user access?
+• Users are given permissions or access levels
+• Access is usually based on roles (e.g. admin, teacher, student, 
+employee)
+• It helps keep data secure and systems safe
+What makes a strong password?
+🔹
+ At least 12+ characters
+🔹
+ Mix of uppercase, lowercase, numbers, and symbols
+🔹
+ No common words or personal information
+🔹
+ Change regularly
+🔹
+ Don’t reuse across accounts
+??
+--- PAGE 11 ---
+2
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B2 Prevention and management of threats to data
+Key terms
+Data level protection is a security approach that focuses on 
+protecting the data itself, rather than just the systems, devices, or 
+networks that store or transmit it.
+Data level protection methods
+Encryption: To protect data by converting it into 
+unreadable code without a decryption key.
+Anti-virus software: To detect, block, and remove 
+malicious software such as viruses or ransomware.
+Firewalls: To ﬁlter network trafﬁc and prevent 
+unauthorised access to internal systems.
+Device hardening: Securing a device by reducing 
+vulnerabilities and removing unnecessary features that 
+attackers could exploit.
+Software and interface design: How programs are 
+designed to protect users and their data through the way 
+they look and behave.
+🔥
+??
+🔏
+What does this mean?
+It ensures that even if 
+someone gains access 
+to a system, the data 
+remains secure and 
+unreadable unless they 
+are authorised.
+Why is data level protection 
+important?
+• Protects sensitive and personal 
+data
+• Helps organisations comply with 
+laws like GDPR
+• Reduces damage from data 
+breaches
+• Supports secure data sharing 
+across different systems and 
+devices
+Examples of software 
+and interface design
+• Autocomplete
+• Stay logged on
+• Obscuring data entry
+🛠
+🖥
+
+--- PAGE 12 ---
+1
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+B3: Policy
+Key terms
+A security policy is a set of written rules and guidelines that 
+explain how an organisation protects its data, systems, and users 
+from security threats.
+Disaster recovery plan
+Security policies
+Password policy
+A set of rules that explains how passwords should be created, 
+used, and protected to keep systems secure 
+Acceptable Use Policy (AUP)
+A document that explains how users are allowed to use an 
+organisation’s IT systems, internet, software, and devices, and 
+what behaviour is not permitted.
+Parameters for device hardening
+The security settings and conﬁgurations applied to devices to 
+reduce vulnerabilities and prevent unauthorised access.
+A documented plan that explains how an organisation will 
+restore systems, data, and normal operations after a serious 
+incident such as a cyber attack, data loss, or system failure.
+Who is 
+responsible 
+for what 
+Dos and 
+don’ts for 
+staff 
+Deﬁning the 
+backup 
+process 
+Timeline for 
+data 
+recovery
+Location 
+alternative 
+provision 
+Actions taken in response to an attack
+Investigate 
+(establish severity 
+and nature)
+Recover (disaster 
+recovery plan)
+Respond 
+(inform/update 
+stakeholders and 
+authorities)
+Analyse (update 
+policy and 
+procedures)
+Manage 
+(containment)
+
+--- PAGE 13 ---
+1
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+C1: Responsible use
+Key terms
+Shared data is data or information that is passed between two or more 
+systems, organisations, apps, or services instead of being kept by just one.
+Types of shared data
+Responsible use
+Location-based data
+Data that identiﬁes where a device or user is 
+geographically located.
+(e,g, GPS tracking, Wi-Fi location) 
+Cookies
+Small ﬁles stored on a device by a website to 
+remember preferences or track activity.
+(e.g. Remembering login details)
+Transactional data
+Data recorded when a user completes an action 
+or transaction.
+(e.g. Online purchases)
+Data exchange between services
+Data shared or transferred between different 
+systems or platforms.
+(e.g. Logging in with Google/Facebook)
+A privacy policy is a formal 
+document provided by a website, 
+app, organisation, or service that 
+explains:
+∙ what personal data is collected 
+about users
+∙ how that data is used
+∙ who it may be shared with
+∙ how it is stored and protected
+∙ what rights the user has over 
+their data
+Key points about shared data
+• It is shared for a reason (e.g., 
+improving services, coordination, 
+security, or analysis)
+• It may involve personal data (about 
+a person) or service / system data.
+• It must be handled securely, 
+legally, and responsibly. (e.g. 
+Privacy Policy)
+• Users should be aware of who their 
+data is shared with and why.
+• They have an impact on individual's 
+digital footprint. 
+--- PAGE 14 ---
+2
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+C1: Responsible use
+Key terms
+The increased manufacturing, use, and disposal of IT systems it had a signiﬁcant 
+impact on the environment. 
+ Impact of manufacturing, use, and disposal of IT 
+systems
+Replacing/Upgrading 
+digital devices
+E-Waste
+Discarded electronic devices such as 
+smartphones, computers, and televisions.
+Rare materials
+The manufacturing of digital devices requires a 
+variety of raw materials, including rare earth 
+metals.
+Energy consumption
+Digital devices and data centres consume 
+signiﬁcant amounts of electricity.
+• Does the current 
+system fail to meet 
+performance needs?
+• Can the 
+new/upgraded 
+system be integrated 
+into an existing one?
+• Will the 
+new/upgraded help 
+to keep data secure 
+and private?
+Usage and settings policies
+• Sleep after 10–15 minutes idle
+• Monitors power off after 5–10 minutes
+• Printers auto-sleep outside business hours.
+• Reduced screen brightness
+• Lower CPU performance when idle
+• Adaptive cooling / fan control
+• Avoid continuous 100% charging
+• Enable “battery health mode”
+• Encourage unplugging when fully charged
+• Use slow charging where possible
+--- PAGE 15 ---
+1
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+C2: Legal and Ethical
+Key terms
+Equal access to IT means that everyone has a fair and reasonable opportunity to use 
+digital technology, online services, and information systems.
+ Beneﬁts of equal access
+Legal requirements
+Individuals
+Access to education such as online learning
+Remote working
+Increased employment opportunities
+Access to healthcare
+Online banking
+Organisations
+Larger talent pool
+Improved productivity
+Better communication with customers
+More innovation and creativity
+Society
+Reduce inequality
+Support economic growth
+Improve educational standards
+Smarter and more connected communities
+Digital 
+Economy 
+Act
+To improve digital inclusion by 
+supporting universal access to 
+affordable broadband and 
+modern communications 
+services, helping reduce the 
+digital divide.
+Equality Act To protect individuals from 
+discrimination and ensure equal 
+access to services, employment, 
+and opportunities, including fair 
+access to digital and IT systems 
+through reasonable adjustments.
+Net Neutrality
+Net neutrality is the principle that 
+all internet trafﬁc should be 
+treated equally by internet service 
+providers (ISPs).
+Professional guidelines/accepted 
+standards
+The World Wide Web Consortium 
+(W3C) sets 
+internationally-recognised 
+accessibility standards.
+--- PAGE 16 ---
+2
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+C2: Legal and Ethical
+Key terms
+Blurring of social and business boundaries” refers to situations where the lines 
+between people’s personal (social) lives and their professional (work or business) 
+lives become less separate or clearly deﬁned.
+ Positive and negative impact
+Networking and career opportunities
+Professional learning and development
+Personal branding
+Negative (What happens when boundaries 
+become blurred)
+Damage to professional reputation
+Blurred personal–professional boundaries
+Privacy and security risks
+Productivity and performance issues
+Legal and ethical implications
+How does technology play a role?
+• Technology connects these 
+worlds so closely that they often 
+overlap.
+• This could be the use of 
+different digital devices.
+• Aswell as different applications 
+like websites such as social 
+media platforms. 
+• Digital tools and online 
+platforms mix people’s personal 
+and professional lives, making it 
+harder to keep them separate.
+ Why businesses use social media
+Marketing and promotion
+Customer engagement
+Brand image and identity
+Market research and insights
+Sales and e-commerce
+Recruitment
+Professional networking
+ Examples of digital systems
+Laptops, Smartphones, Desktop computers, 
+Tablets, Games consoles
+ Examples of social media
+Facebook, Instagram, TikTok, LinkedIn, 
+Twitter (X), Snapchat, Pinterest, Reddit. 
+--- PAGE 17 ---
+3
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+C2: Legal and Ethical
+Key terms
+Data protection refers to the legal and ethical frameworks 
+designed to safeguard personal information from 
+unauthorised access, misuse, or breaches. 
+ Data protection principles
+• Lawful processing  
+• Collected only for speciﬁc purpose  
+• Only needed information is collected  
+• Should be accurate  
+• Kept only as long as is necessary  
+• Data subject rights  
+• Protected  
+• Data not transferred to countries with less protection. 
+• The right to be forgotten (i.e. Individuals may request 
+their data to be deleted) 
+• Appropriate and legal use of cookies and other 
+transactional data. 
+Key terms
+Criminal use of computer systems” refers to situations where 
+computers, networks, or digital devices are used to carry out 
+activities that break the law. 
+ Examples of computer misuse
+Unauthorised access (Hacking)
+This is when someone accesses a 
+computer system, network, account, 
+or data without permission, even if 
+they don’t change or delete anything
+Unauthorised modiﬁcation of 
+materials
+This is when someone changes, 
+deletes, or damages data or 
+software without permission. This 
+includes actions that cause 
+disruption.
+Creation of malware
+This is when someone designs or 
+writes malicious software intended 
+to damage systems, steal data. spy 
+on users, disrupt services and gain 
+unauthorised access
+Intentional spreading of malware
+This is when someone deliberately 
+distributes malware to infect 
+computers or networks.
+The intent to cause harm or 
+disruption makes this illegal.
+--- PAGE 18 ---
+4
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+C2: Legal and Ethical
+Key terms:
+Intellectual property refers to creations of 
+the mind, such as inventions, literary and 
+artistic works, designs, symbols, names, 
+and images, used for commercial reasons.
+Why is intellectual property important to 
+organisations?
+• Protects assets and innovation
+• Maintains competitive advantage
+• Encourages creativity and investment
+• Generates income and business value
+• Reduces legal and ethical risks How is Intellectual Property protected?
+Copyright
+Trademarks
+Patents
+Trademarks
+Protect brand names, logos, 
+symbols, and slogans used in 
+commerce to distinguish goods or 
+services from others in the market.
+Patents
+Protect inventions and discoveries, 
+granting exclusive rights to their 
+creators for a limited period.
+Intellectual Property
+Copyright
+Protect original works such as 
+literary, artistic, musical, or 
+audiovisual works, granting 
+exclusive rights to reproduce, 
+distribute, and perform the work.
+Legal and ethical use of copyrighted material
+Creative commons licence
+A set of licenses that creators can use to 
+share their work with speciﬁc permissions 
+and conditions. 
+Permissions and Licences
+Legal agreements that grant speciﬁc 
+permissions or rights to use copyrighted 
+material.
+--- PAGE 19 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 1:
+Communication technologies
+Component 3: Effective digital working practices
+--- PAGE 20 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Networks
+A network is a system where two or more devices (such as computers, 
+phones, servers, or printers) are connected so they can communicate, share 
+resources, and exchange data.
+Types of networks
+Learning in Context
+Activity – Networks
+Complete Activity A.
+Ad hoc network
+Ad hoc networks are temporary 
+networks created without a central 
+router or access point. 
+📶
+ Wi-Fi Network
+📡
+ Cellular Network
+Types of ad hoc networks
+Open Wi-Fi
+• A Wi-Fi network without a password.
+• Devices connect directly to the access point.
+Tethering
+• This is known as a personal hotspot. 
+• A smartphone shares its mobile data connection with 
+other devices via Wi-Fi, Bluetooth, or USB.
+• Devices connect directly to the smartphone instead of 
+a router.
+ Setting up a Wi-Fi hotspot on a smartphone
+--- PAGE 21 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Network security
+Security issues threaten safety and privacy of data, especially the use of open 
+networks. 
+Security issues with open networks
+Open networks are vulnerable because data is 
+unencrypted:
+∙ Eavesdropping: Others can intercept data 
+sent over the network.
+∙ Man-in-the-middle attacks: Hackers can 
+intercept or modify communications.
+∙ Malware distribution: Devices can be 
+infected by malicious users on the same 
+network.
+∙ Unauthorised access: Any device can connect 
+without authentication, potentially accessing 
+shared ﬁles.
+Learning in Context
+Mitigation strategies:
+• Use a VPN when 
+connected to open 
+Wi-Fi.
+• Avoid sensitive 
+transactions (banking, 
+passwords) on open 
+networks.
+• Enable ﬁrewalls and 
+security software.
+Using public Wi-Fi at a café, airport, or hotel
+• Public Wi-Fi is convenient but often not secure, 
+hackers can intercept data sent over the network.
+• A VPN (Virtual Private Network) encrypts your 
+internet trafﬁc, making it unreadable to others on the 
+same network.
+Activity – Networks
+Complete Activity B.
+
+--- PAGE 22 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Network performance
+Performance issues affect the speed, reliability, and usability of the network and 
+in particular, ad hoc networks. 
+Performance issues with ad hoc networks
+Ad hoc networks often have limited performance 
+compared to traditional networks:
+• Limited range: Wi-Fi hotspots only cover a 
+small area.
+• Shared bandwidth: Multiple devices using the 
+same connection can slow speeds.
+• Interference: Other wireless devices 
+(microwaves, Bluetooth, nearby networks) can 
+reduce performance.
+• Device dependency: If the host device (e.g., 
+smartphone) moves or loses power, the 
+network is disrupted.
+Learning in Context
+Impact on digital devices
+• Mobile hotspots drain 
+battery life faster.
+• You may use up the 
+monthly data limit.
+• Difﬁcult to monitor 
+signal strength.
+Activity – Networks
+Complete Activity C.
+This video will explain several concepts that have been 
+covered in the previous slides such as: Tethering, Hotspots 
+and VPN. 
+
+--- PAGE 23 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Network availability
+Network availability varies depending on location, infrastructure, and coverage
+Issues that affect network availability
+🌄
+ Rural vs City Locations
+Rural areas may have fewer cell towers or 
+broadband options, leading to poor 
+connectivity and blackspots. Cities have 
+denser infrastructure and better coverage.
+🌍
+ Developed vs Developing Countries
+Developed countries often have reliable 
+broadband, 4G/5G coverage, and ﬁbre 
+networks. Developing countries may rely on 
+older technology with lower speeds and 
+less coverage.
+🏗
+ Available Infrastructure
+The number of towers, ﬁbre connections, 
+and network equipment affects reliability 
+and speed.
+📡
+ Mobile Network Coverage
+Some areas may lack 4G/5G coverage, 
+limiting hotspot performance. Rural 
+“blackspots” are common in valleys or 
+remote areas.
+Learning in Context
+Activity
+Watch the following video:
+1. Why are they doing this?
+2. What impact will this have?
+
+--- PAGE 24 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 2:
+Cloud computing
+Component 3: Effective digital working practices
+--- PAGE 25 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Cloud storage
+Cloud storage is a way of saving data on the internet instead of directly on a 
+physical device like a hard drive or USB stick.
+Features of cloud storage
+Learning in Context – Google
+Setting and sharing of 
+access rights
+Control who can view, 
+edit, or comment on 
+ﬁles.
+Synchronisation of 
+cloud and individual 
+devices
+Automatically updates 
+ﬁles across all linked 
+devices.
+Availability (24/7) Files can be accessed 
+anytime, anywhere 
+with internet.
+Scalability Users can rent more 
+storage or reduce it to 
+save money.
+Google Drive allows owners to 
+set ﬁles as “Viewer, ” 
+“Commenter, ” or “Editor. ”
+Dropbox synchronises ﬁles on a 
+laptop, phone, and tablet so 
+changes appear everywhere.
+iCloud allows users to access 
+documents or photos from any 
+Apple device at any time.
+OneDrive offers 5 GB free 
+storage, with paid plans up to 
+1 TB.
+Examples
+Google Drive can be accessed via PC, Mac, iOS, or 
+Android devices.
+
+--- PAGE 26 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Cloud computing
+Cloud computing is the delivery of computing services over the internet instead of 
+relying on local computers or servers. 
+Activity – Cloud computing
+Complete Activity A and B.
+Services provided by cloud 
+computing
+• Storage (e.g., Google 
+Drive, Dropbox)
+• Applications/Software 
+(e.g., Google Docs, Ofﬁce 
+365)
+• Processing power (e.g., 
+Amazon Web Services, 
+Microsoft Azure)
+• Networking
+• Databases
+Tools and features
+Learning in Context
+Online 
+applications
+Cloud computing delivers 
+software and services through a 
+browser or app instead of needing 
+local installation.
+Consistency of 
+version between 
+users 
+All users automatically work with 
+the latest version of software and 
+ﬁles, avoiding compatibility issues.
+Single shared 
+instance of a ﬁle
+A ﬁle stored in the cloud has one 
+central version, so users don’t 
+have to send multiple copies back 
+and forth.
+Collaboration 
+tools/features
+Cloud platforms include features 
+like live editing, comments, chat, 
+and task assignment.
+Rather than owning and maintaining expensive 
+hardware or software, users “rent” what they need from 
+cloud providers and access it anywhere with an internet 
+connection.
+
+--- PAGE 27 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 3:
+Cloud technologies
+Component 3: Effective digital working practices
+--- PAGE 28 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Cloud technologies
+Cloud systems are software, and data are stored and run over the internet 
+on the provider’s servers. 
+Cloud system features
+Cloud based features
+What is a traditional system?
+Software and data are 
+installed and stored locally (on 
+your own computer or 
+organisation’s servers).
+Device 
+Synchronisation 
+🔄
+ 
+Keeping ﬁles, apps, or 
+settings the same 
+across multiple 
+devices.
+Online/Ofﬂine 
+Working 🌐
+ 
+Being able to work 
+with or without an 
+internet connection, 
+with changes syncing 
+when back online.
+Notiﬁcations 🔔
+ Real-time alerts 
+across devices to 
+keep users updated.
+How do traditional and cloud 
+systems work together?
+It is possible to move from 
+Ofﬁce Online to the full 
+featured desktop version.
+Activity – Cloud technologies
+Complete Activity A
+--- PAGE 29 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Choosing cloud technologies
+Organisations need to consider all the implications when choosing 
+cloud technology. 
+Activity – Cloud technologies
+Complete Activity B
+Implications for using cloud technologies
+Cloud Performance
+Disaster 
+recovery 
+policies
+If policies aren’t aligned, downtime could be longer, data could 
+be lost, or recovery may cost more than expected.
+Security of data Poor security controls or unclear data storage locations could 
+result in breaches, ﬁnes, or reputational damage.
+Compatibility If compatibility isn’t considered, organisations may face high 
+costs in re-training, migrating systems, or adapting processes.
+Maintenance Saves time and resources, but organisations lose some direct 
+control and must trust the provider.
+Fast/Efﬁcient 
+service
+Cloud enables rapid scalability and ﬂexibility, but it might 
+encourage organisations to adopt solutions without fully 
+assessing long-term costs or integration challenges.
+Performance Poor performance can frustrate staff, reduce productivity, and 
+limit adoption of cloud systems. Organisations must balance 
+local and cloud resources.
+
+--- PAGE 30 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 4:
+Modern teams
+Component 3: Effective digital working practices
+--- PAGE 31 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Modern teams
+A modern team refers to a group of people who work together using 
+contemporary methods and tools to achieve shared goals, often in a ﬂexible, 
+collaborative, and technology-driven way.
+What do modern teams 
+look like?
+Learning in Context
+Activity – Modern teams
+Complete Activity A
+🌏
+ World Teams (not 
+bound by geographical 
+restrictions, diversity)
+🌏
+ Multicultural Teams
+♿
+Inclusivity (facilitation 
+of member’s needs)
+⏰
+24/7/365 Work 
+(different time zones, 
+no set hours)
+World Teams
+A marketing agency based in 
+London collaborates with video 
+editors in Canada and content 
+writers in South Africa using 
+Zoom meetings and shared 
+Google Docs.
+Multicultural Teams
+An international software 
+company uses Slack for 
+communication and relies on 
+automatic translation plugins 
+so Japanese and Spanish 
+employees can collaborate 
+seamlessly.
+Inclusivity
+A programmer with a 
+visual impairment uses 
+screen-reading software 
+and attends team 
+meetings via Zoom with 
+live captions enabled.
+24/7/365 Work
+A customer support 
+team operates 24/7 by 
+having members in Asia, 
+Europe, and the US. 
+They use Slack and 
+Zendesk so tickets are 
+handled smoothly 
+across time zones.
+
+--- PAGE 32 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Managing modern teams
+Collaboration software is designed to help people working in a team to 
+achieve their objectives.
+Activity – Modern teams
+Complete Activity B
+How are modern technologies used to manage 
+teams?
+Learning in Context -  Planning tools
+🤝
+ Collaboration Tools: Allow team members 
+to work together on shared tasks, documents, 
+and projects, even when they are in different 
+locations.
+💬
+ Communication Tools: Help team members 
+stay connected, share updates, and discuss 
+ideas efﬁciently.
+🗓
+ Scheduling Tools: Used to organise 
+meetings, manage time zones, and set 
+reminders so everyone stays on track.
+📊
+ Planning Tools: Help teams plan projects, 
+assign tasks, and monitor progress over time.
+Example: Monday.com: Tracks project timelines and team 
+responsibilities.What does it achieve?
+Keeps projects 
+organised, efﬁcient, and 
+ensures deadlines are 
+met.
+Visualise project timelines and 
+deadlines.Assign responsibilities and track 
+completion.
+Identify potential 
+delays or resource 
+issues.
+--- PAGE 33 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Stakeholders
+A stakeholder is any individual, group, or organisation that has an interest in, or is 
+affected by, the activities, decisions, or outcomes of a project, business, or 
+organisation.
+Types of 
+stakeholders
+Alternative stakeholders
+This is generalised list of stakeholders, and 
+they can be more speciﬁc. For example, 
+stakeholders in schools could be parents, 
+students, staff and governors.
+Stakeholder objectives
+Investors/
+Shareholders
+Want to see potential return on investment.
+Advisors/
+Mentors
+Help by offering advice and measure 
+progress.
+Lenders/Banks Concerned with risk and repayment ability.
+Government Interest in legal compliance such as tax.
+Employees Promotion opportunities, job security, wages
+Customers Expect a consistent service to meet their 
+needs.
+Suppliers Interested on whether invoices/bills are paid 
+on time. 
+Owners/founders Interested in businesses stability/growth.
+Internal 
+(inside the 
+organisation) – e.g., 
+employees, 
+managers, owners.
+External 
+(outside the 
+organisation) – e.g., 
+customers, suppliers, 
+investors, 
+government, 
+community.
+Stakeholders
+Activity – Modern teams
+Complete Activity C
+--- PAGE 34 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 5:
+Inclusivity and Accessibility
+Component 3: Effective digital working practices
+--- PAGE 35 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Interface design
+Inclusivity means designing and creating things that consider and 
+welcome everyone, regardless of their background, abilities, or 
+circumstances. Accessibility means making something usable by 
+as many people as possible, especially those with disabilities.
+How modern technologies 
+aid inclusivity and 
+accessibility
+Learning in Context
+Activity – Inclusivity and Accessibility
+Complete Activity A and B
+• Interface design
+• Accessibility features
+• Flexibility of work hours and 
+location
+Layout and structure
+• Consistent navigation
+• Responsive design
+• Keyboard accessibility
+• Logical hierarchy
+Font and text choices
+• Readable font
+• Scalable text
+• Adequate spacing
+• Contrast and background.
+Colour and visual design
+• High contrast
+• Colour-blind friendly palettes
+• Avoiding ﬂashy and rapid 
+animations
+• Dark and light modes
+Inclusivity Accessibility
+A video uses subtitles and sign 
+language so both hearing and 
+deaf audiences can understand.
+A website includes alt text for 
+images so that screen readers 
+can describe them for visually 
+impaired users.
+A classroom uses different 
+teaching methods to support 
+students with different learning 
+styles.
+A building has ramps and lifts so 
+wheelchair users can enter and 
+move around easily.
+--- PAGE 36 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Accessibility features
+Inclusivity means designing and creating things that consider and 
+welcome everyone, regardless of their background, abilities, or 
+circumstances. Accessibility means making something usable by 
+as many people as possible, especially those with disabilities.
+How modern technologies 
+aid inclusivity and 
+accessibility
+Learning in Context
+Activity – Inclusivity and Accessibility
+Complete Activity A and B
+• Interface design
+• Accessibility features
+• Flexibility of work hours and 
+location
+Inclusivity Accessibility
+A video uses subtitles and sign 
+language so both hearing and 
+deaf audiences can understand.
+A website includes alt text for 
+images so that screen readers 
+can describe them for visually 
+impaired users.
+A classroom uses different 
+teaching methods to support 
+students with different learning 
+styles.
+A building has ramps and lifts so 
+wheelchair users can enter and 
+move around easily.
+Screen reader support
+Reads aloud everything on 
+screen
+Alt text
+Describes images for non-visual 
+access
+Adjustable typeface/font size
+Allows users change text size or 
+font
+Text to Speech
+Converts written text to spoken 
+words
+--- PAGE 37 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Flexibility of work hours
+Inclusivity means designing and creating things that consider and 
+welcome everyone, regardless of their background, abilities, or 
+circumstances. Accessibility means making something usable by 
+as many people as possible, especially those with disabilities.
+How modern technologies 
+aid inclusivity and 
+accessibility
+Flexibility of work hours and location
+Activity – Inclusivity and Accessibility
+Complete Activity B
+• Interface design
+• Accessibility features
+• Flexibility of work hours and 
+location
+Inclusivity Accessibility
+A video uses subtitles and sign 
+language so both hearing and 
+deaf audiences can understand.
+A website includes alt text for 
+images so that screen readers 
+can describe them for visually 
+impaired users.
+A classroom uses different 
+teaching methods to support 
+students with different learning 
+styles.
+A building has ramps and lifts so 
+wheelchair users can enter and 
+move around easily.
+Remote 
+communication tools
+Allow real-time 
+meetings, messaging, 
+and collaboration 
+from anywhere in the 
+world.
+Cloud computing 
+and ﬁle sharing
+Store ﬁles online 
+and make them 
+accessible on any 
+device with an 
+internet 
+connection.
+Mobile devices 
+and internet 
+connectivity
+Smartphones, 
+tablets, and 
+laptops 
+connected to 
+Wi-Fi or mobile 
+data let people 
+work on the go.
+Project 
+management 
+software
+Allow tasks to be 
+assigned, tracked, 
+and completed 
+collaboratively 
+online.
+--- PAGE 38 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 6:
+Impact of modern technologies
+Component 3: Effective digital working practices
+--- PAGE 39 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Impact
+The use of modern technology can have an impact on individuals 
+and organisations.
+Learning in Context
+Activity – Impact of modern technology
+Complete Activity A - C
+Examples of modern technology
+• Communication technologies (i.e. Microsoft Teams, Zoom etc..)
+• Devices (i.e. Smartphones, Tablets, Desktops)
+• Local and web-based platforms (Web-based platforms like 
+Google Workspace and Microsoft 365 
+Impact
+Individuals Organisations
+Flexible working
+Working styles
+Impact on mental health
+Infrastructure
+Security
+Distribution of data
+Inclusivity and Accessibility
+Remote working
+Collaboration
+Legislation
+Organisations that design or choose accessible platforms meet legal 
+standards such as Web Content Accessibility Guidelines (WCAG) which is 
+the international benchmark for accessible digital content.
+
+--- PAGE 40 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 7:
+Denial of service attacks
+Component 3: Effective digital working practices
+--- PAGE 41 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+What is a cyber attack?
+A cyber attack is any attempt by an individual or group to damage, 
+disrupt or gain unauthorised access to a computer system, network, 
+device, or the data stored on it.
+Activity – Denial of service attacks
+Complete Activity A, B and C
+Why are cyber attacks carried 
+out?
+• fun/challenge  
+• industrial espionage or 
+ﬁnancial gain  
+• personal attack  
+• disruption  
+• data/information theft. 
+Impact of a cyber attack
+Cyber security threats
+• Denial of Service (DOS)
+• Hacking
+• Malware
+• Social engineering
+• Data interception
+Damage to public image  
+Customers and partners may 
+lose trust if they believe the 
+organisation cannot protect 
+sensitive information
+Reduction in productivity  
+Staff may be unable to work 
+normally while systems are 
+being investigated or restored. 
+Time is spent ﬁxing the issue 
+instead of completing usual 
+tasks.
+Legal action 
+Organisations may face 
+lawsuits, regulatory penalties, 
+or compensation claims if they 
+failed to protect personal data 
+or meet legal requirements 
+such as GDPR.
+Data loss
+Important ﬁles, customer 
+information or business 
+records may be stolen, 
+deleted, or corrupted. 
+Financial loss 
+A breach often results in direct 
+costs (investigating the attack, 
+repairing systems, paying 
+ﬁnes) and indirect costs (lost 
+customers, reduced sales).
+Downtime
+Systems or networks may be 
+unavailable for hours or days, 
+stopping business operations 
+until the breach is resolved.
+How does a cyber attack impact 
+individuals and organisations?
+• Data loss
+• False information is used
+• System reliability is damaged
+• Damage to public image
+• Loss of privacy
+• Financial fraud
+• Identify theft
+• Reduction in productivity
+• Financial loss
+• Damaged credit rating
+• Emotional distress
+• Downtime
+• Legal action
+--- PAGE 42 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Denial of service attacks
+A denial of service (DoS) attack is a malicious attempt to disrupt the normal 
+functioning of a targeted server, service, or network by overwhelming it with 
+a ﬂood of internet trafﬁc. 
+Activity – Denial of service attacks
+Complete Activity A
+What is the purpose of this attack?
+• Disrupt services
+• Financial damage
+• Reputation damage
+How to identity/prevent a 
+denial-of-service attack
+• Firewalls
+• Access rights & permissions 
+(limits exposed services)
+• Anti-virus / malware software 
+(prevents botnet infections)
+• Secure backups (mitigates 
+disruption to services)
+• Usernames & passwords 
+(prevents unauthorised access 
+to servers
+Worked example
+Impact
+• Flooding servers with trafﬁc.
+• Exhausting system resources (CPU, 
+RAM, bandwidth).
+• Crashing services.
+How is DDOS attack different?
+A DDoS attack comes from many 
+devices at the same time, usually 
+controlled through a botnet – made up 
+of many different bots.
+
+--- PAGE 43 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Firewall
+A ﬁrewall is a security system that monitors and controls the trafﬁc 
+entering and leaving a computer or network.
+Activity – Denial of service attacks
+Complete Activity B
+How does a ﬁrewall keep 
+devices and data secure?
+• Firewalls stop attackers 
+from accessing internal 
+computers or servers.
+• Prevents malware 
+entering the network 
+• Stops unauthorised 
+outgoing trafﬁc If a device 
+becomes infected.
+• Protects 
+personal/organisation 
+data
+Worked example
+How can a ﬁrewall mitigate security 
+risks?
+• Prevents unauthorised access.
+• Reduces the attack surface (Only 
+necessary ports and services are 
+allowed, making the network 
+harder to attack.)
+• Protects from DoS attacks (to 
+some extent) 
+• Stops internal threats spreading
+• Helps enforce organisational 
+policies.
+• Works with other security tools
+
+--- PAGE 44 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 8:
+Hacking
+Component 3: Effective digital working practices
+--- PAGE 45 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Hacking
+Hacking refers to the act of gaining unauthorised access to a computer 
+system, network, or data.
+Activity – Hacking
+Complete Activity A
+What are the reasons for hacking?
+• Harmful (stealing data, causing 
+damage),
+• Neutral
+• Beneﬁcial (ﬁnding vulnerabilities 
+to improve security).
+Impact of a cyber attack
+Ethical hacking
+Different types of hackers
+Hackers can be categorised into three areas; this helps to remove the 
+negative connotations associated with being a hacker. 
+White hat Black hat Grey hat
+Ethical hacking is the practice of 
+deliberately breaking into 
+computer systems, networks, or 
+applications with permission in 
+order to ﬁnd weaknesses before 
+malicious hackers can exploit 
+them. 
+In other words, ethical hackers 
+use the same tools and 
+techniques as criminals, but they 
+do so legally and responsibly to 
+improve security. This practice is 
+known as penetration testing. 
+
+--- PAGE 46 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Penetration testing
+Penetration testing, often referred to as "pen testing, " is a method of 
+evaluating the security of an IT infrastructure by simulating a 
+cyber-attack using ethical hackers.
+What does it prevent or limit?
+• Identifying and securing weak 
+points, it reduces the risk of 
+unauthorised access to systems 
+and data. 
+• It helps to prevent data breaches 
+by securing sensitive 
+information.
+• Identifying potential exploits that 
+could lead to denial-of-service 
+(DoS) attacks helps maintain 
+service availability.
+• Finding and patching 
+vulnerabilities that could be 
+exploited by malware.
+Penetration testing
+Characteristics of a 
+penetration testing
+• It is authorised and done 
+with full permission.
+• The goal is to identify and 
+ﬁx vulnerabilities, not 
+exploit them.
+• It helps organisations 
+strengthen their defences 
+and protect data.
+• Ethical hackers follow strict 
+rules, laws, and 
+professional codes of 
+conduct.
+
+--- PAGE 47 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 9:
+Malware
+Component 3: Effective digital working practices
+--- PAGE 48 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Malware
+Malware (short for malicious software) is any software that is 
+intentionally created to harm, exploit, or gain unauthorised access to a 
+computer system, network, or data.
+Activity – Malware
+Complete Activity A and B.
+Types of malware
+• Botnet
+• Ransomware 
+• Rootkit
+• Spyware
+• Trojan
+• Virus
+• Worm
+Different types of malware
+The impact of Malware
+• Steal information
+• Damage ﬁles or systems
+• Spy on users
+• Make money (e.g., ransom 
+payments, adverts)
+• Take control of devices
+📚
+ Simple Example
+Imagine you click on a fake email attachment titled “Exam Results” 
+and it installs a virus that deletes your ﬁles or sends your passwords 
+to a hacker. That’s malware.
+How to prevent Malware
+• Use strong passwords & enable multi-factor authentication
+• Keep software and operating systems up to date
+• Install reliable antivirus and ﬁrewall
+• Train staff/students to avoid phishing emails
+• Backup data regularly
+• Monitor network for unusual activity
+
+--- PAGE 49 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Pharming
+Pharming is a type of cyberattack where criminals redirect users from a 
+legitimate website to a fake one without the user realising. 
+Activity – Malware
+Complete Activity A and B.
+How does it work?
+How does Pharming work
+What is it used for?
+• Stealing login details (banking, 
+email, social media)
+• Installing malware on users’ 
+devices
+• Collecting personal or ﬁnancial 
+information
+Server-side attack • The attacker corrupts the DNS server (the system that 
+turns web addresses like google.com into IP numbers).
+• Even if the user types the correct website address, they 
+are silently redirected to a malicious copy.
+Device-side attack • Malware on a user’s computer alters the hosts ﬁle so 
+certain website addresses point to fake sites.
+How can it be prevented?
+• Look for https:// and padlock 
+symbols in the browser
+• Keep antivirus software updated
+• Avoid downloading unknown 
+attachments
+• Enable multi-factor authentication
+Video
+What is Pharming - 
+O/A-Level/IGCSE-Computer Science
+--- PAGE 50 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 10:
+Social engineering
+Component 3: Effective digital working practices
+--- PAGE 51 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Social engineering
+Social engineering is a manipulation technique that deceives individuals into 
+divulging conﬁdential information.
+Activity – Social engineering
+Complete Activity A.
+Social engineering techniques What is the purpose of this attack?
+• Gather sensitive information
+• Unauthorised access to systems
+• Fraud and ﬁnancial gain
+• Disrupt operations
+• Damage individuals/organisations 
+reputation
+🎣
+ Phishing   🔄
+ Quid Pro Quo 
+🎭
+ Pretexting     😱
+ Scareware
+🎁
+ Baiting  👀
+ Shoulder Surﬁng
+How to identity/prevent social engineering
+🔐
+ User Access Levels
+• This deﬁnes what actions a person can 
+perform and what data or areas of a 
+system they can access based on their 
+role or permissions. 
+• This helps protect sensitive information 
+and ensures that users only have access 
+to what they need.
+Signs of email phishing
+
+--- PAGE 52 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 11:
+Internal threats
+Component 3: Effective digital working practices
+--- PAGE 53 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Internal threats
+An internal threat (or insider threat) in the context of cybersecurity is a risk that 
+comes from within an organisation, rather than from external attackers like 
+hackers or criminal groups.
+Activity – Internal threats
+Complete Activity A - C
+What counts as an internal 
+threat?
+An internal threat is caused 
+by people who already 
+have authorised access to a 
+system, such as:
+• Employees
+• Students
+• Contractors
+• Volunteers
+• Temporary staff
+Examples of internal threats
+Why are internal threats dangerous?
+• Insiders already have access permissions
+• Their actions may not trigger security alerts
+• They understand how systems work
+• Damage can happen quickly and quietly
+Examples of internal threats
+Unintentional 
+disclosure of 
+data
+Intentional 
+stealing or 
+leaking of 
+information 
+Users overriding 
+security controls 
+Use of portable 
+storage devices 
+Downloads 
+from internet 
+Visiting 
+untrustworthy 
+websites
+--- PAGE 54 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 12:
+User access restriction
+Component 3: Effective digital working practices
+--- PAGE 55 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+User access restriction
+User access restriction means limiting what users are allowed to 
+see, do, or change within a system, based on who they are and 
+what they need to do.
+Activity – User access restriction
+Complete Activity A - D
+Physical prevention measures
+Biometric devices
+Biometrics
+Identiﬁes or veriﬁes a 
+person based on their 
+unique physical or 
+behavioural characteristics, 
+Physical security
+Prevent unauthorised 
+physical access to buildings, 
+rooms, or devices by using 
+locks, key cards, or security 
+barriers.
+Passwords
+Secret words or phrases 
+used to verify a user’s 
+identity before allowing 
+access to a system.
+Secure backups 
+Copies of important data that are 
+stored safely so they can be 
+recovered in case of data loss, 
+corruption, or security incidents 
+such as cyberattacks.
+User access levels
+Restrict what users can see 
+or do by assigning 
+appropriate permissions 
+based on their role. 
+Two-factor authentication 
+(2FA)
+ Requires two different 
+types of veriﬁcation 
+
+--- PAGE 56 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 13:
+Data level protection
+Component 3: Effective digital working practices
+--- PAGE 57 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Data level protection
+Data level protection is a security approach that focuses on 
+protecting the data itself, rather than just the systems, devices, or 
+networks that store or transmit it.
+Methods of prevention
+Encryption
+Activity – Data level protection
+Complete Activity A and B.
+What does this mean?
+It ensures that even if someone gains access to a system, the data 
+remains secure and unreadable unless they are authorised.
+• Firewall (hardware and software)
+• Software/interface design 
+(obscuring data entry, 
+autocomplete, ‘stay logged in’)
+• Anti-virus software
+• Device hardening
+• Procedures for backing up and 
+recovering data 
+• Encryption of stored and 
+transmitted data
+Why is data level 
+protection important?
+• Protects sensitive and 
+personal data
+• Helps organisations 
+comply with laws like 
+GDPR
+• Reduces damage from 
+data breaches
+• Supports secure data 
+sharing across different 
+systems and devices
+
+--- PAGE 58 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 14:
+Security policies
+Component 3: Effective digital working practices
+--- PAGE 59 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Security policies
+A security policy is a set of written rules and guidelines that explain how 
+an organisation protects its data, systems, and users from security 
+threats.
+Disaster recovery plan
+Activity – Security policies
+Complete Activity A to D
+Why are security policies 
+important?
+• They can deﬁne who is 
+responsible for what.
+• How to report concerns
+• How to report issues to 
+staff/employees
+Security policies
+Password policy
+A set of rules that explains how passwords 
+should be created, used, and protected to 
+keep systems secure 
+Acceptable Use Policy (AUP)
+A document that explains how users are 
+allowed to use an organisation’s IT systems, 
+internet, software, and devices, and what 
+behaviour is not permitted.
+Parameters for device hardening
+The security settings and conﬁgurations 
+applied to devices to reduce vulnerabilities 
+and prevent unauthorised access.
+Disaster Recovery Plan
+A documented plan that explains 
+how an organisation will restore 
+systems, data, and normal 
+operations after a serious 
+incident such as a cyber attack, 
+data loss, or system failure.
+Disaster recovery plan
+Before phase
+Putting measures in 
+place in preparation 
+for a disaster.
+This could be backing 
+up data in another 
+location.
+During phase
+How to respond if 
+and when a disaster 
+takes place. For 
+example, a backup 
+generator if there is a 
+power cut. 
+--- PAGE 60 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Disaster recovery plan
+A Disaster recovery plan is a document that outlines how an organisation 
+responds to a cyber-attack, natural disasters or power-cuts. 
+Learning in Context: Amazon web services
+What should a disaster recovery plan 
+include?
+• Who is responsible for what - 
+Clear ownership ensures fast 
+recovery.
+• Dos and don’ts for staff - Staff 
+behaviour is critical during an 
+incident.
+• Deﬁning the backup process -This 
+explains what is backed up and 
+how.
+• Timeline for data recovery - 
+Deﬁnes expected recovery times.
+• Location alternative provision - 
+Plans for continuing operations if 
+the main site is unavailable.
+What action should be taken 
+after an attack?
+1. Investigate (establish 
+severity and nature)
+2. Respond (inform/update 
+stakeholders and 
+authorities)
+3. Manage (containment)
+4. Recover (disaster recovery 
+plan)
+5. Analyse (update policy and 
+procedures) This news article relates to the Amazon web services 
+going down. What was the disaster? How did they 
+respond to this?
+
+--- PAGE 61 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 15:
+Shared data
+Component 3: Effective digital working practices
+--- PAGE 62 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Shared data
+Shared data is data or information that is passed between two or more systems, 
+organisations, apps, or services instead of being kept by just one.
+Types of shared data
+Activity – Shared data
+Complete Activity A to C
+Key points about shared data
+• It is shared for a reason (e.g., 
+improving services, 
+coordination, security, or 
+analysis)
+• It may involve personal data 
+(about a person) or service / 
+system data.
+• It must be handled securely, 
+legally, and responsibly. (e.g. 
+Privacy Policy)
+• Users should be aware of who 
+their data is shared with and 
+why.
+• They have an impact on 
+individual's digital footprint. 
+• Logging into a new app using a Google or Apple 
+account
+• Medical records accessed by more than one 
+healthcare provider
+• A delivery service sharing order details with 
+partner restaurants
+Examples of shared data
+Transactional 
+data
+Cookies
+Exchange data between 
+servicesLocation-based 
+data
+What is a digital footprint?
+• The information about a particular person that 
+exists on the internet because of their online 
+activity. This could either be active or passive.
+• Active footprint means to submit data 
+intentionally submitted online via blogs, apps, 
+websites and social media actions.
+• A passive footprint is data collected without the 
+user’s knowledge. 
+--- PAGE 63 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 16:
+Environmental impact
+Component 3: Effective digital working practices
+--- PAGE 64 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+ E-waste
+Discarded electronic devices 
+such as smartphones, 
+computers, and televisions.
+Energy consumption
+Digital devices and data 
+centres consume signiﬁcant 
+amounts of electricity.
+Resource depletion 
+The manufacturing of digital 
+devices requires a variety of 
+raw materials, including rare 
+earth metals.
+Planned obsolescence
+Rapid advancements in 
+technology lead to shorter 
+lifecycles for digital devices.
+Digital downloads
+ The process of obtaining data 
+or content from the internet 
+and storing it on a local 
+device. Saving on a 
+packaging.
+Green IT
+The practice of 
+environmentally sustainable 
+computing such as low 
+power mode on 
+smartphones. 
+Environmental impact
+The increased manufacturing, use, and disposal of IT systems it had a signiﬁcant 
+impact on the environment. 
+Types of shared data
+Activity – Environmental impact
+Complete Activity A to E
+Environmental factors
+Green IT
+What is Green IT and why is important?
+Rare materials (resource depletion)
+What Are Rare Earth Elements?
+
+--- PAGE 65 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 17:
+Equal access to IT
+Component 3: Effective digital working practices
+--- PAGE 66 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Equal access to IT
+Equal access to IT means that everyone has a fair and reasonable 
+opportunity to use digital technology, online services, and 
+information systems. Nobody is excluded and when they are, it 
+creates a digital divide.
+Digital divide
+Activity – Equal access to IT
+Complete Activity A to E
+What is the digital divide?
+The digital divide is the gap 
+between people who have 
+access to digital technologies 
+(such as computers, 
+smartphones, fast internet, 
+and digital skills) and those 
+who do not.
+The reference to fast internet 
+is an example of net 
+neutrality.
+What is net neutrality?
+• Net neutrality is the principle 
+that all internet trafﬁc should 
+be treated equally by internet 
+service providers (ISPs).
+• Every website, app, and 
+online service has the same 
+priority and access speed on 
+the network.
+• The user, not the internet 
+provider decides what 
+content they access. Relevant legislation and professional standards that contribute 
+to equal access. 
+Equality Act, Digital Economy Act and W3CWhat is net neutrality and how could it affect you? - BBC News
+
+--- PAGE 67 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 18:
+Social and business boundaries
+Component 3: Effective digital working practices
+--- PAGE 68 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Social and business boundaries
+Blurring of social and business boundaries” refers to situations where 
+the lines between people’s personal (social) lives and their 
+professional (work or business) lives become less separate or clearly 
+deﬁned.
+Social and business boundaries
+Activity – Social and business boundaries
+Complete Activity A to C
+How does technology play a role?
+• Technology connects these 
+worlds so closely that they often 
+overlap.
+• This could be the use of 
+different digital devices.
+• Aswell as different applications 
+like websites such as social 
+media platforms. 
+• Digital tools and online 
+platforms mix people’s personal 
+and professional lives, making it 
+harder to keep them separate.
+Why does this matter?
+• Flexibility
+• Stronger relationships & 
+networking
+• New work opportunities
+• Improved collaboration
+• Burnout / over-availability
+• Work–life imbalance
+• Privacy + surveillance 
+concerns
+• Blurred professionalism
+• Misinterpretation of tone 
+online
+
+--- PAGE 69 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 19:
+Respecting data and technology
+Component 3: Effective digital working practices
+--- PAGE 70 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Data protection
+Data protection refers to the legal and ethical frameworks designed to 
+safeguard personal information from unauthorised access, misuse, or 
+breaches. 
+Data protection principles
+Activity – Respecting data and technology
+Complete Activity A
+What is a data subject?
+A data subject is any individual 
+whose personal information is 
+collected, processed, or stored by 
+an organisation, including media 
+producers. Individuals have rights 
+over their personal data
+Data protection principles
+• Lawful processing  
+• Collected only for speciﬁc 
+purpose  
+• Only needed information is 
+collected  
+• Should be accurate  
+• Kept only as long as is 
+necessary  
+• Data subject rights  
+• Protected  
+• Data not transferred to 
+countries with less 
+protection. 
+Data and the use of the internet
+• The right to be forgotten (i.e. 
+Individuals may request their 
+data to be deleted) 
+• Appropriate and legal use of 
+cookies and other transactional 
+data. 
+Lawful processing
+Data must be collected and used only when there is a valid legal 
+reason.
+Collected only for a speciﬁc purpose
+Data must be collected for a clear reason and only used for that 
+reason.
+Only needed information is collected (data minimisation)
+Organisations should collect the minimum data necessary.
+Should be accurate
+Personal data must be kept up to date and corrected when wrong.
+Kept only as long as necessary (storage limitation)
+Data should not be kept longer than needed.
+Protected (security and conﬁdentiality)
+Data must be kept safe from loss, hacking, or misuse.
+Data not transferred to countries with less protection
+Personal data should only be transferred to countries with strong data 
+protection laws or with proper safeguards in place.
+--- PAGE 71 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Criminal use of computer systems
+Criminal use of computer systems” refers to situations where 
+computers, networks, or digital devices are used to carry out 
+activities that break the law. This can involve using a computer as the 
+tool to commit a crime, the target of the crime, or both.
+Examples of Computer misuse
+Activity – Respecting data and technology
+Complete Activity B
+What does this mean?
+It covers actions such as:
+• accessing computer systems or 
+accounts without permission
+• viewing, copying, or stealing data 
+unlawfully
+• changing, deleting, or damaging 
+ﬁles or software
+• creating or spreading malware 
+(viruses, ransomware, spyware, 
+etc.)
+• disrupting systems or networks
+• using computers to support fraud, 
+scams, or identity theft
+Unauthorised access (Hacking)
+This is when someone accesses a computer system, 
+network, account, or data without permission, even if they 
+don’t change or delete anything
+Unauthorised modiﬁcation of materials
+This is when someone changes, deletes, or damages data or 
+software without permission. This includes actions that cause 
+disruption.
+Creation of malware
+This is when someone designs or writes malicious software 
+intended to damage systems, steal data. spy on users, 
+disrupt services and gain unauthorised access
+Intentional spreading of malware
+This is when someone deliberately distributes malware to 
+infect computers or networks.
+The intent to cause harm or disruption makes this illegal.
+These activities are illegal 
+because they…
+• Break privacy laws
+• Damage systems or data
+• Put people or 
+organisations at risk
+They are often covered by 
+laws such as the Computer 
+Misuse Act (UK) or similar 
+legislation in other 
+countries.
+--- PAGE 72 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Lesson 20:
+Intellectual property
+Component 3: Effective digital working practices
+--- PAGE 73 ---
+www.mysimplyteach.co.uk© SIMPLY TEACH 2025
+Intellectual property
+Intellectual property refers to creations of the mind, such as inventions, 
+literary and artistic works, designs, symbols, names, and images, used for 
+commercial reasons.
+Methods of intellectual property
+Activity – Respecting data and technology
+Complete Activity A
+Why is intellectual 
+property important to 
+organisations?
+• Protects assets and 
+innovation
+• Maintains competitive 
+advantage
+• Encourages creativity 
+and investment
+• Generates income and 
+business value
+• Reduces legal and 
+ethical risks
+What is required of media producers to 
+respect Intellectual Property rights?
+• Obtaining permissions
+• Obtaining licences
+• Permission for the release from the 
+rights holder. (e.g. Attribution from a 
+creative commons licence) 
+Copyright
+Protect original works such as literary, artistic, musical, 
+or audiovisual works, granting exclusive rights to 
+reproduce, distribute, and perform the work.
+Trademarks
+Protect brand names, logos, symbols, and slogans used 
+in commerce to distinguish goods or services from 
+others in the market.
+Patents
+Protect inventions and discoveries, granting exclusive 
+rights to their creators for a limited period.
+Permissions and Licenses
+• Organisations may obtain permissions, 
+pay fees, or acquire licenses from rights 
+holders to legally use copyrighted 
+material in their productions.
+• Licenses may be granted on a one-time 
+basis or as ongoing agreements.
