@@ -7,6 +7,5 @@ Physics (Triple, Higher) - AQA
 Chemistry (Triple, Higher) - AQA
 Geography - AQA
 Spanish (Higher) - AQA
-
 Computer Science  - Pearson Edexcel
-DIT - Pears
+DIT - Pearson Edexcel
