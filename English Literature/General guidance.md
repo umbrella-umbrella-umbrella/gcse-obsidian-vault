@@ -1,6 +1,8 @@
-
 ## Overview
-1. **Academic Opening** - 3 adjectives (e.g - Romeo, Amorous, Passionate and Impulsive)
+1. **Academic Opening** - 3 adjectives (e.g, Romeo - *Amorous, Passionate and Impulsive*)
+2. Question Focus
+3. Writer + Name of Text / Play / Poem
+4. 
 
 ## Spot, Comment, Zoom Structure:
 1. **Signpost**
