@@ -14,3 +14,15 @@
 - It is possible to move from Office Online to the full desktop version.
 
 # Choosing cloud technologies
+- Organisations need to consider all the implications when choosing cloud technology
+- 
+Implications for using cloud technologies
+
+| Implications for using cloud technologies | Explanation |
+| ----------------------------------------- | ----------- |
+|                                           |             |
+|                                           |             |
+|                                           |             |
+|                                           |             |
+|                                           |             |
+|                                           |             |
