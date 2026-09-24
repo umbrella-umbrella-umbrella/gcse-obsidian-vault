@@ -21,8 +21,10 @@
 
 ### Tools and Features
 
-| Online Applications                   | Cloud computing delivers<br>software and services through a<br>browser or app instead of needing<br>local installation.  |
-| ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Consistency of versions between users | All users automatically work with<br>the latest version of software and<br>files, avoiding compatibility issues.         |
-| Single shared instance of a file      | A file stored in the cloud has one<br>central version, so users don’t<br>have to send multiple copies back<br>and forth. |
-| Collaboration features                |                                                                                                                          |
+| Features                              | Explanation                                                                                                     |
+| ------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| Online Applications                   | Cloud computing delivers software and services through a browser or app instead of needing local installation.  |
+| Consistency of versions between users | All users automatically work with the latest version of software and files, avoiding compatibility issues.      |
+| Single shared instance of a file      | A file stored in the cloud has one central version, so users don’t have to send multiple copies back and forth. |
+| Collaboration features                | Cloud platforms include features like live editing, comments, chat, and task assignment.                        |
+|                                       |                                                                                                                 |
