@@ -34,8 +34,8 @@ Really hot
 ## Opportunities
 
 - Annual desert festival held each winter in Jaisalmer (jobs, money, economic development)
-- In 1958 the Indira Ghandi Canal was built, making previously infertile land possible to be farmed on, where crops such as Mustard,
-- Pulses and Cotton are farmed. (better food security, potential for money to be made in exports of crops)
+- The Indira Gandhi Canal enabled farming on previously infertile land.
+- Crops include mustard, pulses and cotton, improving food security and supporting exports.
 - The Jaisalmer wind turbine farm (jobs, renewable energy)
 - Oilfield in the Barmer district (jobs selling oil for money)
 - Mining for Phospherite (used for fertilizer, economic development and jobs)
@@ -45,7 +45,7 @@ Really hot
 
 - It’s  hot. Summer temperatures can reach 53 degrees. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
 - Mobile dunes (basically dunes which move about the place) can block roads, stopping people getting to school/work.
-- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, there are a lot of people that live here, a lot of farms here AND a lot of factories here. They all need water.
+- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
 - Lack of roads makes transport difficult. Camel travel is common.
 - It gets so hot that the literal roads start to melt, which makes the already limited road network even more inaccessible
 Basically, all the challenges are in one way or another related to the extreme temperature.
@@ -57,12 +57,11 @@ Desertification is the process by which fertile land becomes desert, usually on 
 ## Causes
 
 - Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
-- Over-cultivation - where a farmer farms his land a bit too much, which stops soil from regrowing properly and eventually leads to it becoming infertile, leading to desertification.
+- Over-cultivation - where land is cultivated too intensively, preventing soil recovery and reducing fertility.
 - Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
 
 ## Strategies To Reduce It
 
 - Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
-- Theres more but it’s so long-winded 
-Right, I just skimmed over the fieldwork which will be featured at the end of the document, which should be completed tomorrow and then ill finish with new Brighton and sampling and data types and all that.
+
 

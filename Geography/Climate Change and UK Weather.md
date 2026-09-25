@@ -31,12 +31,13 @@ Another management strategy includes HICs using desalination, which involves boi
 - USA and Australia, 2 major CO₂ emitters, refused to sign it, so it could have been better.
 - Took 8 whole years to ratify (97-05)
 ## Copenhagen Accord (2009), Denmark
-- Countries agreed that global warming should not exceed 2°C, but the accord was not a formal treaty and relied on voluntary pledges.
+- The accord was not a formal treaty and relied on voluntary pledges.
 ## Paris Agreement (2015), France
 - 195 countries signed it (highest yet)
 - The agreement is legally binding.
 - Aims to keep global warming way below 2 degrees – aiming for 1.5
 - The United States later withdrew from the Paris Agreement.
+
 
 
 

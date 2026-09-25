@@ -2,12 +2,12 @@
 
 TRs are located just north or south of the equator, in between the tropics of cancer and Capricorn. Their climate is extremely wet and humid.
 There are high year-round temperatures, around 28 degrees, the first 3 months feature heavy rainfall While July, August and September feature low amounts of rainfall.
-Soils are nutrient poor since the optimal growing conditions mean that any nutrients that the decomposers have left in the soil is immediately taken by growing plants  and none remains.
+Rainforest soils are nutrient-poor because plants rapidly absorb nutrients released by decomposers.
 Adaptations
 Epiphytes – They grow on the side of trees and get their nutrients from the air. 
 Emergents – Trees that grow taller than the rest to get better access to sunlight, so they grow faster.
 Buttresses – They support tree structures and provide a faster rate of O₂ and CO₂ diffusion with a larger surface area.
-Soil leaching is where the rain washed the nutrients off the soil, leaving behind latosol, a red infertile type of soil which plants struggle to grow on. (Deforestation is a big cause of this, so if there is a 6 marker about deforestation in tropical rainforests and it wants effects, mention this)
+Soil leaching occurs when rain washes nutrients from the soil, leaving behind latosol, a red, infertile soil. Deforestation can worsen this process.
 
 ## Draco Lizard
 
@@ -27,7 +27,7 @@ Soil leaching is where the rain washed the nutrients off the soil, leaving behin
 
 - Road building – deforestation occurs 5km on each side of the road, as new developments like houses or gas stations are built alongside it
 - Commercial farming Plantations of crops, palm oil or sugar cane destroy large areas of rainforest as they need to be cleared to provide room for the farm, which is only going to increase in future as more farms are needed to meet the growing demand for resources as the global population grows.
-- Settlement – Trees are cut down to supply materials to build houses and they are also but down to make space for houses. Again, this will only increase as more houses are needed to house the growing population. (We really do cause a lot of problems don’t we)
+- Settlement – Trees are cut down to supply materials to build houses and they are also cut down to make space for houses. Again, this will only increase as more houses are needed to house the growing population. (We really do cause a lot of problems don’t we)
 
 ## Effects Of Tropical Rainforest Deforestation
 
@@ -42,7 +42,7 @@ Soil leaching is where the rain washed the nutrients off the soil, leaving behin
 
 The Choco rainforest is located mainly in Colombia and Ecuador – which combined produce 1.5 million tons of palm oil every year – so they need to grow that somewhere.
 Also, there are like side causes, which do contribute but not as much – they’re still worth knowing though.
-Road building – Same as causes in the section before this but the named example is the Trans-Amazonian highway, which runs through parts of the Choco rainforest.
+Road building – A named example is the Trans-Amazonian highway, which runs through parts of the Chocó rainforest.
 Oil extraction – some trees have to be cleared to access oil in the ground
 
 ## Effects
@@ -63,7 +63,6 @@ Oil extraction – some trees have to be cleared to access oil in the ground
 
 ## Strategies To Reduce Deforestation
 
-Theres 4 of them, they take 5 mins each to explain, and if you think I’m doing that you can right off. I’ll do 2 and we’ll call it even.
 
 ## Selective Logging And Replanting
 
@@ -72,5 +71,6 @@ Basically, loggers remove only the most valuable trees from a certain area and e
 ## Debt Reduction
 
 Countries are encouraged to conserve rainforests in exchange for a reduction for their national debt. It alleviates poverty and helps protect forests. An example is the US government agreeing to reduce Peru’s debt if they protect their rainforests. Advantages include a country having less debt, so money can be spent in areas like healthcare and education, which improves people’s quality of life and can help bring people out of poverty. Can also help build international relationships (like with the US and Peru). However, this money doesn’t mean all to rich countries, since they already have enough money so have no debt to have reduced, so they will just deforest anyway. Similarly, some countries will make more money deforesting than in debt reduction, for example if someone offered you 20 quid a week to stop cutting down trees in your local forest (this example is so scuffed but) but you make 50 quid a week doing it, why the would you say yes.
+
 
 

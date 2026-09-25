@@ -9,8 +9,8 @@ Climate is the average weather over 30 years, and it’s an important driver in 
 
 ## Equilibrium In An Ecosystem
 
-Ok so equilibrium in an ecosystem is a balance between all parts of the system (although in chemistry it is where the forward and reverse reactions are happening at exactly the same rate in a closed system)
-It fairly easy, say for example if all the deer died in a forest, it would have a knock-on consequence by lowering the number of wolves and other things that eat the deer, as they either relocate or starve.
+Equilibrium in an ecosystem is a balance between its living and non-living components.
+For example, if all the deer died in a forest, it would have a knock-on consequence by lowering the number of wolves and other things that eat the deer, as they either relocate or starve.
 Also, it doesn’t necessarily have to be animals dying, for example a forest fire would reduce the number of trees, which has a knock-on consequence of reducing the birds who reside in the trees by forcibly relocating them elsewhere.
 
 ## Temperate Deciduous Forests
@@ -22,7 +22,7 @@ TDFs occur between the tropic of cancer and the arctic circle. It also occurs in
 
 So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
 Below the canopy is the shrub layer.
-Below that are the decomposers, who as mentioned earlier eat the dead plants and animals and recycle nutrients back into the soil.
+The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
 The ground cover contains small bushes and grasses.
 Food Chain – Shows feeding relationship between organisms in a habitat
 Food Web – shows how many organisms in an ecosystem interact.
@@ -32,4 +32,5 @@ Delamere Equilibrium - [https://www.shorturl.at/IETnU](https://www.shorturl.at/I
 ## Delamere Forest Nutrient Cycle
 
 Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
+
 
