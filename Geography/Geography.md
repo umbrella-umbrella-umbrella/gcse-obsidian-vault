@@ -10,3 +10,5 @@
 [[Coastal Landscapes]]
 [[Tectonic Hazards]]
 
+[[Geographical Skills]]
+

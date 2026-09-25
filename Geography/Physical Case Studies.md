@@ -1,0 +1,10 @@
+
+## **Extra content added**
+
+**A natural hazard is a natural process that threatens people, property or the environment. Risk depends on the hazard’s magnitude, frequency and duration, the number of people and assets exposed, and their vulnerability and capacity to respond.**
+
+**Tectonic hazard patterns:** Earthquakes and volcanoes are concentrated at plate margins. The Pacific Ring of Fire has many destructive and conservative boundaries; constructive activity occurs along mid-ocean ridges such as the Mid-Atlantic Ridge. Plates move slowly over the mantle. At constructive margins they move apart; at destructive margins an oceanic plate subducts beneath another plate; at conservative margins plates slide past each other. Friction and pressure release at conservative margins can cause earthquakes.
+
+**Contrasting tectonic examples:** Nepal is a lower-income country (LIC), while Japan is a higher-income country (HIC). In Nepal, building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Immediate responses included tents, field hospitals and international aid; longer-term responses included rebuilding schools and stricter building codes. In Japan, the earthquake and tsunami caused deaths, homelessness and damage to infrastructure; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses. These examples can be compared by the resources available for preparation, response and recovery.
+
+**Typhoon Haiyan response timescales:** Deaths, injuries, destruction of homes and boats, and damaged roads were primary effects. Disrupted livelihoods, looting, interrupted services and damage to the local economy were secondary effects. Evacuation centres, food, water and shelter were immediate responses. Replacing fishing boats and rebuilding homes away from high flood-risk areas were longer-term responses.

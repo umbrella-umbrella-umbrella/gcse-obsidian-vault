@@ -1,0 +1,12 @@
+
+## **Extra content added**
+
+**Evidence of climate change:** Evidence from the Quaternary period to the present includes ice cores, fossils, pollen, tree rings, historical records and modern temperature measurements. These records show natural changes over long timescales as well as recent warming.
+
+**Causes:** Natural causes include orbital changes, volcanic activity and changes in solar output. Human causes include burning fossil fuels for energy and transport, agriculture (including methane from livestock), and deforestation (which releases carbon dioxide and reduces its removal from the atmosphere).
+
+**Effects and management:** Climate change affects people and ecosystems through changing temperatures and rainfall, sea-level rise, drought, flooding and shifts in species ranges. Mitigation reduces causes: alternatives to fossil fuels, carbon capture, tree planting and international agreements. Adaptation responds to impacts: changing crops and farming practices, managing water supplies, and protecting coasts and settlements from sea-level rise.
+
+**UK weather hazards:** The UK experiences storms, heavy rain and flooding, snow and ice, heatwaves, drought and strong winds. A single extreme event does not prove a trend; long-term records are needed. Met Office records show sustained UK warming and increasing temperature extremes. For example, its State of the UK Climate 2025 report says 2025 was the warmest year in the UK series from 1884, and days above 30°C and nights above 18°C have more than quadrupled in Greater London in 2016–2025 compared with 1961–1990. [Met Office: State of the UK Climate](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate)
+
+**UK extreme-weather example – Somerset Levels floods, winter 2013–14:** Prolonged heavy rainfall, saturated ground, flat low-lying land and rivers with reduced capacity contributed to flooding. Social impacts included disrupted travel, school and work; economic impacts included damage to farms, businesses and homes; environmental impacts included flooded farmland and habitats. Responses included pumping, dredging the Rivers Tone and Parrett, repairing flood banks and the Somerset Levels and Moors Flood Action Plan. Dredging and pumping can reduce risk, but flood management also needs maintenance, warnings, preparation and wider catchment measures. [Environment Agency: Somerset flood-risk work](https://www.gov.uk/government/publications/somerset-levels-and-moors-reducing-the-risk-of-flooding/somerset-levels-and-moors-reducing-the-risk-of-flooding)
