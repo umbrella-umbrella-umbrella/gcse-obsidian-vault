@@ -1,4 +1,4 @@
-﻿# Security policies
+# Security policies
 - A **security policy** is a set of written rules and guidelines explaining how an organisation protects its data, systems, and users from security threats.
 - Policies can define responsibility and explain how staff should report concerns and issues.
 
