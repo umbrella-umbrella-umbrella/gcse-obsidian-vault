@@ -23,7 +23,7 @@
 - Local people used boats and tractors to get around
 - A 5-mile stretch of the rivers Tone and Parret were dredged, increasing water capacity by 40% (cost them 5 million pounds)
 - 20 million pound flood action plan to improve the flood resistance of the area
-- Rivers hadn’t been dredged in 20 years (they were asking for it – also it decreased the river capacity so less excess water was needed for the rivers to overflow)
+- Rivers hadn’t been dredged in 20 years (the lack of dredging reduced the river capacity so less excess water was needed for the rivers to overflow)
 - Extreme rainfall over the 2013-2014 winter (main cause since there was too much water for the rivers to handle – also the soil was very saturated, meaning that it couldn’t hold any more water)
 - Somerset levels themselves are flat (few meters above sea level) so they flood very often anyway
 
@@ -50,6 +50,7 @@
 - Government sent out warnings (helping to reduce deaths)
 - Government requested international aid (including food, water and shelter)
 - Military used mass graves to bury dead people (helping to prevent the spread of disease)
-- Toyota and Sony permanently relocated some of their operations elsewhere (less jobs, economic damage)
-- Those 330K homes were rebuilt for people who lost their houses (the reconstruction helped residents resume their lives and supported the local economy)
+- Toyota and Sony permanently relocated some of their operations elsewhere (fewer jobs, economic damage)
+- Those 330K homes were rebuilt for people who lost their houses (reconstruction helped residents resume their lives and supported the local economy)
+
 

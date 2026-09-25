@@ -4,14 +4,14 @@
 - **Drainage Basin** – an area of land drained by a river and its tributaries
 - **Tributary** – a small stream that joins a large river
 - **Confluence** – where one river joins another
-- **Mouth** – Something Alfie uses too mu- I mean where the river meets the sea
+- **Mouth** – The point where a river meets the sea.
 - **Watershed** – the line that separates one drainage basin from another
 
 ## River Cross Profiles
 
 In the upper course, the river flows in a V shape. This is because there is not much water that is drained into the river, so there is less energy in the river, so the river cannot erode laterally (left/right) only vertically (down), causing it to form a V shape.
 In the middle course the sides of the river start to erode, as the drainage basin area is larger, meaning more water drains into there river here, so the river has more energy. This makes it possible for the river to erode both laterally and vertically, so it starts to erode the sides.
-In the lower course of the river, the sides have completely eroded. This is because the drainage basin area is now very large, so the river has a lot of water and therefore energy, so it can erode vertically and laterally a lot, causing both sides to erode and also making the river very deep.
+In the lower course of the river, the sides have completely eroded. The drainage basin area is now very large, so the river has a lot of water and therefore energy, so it can erode vertically and laterally a lot, causing both sides to erode and also making the river very deep.
 
 ## Bradshaw Model
 
@@ -65,4 +65,5 @@ OXBOW LAKES - The river meanders, and on the outside of the river there is erosi
 
 FLOODPLAINS – The river flows normally. When the river floods, it bursts it’s banks and floods the surround area, causing it to lose speed which causes it to lose energy, making it deposit sediment in the flooded area. Heavier, larger sediment is deposited first, next to the river, as it requires more energy to carry, while smaller, more fine sediment is deposited furthest from the river as it requires the least amount of energy to carry. After the flood, the river returns to normal flow, and the deposited sediment remains in the originally flooded area, causing a raised, fertile floodplain to form.
 ESTUARIES – Where the river meets the sea. The river slows down, causing it to deposit sediment
+
 
