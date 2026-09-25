@@ -2,8 +2,8 @@
 
 ## Plate Rules
 
-Continental plate – Thicker than oceanic plates, never subducts, less dense than oceanic
-Oceanic plate – Thinner than continental, always subducts, denser than continental
+Continental plate – Usually thicker and less dense than oceanic crust. It does not usually subduct beneath oceanic crust; behaviour depends on the boundary.
+Oceanic plate – Usually thinner and denser than continental crust. It may subduct at a destructive boundary, but oceanic plates also meet at constructive and conservative boundaries.
 
 ## Boundaries
 
