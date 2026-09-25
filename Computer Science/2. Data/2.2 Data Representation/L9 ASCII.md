@@ -16,8 +16,6 @@ for another
 - outline the shortcomings of ASCII and understand how
 encoding systems that use more bits overcome them.
 
-see Topic 2 of the student book.
-
 ### ASCII
 
 How computers store data

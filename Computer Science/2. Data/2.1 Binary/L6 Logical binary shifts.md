@@ -16,8 +16,6 @@ integers by powers of 2
 - explain why a number may be less precise after a binary shift
 right has been applied.
 
-see Topic 2 of the student book
-
 ### Logical binary shifts
 
 Binary arithmetic

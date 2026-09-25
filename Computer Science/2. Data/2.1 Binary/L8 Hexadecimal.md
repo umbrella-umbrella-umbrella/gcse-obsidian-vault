@@ -14,8 +14,6 @@ In this lesson you will learn to:
 - explain why hexadecimal notation is used
 - convert between hexadecimal and binary.
 
-see Topic 2 of the student book.
-
 ### Hexadecimal
 
 Quick test!

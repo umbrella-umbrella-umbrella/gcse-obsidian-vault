@@ -14,8 +14,6 @@ In this lesson you will learn to:
 - describe how an arithmetic right shift differs from a logical right
 shift.
 
-see Topic 2 of the student book.
-
 ### Arithmetic binary shifts
 
 Left arithmetic shifting

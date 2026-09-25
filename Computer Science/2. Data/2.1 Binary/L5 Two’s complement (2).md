@@ -15,8 +15,6 @@ complement binary numbers
 - determine the range of values that can be represented in two's
 complement by a binary number of a given length.
 
-see Topic 2 of the student book.
-
 ### Two's complement (2)
 
 Two's complement
