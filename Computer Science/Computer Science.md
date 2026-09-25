@@ -1,6 +1,6 @@
 # Computer Science
 
-Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification topic. The topic notes are converted from the lesson PDFs in this vault.
+Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification topic. Each Markdown lesson note corresponds to one source PDF.
 
 ## 2. Data
 
@@ -20,8 +20,10 @@ Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification top
 ## 3. Computers
 
 ### 3.1 Hardware
-- [[Computer Science/3. Computers/3.1 Hardware/3.1.1 Stored Program Concept]]
-- [[Computer Science/3. Computers/3.1 Hardware/3.1.2 Secondary Storage]]
+- [[Computer Science/3. Computers/3.1 Hardware/3.1.1 Fetch Decode Execute - Part 1]]
+- [[Computer Science/3. Computers/3.1 Hardware/3.1.1 Fetch Decode Execute - Part 2]]
+- [[Computer Science/3. Computers/3.1 Hardware/3.1.2 Secondary Storage - Part 1]]
+- [[Computer Science/3. Computers/3.1 Hardware/3.1.2 Secondary Storage - Part 2]]
 - [[Computer Science/3. Computers/3.1 Hardware/3.1.3 Embedded Systems]]
 
 ### 3.2 Software
