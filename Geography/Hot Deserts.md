@@ -3,7 +3,7 @@
 ## Plant Adaptations In Hot Deserts
 
 Saguaro Cactus – They have pleats, which work by expanding when it rains to collect as much water as humanly possible to take advantage of it. A Saguaro cactus can hold 5 tons of water – which is VERY important for its survival as the odds of it raining in a desert are comparable to the odds of Hittesh growing an inch. They also have a long and shallow root system to suck up water.
-Plants in hot deserts can remain dormant for up to 10 years before germinating after rain.
+
 
 ## Hot Desert Features
 
@@ -43,7 +43,7 @@ Really hot
 
 ## Challenges
 
-- It’s REALLY and I mean REALLY hot. Summer temperatures can reach 53 degrees. Still not as warm as my room though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
+- It’s  hot. Summer temperatures can reach 53 degrees. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
 - Mobile dunes (basically dunes which move about the place) can block roads, stopping people getting to school/work.
 - Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, there are a lot of people that live here, a lot of farms here AND a lot of factories here. They all need water.
 - Lack of roads makes transport difficult. Camel travel is common.
@@ -65,3 +65,4 @@ Desertification is the process by which fertile land becomes desert, usually on 
 - Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
 - Theres more but it’s so long-winded 
 Right, I just skimmed over the fieldwork which will be featured at the end of the document, which should be completed tomorrow and then ill finish with new Brighton and sampling and data types and all that.
+

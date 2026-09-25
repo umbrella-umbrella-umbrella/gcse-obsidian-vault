@@ -20,7 +20,7 @@ LONGSHORE DRIFT – The ocean’s swash follows the direction of the prevailing 
 
 ## Spits And Bars
 
-Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction chances, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
+Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction changes, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
 
 ## Wave-Cut Platform
 
@@ -40,7 +40,7 @@ On a discordant coastline, there is differential erosion. Softer rock erodes mor
 
 ## Coastal Management Strategies
 
-HARD (don’t even think about it) ENGINEERING – Visible, Expensive, Work against nature
+## Hard Engineering
 e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
 SOFT ENGINEERING – Less visible, cheaper, work with natural processes.
 e.g. Managed retreat, dune regeneration, beach nourishment
@@ -50,3 +50,4 @@ Groins – Stop longshore drift, keeping beaches with sand but are expensive and
 Managed retreat – allowing low lying areas of beach to be flooded
 Dune regeneration- planting marram grass (that spiky long grass you get on sand dunes) on dunes, keeping them strong and acting as a natural barrier from the sea.
 Beach nourishment – physically adding sand/shingles to a beach.
+

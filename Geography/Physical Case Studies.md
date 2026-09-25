@@ -52,3 +52,4 @@
 - Military used mass graves to bury dead people (helping to prevent the spread of disease)
 - Toyota and Sony permanently relocated some of their operations elsewhere (less jobs, economic damage)
 - Those 330K homes were rebuilt for people who lost their houses (the reconstruction helped residents resume their lives and supported the local economy)
+

@@ -1,7 +1,7 @@
 # Ecosystems
 
 Ecosystem – A natural system made up of biotic (living) and abiotic (non-living) factors.
-Biotic is basically things like animals, plants (me), and trees.
+Biotic is basically things like animals, plants , and trees.
 Abiotic is things like soil, air and water.
 Primary Consumers eat the producers, they are biotic. An example is a rabbit in a grassland.
 Decomposers are insects that eat dead animals and plants and leave the energy in the soil, e.g. an earthworm in a grassland.
@@ -32,3 +32,4 @@ Delamere Equilibrium - [https://www.shorturl.at/IETnU](https://www.shorturl.at/I
 ## Delamere Forest Nutrient Cycle
 
 Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
+
