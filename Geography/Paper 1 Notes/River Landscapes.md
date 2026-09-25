@@ -11,7 +11,7 @@
 
 In the upper course, the valley is V-shaped. This is because there is not much water that is drained into the river, so there is less energy in the river, so vertical erosion is dominant, causing it to form a V shape.
 In the middle course lateral erosion increases as more water enters the river and its energy rises. This makes it possible for the river to erode both laterally and vertically, so it starts to erode the sides.
-In the lower course of the river, the sides have completely eroded. The drainage basin area is now very large, so the river has a lot of water and therefore energy, so it can erode vertically and laterally a lot, causing both sides to erode and also making the river very deep.
+In the lower course, the valley is wide with gently sloping sides and a broad, flat floodplain. Lateral erosion and deposition help widen the valley; the river channel is usually deeper and wider than upstream.
 
 ## Bradshaw Model
 

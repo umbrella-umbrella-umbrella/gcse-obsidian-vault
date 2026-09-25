@@ -2,7 +2,7 @@
 
 ## Plant Adaptations In Hot Deserts
 
-Saguaro Cactus – They have pleats, which work by expanding when it rains to collect as much water as humanly possible to take advantage of it. A Saguaro cactus can hold 5 tons of water – which is VERY important for its survival as the odds of it raining in a desert are comparable to the odds of Hittesh growing an inch. They also have a long and shallow root system to suck up water.
+Saguaro cactus – Pleats expand as the stem takes up water after rain. A mature saguaro can weigh more than two tonnes when fully hydrated; most of its mass is water. Its shallow, widespread roots rapidly absorb water from brief rainfall.
 
 
 ## Hot Desert Features

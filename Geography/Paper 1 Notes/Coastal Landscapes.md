@@ -4,7 +4,7 @@ Longshore drift moves sediment along the coast. The swash follows the prevailing
 
 ## Constructive Waves
 
-- Break infrequently (>10 a minute)
+- Break less frequently (usually about 6–8 waves per minute)
 - Responsible for deposition
 - Long in relation to their height
 - Swash is more powerful than backwash

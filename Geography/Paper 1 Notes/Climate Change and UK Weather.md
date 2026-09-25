@@ -9,7 +9,7 @@ Impacts – 100,000 homes and businesses without power, 1,000 schools closed alo
 - Changes in solar output – If the sun outputs more solar energy, it will affect Earth climate by making it warmer.
 - Changes in Earth orbit – Over 100,000 years, the earth’s orbit around the sun can change from a circle to an oval shape. If the earth gets closer to the sun on the oval, the earth will get more solar energy and will affect the earth’s climate by making it warmer, but if the earth reaches the edges of the oval, furthest away from the sun, the earth will get less solar energy and will affect the earth’s climate by making it cooler.
 - Changes in Earth axial tilt – Over 41,000 years, the earth’s axis can change by 1 degree from 23.5 degrees. If it tilts closer to the sun at 22.5 degrees, the earth will get more solar energy and will affect the earth’s climate by making it warmer, however if it tilts away from the sun at 24.5 degrees, the earth will get less solar energy and will affect the earth’s climate by making it cooler.
-- Wobble – Over 23,000 years, the earth can randomly wobble closer or further from the sun. If it wobbles closer to the sun, the earth will get more solar energy and will affect the earth’s climate by making it warmer, however if it wobbles away from the sun, the earth will get less solar energy and will affect the earth’s climate by making it cooler.
+- Precession (axial wobble) – Over roughly 19,000–23,000 years, Earth’s axis slowly changes direction. This changes the timing of the seasons in relation to Earth’s position in its orbit; it does not make Earth randomly move closer to or further from the Sun.
 ## Internal Natural Factors
 - Volcanic eruptions – Sulfur and ash from eruptions can block the sun’s radiation, causing the climate to be cooler.
 - Tectonic movements – Plate tectonics move the continents, leading to changes in atmospheric circulation in different parts of the world, making some areas have a warmer climate and other areas having a cooler climate.
@@ -26,17 +26,15 @@ Climate change will also make it so tropical diseases like malaria may spread fa
 Climate change management (adaptation) includes the Maldives building a sea wall to combat rising sea levels, to protect the islands from rising sea levels.
 Another management strategy includes HICs using desalination, which involves boiling seawater to rid it of salt and then condensing it back into safe, potable drinking water. 
 ## Kyoto Protocol (1997), Japan
-- It reduced CO₂ emissions by 5.2%
-- 170 countries signed it, showing cooperation between countries
-- USA and Australia, 2 major CO₂ emitters, refused to sign it, so it could have been better.
-- Took 8 whole years to ratify (97-05)
+- The protocol set a target for participating developed countries to reduce greenhouse-gas emissions by an average of 5.2% below 1990 levels during 2008–2012; this was a target, not a measured global reduction.
+- The United States signed but did not ratify it. Australia signed in 1998 and ratified it in 2007.
+- It entered into force in 2005 after the required ratifications.
 ## Copenhagen Accord (2009), Denmark
 - The accord was not a formal treaty and relied on voluntary pledges.
-## Paris Agreement (2015), France
-- 195 countries signed it (highest yet)
-- The agreement is legally binding.
-- Aims to keep global warming way below 2 degrees – aiming for 1.5
-- The United States later withdrew from the Paris Agreement.
+## Paris Agreement (2015)
+- Adopted by 195 Parties in 2015. It is a treaty with binding procedural duties, including submitting and updating national climate plans; each country’s emissions target is nationally determined rather than imposed as a legally binding result.
+- Aims to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.
+- The United States has withdrawn and rejoined at different times; check the current status before using this as a present-day example.
 
 ## **Extra content added**
 
