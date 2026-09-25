@@ -10,12 +10,11 @@
 
 Learning objectives
 In this lesson you will learn to:
-- define what is meant by the terms: 'binary' and 'bit’
+- define what is meant by the terms: 'binary' and 'bit'
 - explain why binary is used to represent data and program
 instructions in a computer
 - describe the relationship between the number of bits and the
 range of values that can be represented by them.
-Topic 2 of the student book.
 
 ### Binary
 
@@ -27,7 +26,7 @@ They have two distinct states (on and off)
 that we use the binary digits 1 and 0 to
 represent.
 Why is it called binary?
-Because ‘bi’ means two. There are two
+Because ‘bi' means two. There are two
 available digits that we can use (1 and 0), so
 the number system is called binary.
 The normal numbers that we are familiar with
@@ -58,7 +57,7 @@ represented in binary.
 ### Binary
 
 Encoding
-Let’s say you want to use binary to represent and uniquely
+Let's say you want to use binary to represent and uniquely
 identify pets.
 If you have 4 pets, you can represent them using 2 binary digits
 (or bits) like so:
@@ -85,7 +84,7 @@ identify groups of animals with similar characteristics, e.g. animals with
 How many patterns?
 It is possible to calculate how many unique bit patterns are available for a
 set number of bits.
-Let’s see if you can spot the
+Let's see if you can spot the
 pattern:
 - With 1 bit, you can
 represent 2 values
@@ -117,10 +116,10 @@ them all.
 ### Binary
 
 Wrap up: you have learned how to…
-✔ Define the terms 'binary' and 'bit’.
+✔ Define the terms 'binary' and 'bit'.
 - Binary is a number system that uses 2 digits, 1 and 0.
 - A bit is one digit of a binary number. It is a shortened version of
-the phrase ‘binary digit’.
+the phrase ‘binary digit'.
 ✔ Explain why binary is used to represent data and program
 instructions in a computer.
 - Digital computers are based on transistors which have two

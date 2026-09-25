@@ -13,13 +13,13 @@ In this lesson you will learn to:
 - apply arithmetic left and right shifts to signed binary numbers
 - describe how an arithmetic right shift differs from a logical right
 shift.
-For more information about this topic and additional student activities
+
 see Topic 2 of the student book.
 
 ### Arithmetic binary shifts
 
 Left arithmetic shifting
-Shifts are known as ‘bitwise operations’ because they operate on
+Shifts are known as ‘bitwise operations' because they operate on
 each bit in a pattern, one at a time.
 Left-shift  00010111  (decimal 23)
 = 0 0 1 0 1 1 1 0 0 (decimal 46)
@@ -48,8 +48,8 @@ produced. You will see a difference with signed integers.
 ### Arithmetic binary shifts
 
 Signed integers
-Let’s look at a signed integer and perform a left arithmetic shift of 3.
-The signed integer is a two’s complement binary of -22:
+Let's look at a signed integer and perform a left arithmetic shift of 3.
+The signed integer is a two's complement binary of -22:
 First shift   11010100                                                                          -44
 Second shift
 Third shift   10101000                                                                          -88
@@ -60,10 +60,10 @@ Is there a problem here?
 ### Arithmetic binary shifts
 
 Overflow
-We’ve looked at overflows before.
+We've looked at overflows before.
 An overflow error is when the result of a calculation is too large
 for the space allocated for it.
-We’ve just seen the effect that overflows have when performing
+We've just seen the effect that overflows have when performing
 shifts.
 
 ### Arithmetic binary shifts

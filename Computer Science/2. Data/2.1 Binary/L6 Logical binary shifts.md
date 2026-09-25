@@ -15,13 +15,13 @@ In this lesson you will learn to:
 integers by powers of 2
 - explain why a number may be less precise after a binary shift
 right has been applied.
-For more information about this topic and additional student activities
+
 see Topic 2 of the student book
 
 ### Logical binary shifts
 
 Binary arithmetic
-You’ve learned how to add in binary, but what about other
+You've learned how to add in binary, but what about other
 operations?
 Multiplication and division can be achieved using shifting.
 There are two forms of shifting:
@@ -31,7 +31,7 @@ arithmetic.
 ### Logical binary shifts
 
 Logical left shifting
-Shifts are known as ‘bitwise operations’ because they operate on
+Shifts are known as ‘bitwise operations' because they operate on
 each bit in a pattern, one at a time.
 Left-shift             00010111  (decimal 23)
 = 0 0 1 0 1 1 1 0 0 (decimal 46)

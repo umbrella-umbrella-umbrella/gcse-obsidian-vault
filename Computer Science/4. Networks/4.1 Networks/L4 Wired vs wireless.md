@@ -16,7 +16,6 @@ give examples of situations where one is preferable to the
 other
 - Summarise the characteristics of Wi-Fi, Bluetooth®, RFiD,
 Zigbee and NFC and give examples of their use.
-of the student book.
 
 ### Wired vs wireless
 
@@ -57,7 +56,7 @@ Previously you learned that a LAN is a network limited to a single
 building or site.
 WLANs are Wireless Local Area Networks.
 You probably have a WLAN at home.
-If you use Wi-Fi to connect your devices, that’s a WLAN.
+If you use Wi-Fi to connect your devices, that's a WLAN.
 
 ### Wired vs wireless
 

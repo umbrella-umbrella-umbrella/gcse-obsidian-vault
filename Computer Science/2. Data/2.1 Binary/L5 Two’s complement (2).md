@@ -1,12 +1,12 @@
-# L5 Two’s complement (2)
+# L5 Two's complement (2)
 
 **Pearson Edexcel GCSE Computer Science (1CP2) — specification 2.1.2, 2.1.3.**
 
 > Notes converted from the lesson slides listed below. They are grouped under the matching specification section.
 
-## L5 Two’s complement (2)
+## L5 Two's complement (2)
 
-### Two’s complement (2)
+### Two's complement (2)
 
 Learning objectives
 In this lesson you will learn to:
@@ -14,31 +14,31 @@ In this lesson you will learn to:
 complement binary numbers
 - determine the range of values that can be represented in two's
 complement by a binary number of a given length.
-For more information about this topic and additional student activities
+
 see Topic 2 of the student book.
 
-### Two’s complement (2)
+### Two's complement (2)
 
-Two’s complement
-We discussed two’s complement in a previous lesson.
+Two's complement
+We discussed two's complement in a previous lesson.
 What do you remember?
-Two’s complement is the most common way of representing signed
+Two's complement is the most common way of representing signed
 binary integers.
 There is only one way of representing 0.
 This is better than sign magnitude representation. Can you remember
 why?
 
-### Two’s complement (2)
+### Two's complement (2)
 
 Recap
-In two’s complement, the most significant bit (MSB) is worth -128.
+In two's complement, the most significant bit (MSB) is worth -128.
 –128 64 32 16 8       4  2  1
 What is the pattern for the highest value that can be represented in 8
 bits?
 What is the pattern for the lowest value that can be represented in
 8-bits?
 
-### Two’s complement (2)
+### Two's complement (2)
 
 Maximum and minimum values
 –128 64 32 16 8  4  2                                                                1
@@ -46,21 +46,21 @@ Maximum and minimum values
 –128 64 32 16 8  4  2                                                                1
 1  0  0  0  0    0  0                                                                0
 
-### Two’s complement (2)
+### Two's complement (2)
 
-What is two’s complement and why is it needed?
-Two’s complement is actually a clever mathematical solution.
+What is two's complement and why is it needed?
+Two's complement is actually a clever mathematical solution.
 As we saw before, the human-friendly minus sign cannot be
 displayed in binary code.
-Sign-magnitude representation has two values for 0. That’s not
+Sign-magnitude representation has two values for 0. That's not
 particularly useful!
-Two’s complement is much more useful as there is only one
+Two's complement is much more useful as there is only one
 value for 0 and mathematical operations actually work.
 
-### Two’s complement (2)
+### Two's complement (2)
 
-Adding with two’s complement
-Adding with binary patterns in two’s complement is the same as adding
+Adding with two's complement
+Adding with binary patterns in two's complement is the same as adding
 any other binary pattern, including those that represent unsigned
 numbers.
 The four rules for addition are the same
@@ -68,7 +68,7 @@ The four rules for addition are the same
 1 1 1 1 1 0 1 1+                                                                  = –5
 00000010                                                                          = +2
 
-### Two’s complement (2)
+### Two's complement (2)
 
 Wrap up: so far you have learned how to…
 ✔ Convert between signed denary numbers and two's complement
@@ -81,4 +81,4 @@ complement by a binary number of a given length.
 
 ---
 
-**Source PDFs:** `2. Data/L5 Two’s complement (2).pdf`.
+**Source PDFs:** `2. Data/L5 Two's complement (2).pdf`.

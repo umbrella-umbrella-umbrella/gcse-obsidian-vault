@@ -11,9 +11,8 @@
 Learning objectives
 In this lesson students will learn to:
 - add together two positive 8-bit binary patterns
-- define what is meant by the term 'overflow error’
+- define what is meant by the term 'overflow error'
 - describe the effects of an overflow error.
-Topic 2 of the student book.
 
 ### Binary arithmetic
 
@@ -27,7 +26,7 @@ addition.
 ### Binary arithmetic
 
 Golden rules
-There are 4 rules to remember. If you always apply them, you’ll get
+There are 4 rules to remember. If you always apply them, you'll get
 your binary additions right every time.
 0+0=0
 0+1=1
@@ -51,21 +50,21 @@ down and carry 1 over into the next
 ### Binary arithmetic
 
 Overflow
-Let’s try one more together:
+Let's try one more together:
 1100       0111
 1111       0 1 0 0+
 1011       1011
 1          1
 Is this answer correct?
-What’s happened to the last carry digit?
+What's happened to the last carry digit?
 
 ### Binary arithmetic
 
 Overflow
-What you’ve just seen is called overflow.
+What you've just seen is called overflow.
 It means the result of the calculation is too large for the space allocated
 (in this case 1 byte).
-The way a computer handles this will depend on how it’s setup.
+The way a computer handles this will depend on how it's setup.
 - It could crash and report an overflow error.
 - It could truncate the answer (simply leave off the extra one).
 - It could wrap the number around back to zero.
@@ -73,7 +72,7 @@ The way a computer handles this will depend on how it’s setup.
 ### Binary arithmetic
 
 Handling overflow in a manual calculation
-Let’s look again at our previous example:
+Let's look again at our previous example:
 1100         0111
 1111         0100+
 1011         1011
@@ -92,8 +91,8 @@ In programming…
 Python is a language that is flexible with storage space.
 Integers are not limited to a specific number of bits and can expand
 to fit available memory.
-In some applications, it’s important to work out how much space is
-‘just enough’, particularly when memory might be short.
+In some applications, it's important to work out how much space is
+‘just enough', particularly when memory might be short.
 Such applications include embedded systems where the hardware
 is basic.
 
@@ -106,7 +105,7 @@ Wrap up: you have learned how to…
 1+0=1
 1 + 1 = 0 carry 1
 1 + 1 + 1 = 1 carry 1
-✔ Define what is meant by the term 'overflow error’.
+✔ Define what is meant by the term 'overflow error'.
 - When the result of a calculation is too large for the space
 allocated.
 ✔ Describe the effects of an overflow error.

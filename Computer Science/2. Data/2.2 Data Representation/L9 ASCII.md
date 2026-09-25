@@ -15,7 +15,7 @@ In this lesson you will learn to:
 for another
 - outline the shortcomings of ASCII and understand how
 encoding systems that use more bits overcome them.
-For more information about this topic and additional student activities
+
 see Topic 2 of the student book.
 
 ### ASCII
@@ -83,8 +83,8 @@ Whilst you are not expected to memorise the ASCII table, there are a
 couple of patterns that will help you to generate the codes.
 The capital letter alphabet starts at denary 65 and the lower case
 alphabet starts at denary 97.
-‘A’ is 65 in denary and is 0100 0001 in binary.
-‘a’ is 97 in denary and is 0110 0001 in binary.
+‘A' is 65 in denary and is 0100 0001 in binary.
+‘a' is 97 in denary and is 0110 0001 in binary.
 The upper and lower case alphabets have matching binary patterns.
 
 ### ASCII
@@ -93,11 +93,11 @@ Finding patterns
 Character  Denary                       Binary
 A       65                      0100 0001
 a       97                      0110 0001
-What do you add to the code for ‘A’ to find the code for ‘a’?
+What do you add to the code for ‘A' to find the code for ‘a'?
 Character  Denary                       Binary
 G       71                     0100 0111
 g      103                     0110 0111
-What do you subtract from the code for ‘g’ to find the code for ‘G’?
+What do you subtract from the code for ‘g' to find the code for ‘G'?
 
 ### ASCII
 
@@ -105,11 +105,11 @@ Deriving characters
 It is possible to derive the ASCII value of a character if you know
 the ASCII value of another.
 Worked example:
-The binary code for ‘A’ is 0100 0001.
-You need the ASCII value for ‘E’.
-From ‘A’ to ‘E’ is 4 characters, so add 4 (in binary) to the value
-for ‘A’.
-So the binary value for ‘E’ is 0100 0101.
+The binary code for ‘A' is 0100 0001.
+You need the ASCII value for ‘E'.
+From ‘A' to ‘E' is 4 characters, so add 4 (in binary) to the value
+for ‘A'.
+So the binary value for ‘E' is 0100 0101.
 
 ### ASCII
 
@@ -128,7 +128,7 @@ to represent 120,000 characters.
 ### ASCII
 
 Wrap up: so far you have learned how to…
-✔ Define what is meant by the term 'character set’.
+✔ Define what is meant by the term 'character set'.
 - All the characters that a computer is able to represent and translate.
 ✔ Describe how characters are represented in 7-bit ASCII.
 - Each character is represented with a 7-bit binary pattern. The alphabets

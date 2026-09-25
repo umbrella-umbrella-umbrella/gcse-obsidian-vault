@@ -13,7 +13,7 @@ In this lesson you will learn to:
 - define what is meant by the term 'hexadecimal'
 - explain why hexadecimal notation is used
 - convert between hexadecimal and binary.
-For more information about this topic and additional student activities
+
 see Topic 2 of the student book.
 
 ### Hexadecimal
@@ -25,9 +25,9 @@ Did you get it all down correctly?
 ### Hexadecimal
 
 Human problems
-That was difficult, wasn’t it?
+That was difficult, wasn't it?
 Did you get all of the digits correct?
-Even if you had more than 5 seconds, chances are you’d make a
+Even if you had more than 5 seconds, chances are you'd make a
 mistake.
 This is because people find binary numbers hard to read, write and
 understand.
@@ -43,7 +43,7 @@ Hexadecimal is a number system that is base 16.
 ### Hexadecimal
 
 Hexadecimal values               Denary  Binary                                                Hexadecimal
-You don’t need to memorise this      0      0000                                                        0
+You don't need to memorise this      0      0000                                                        0
 table!                               1      0001                                                        1
 2      0010                                                        2
 Remember that:                       3      0011                                                        3
@@ -93,7 +93,7 @@ Find out more information about this in Activity 3.
 ### Hexadecimal
 
 Wrap up: you have learned how to…
-✔ Define what is meant by the term 'hexadecimal’.
+✔ Define what is meant by the term 'hexadecimal'.
 - Base-16; 0-9 then A, B, C, D, E, F.
 ✔ Explain why hexadecimal notation is used.
 - Easier for people to read, write and understand.

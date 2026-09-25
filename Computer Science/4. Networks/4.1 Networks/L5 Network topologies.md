@@ -10,11 +10,10 @@
 
 Learning objectives
 In this lesson you will learn to:
-- Define the term ‘topology’
+- Define the term ‘topology'
 - Describe the characteristics of bus, star and mesh network
 topologies
 - Draw and label a diagram of each topology
-of the student book.
 
 ### Network topologies
 
@@ -36,7 +35,7 @@ There are three topologies commonly used in LANs:
 
 Topology security
 Bus topology
-Not very secure as all devices ‘see’ all of the data traffic.
+Not very secure as all devices ‘see' all of the data traffic.
 Star topology
 Very secure as each transmission is sent directly to the intended
 recipient.
@@ -49,20 +48,20 @@ destination.
 The internet
 You have been focussing on topologies used for LANs so far. The
 internet is a WAN, but it is also an enormous mesh network.
-The internet’s long-distance, high-bandwidth cables that travel across
+The internet's long-distance, high-bandwidth cables that travel across
 the globe (often under the ocean) are known as the backbone. Each
 country generally has its own backbone, which can be linked to
 others using Network Access Points (NAPs)
 Networks are connected to the internet using a Point of Presence
 (PoPs) provided by an Internet Service Provider (ISP). ISPs are
-organisations that ‘rent’ bandwidth from telecommunications
+organisations that ‘rent' bandwidth from telecommunications
 companies such as BT and then charge their customers to use some
 of that bandwidth.
 
 ### Network topologies
 
 Wrap up: you have learned how to…
-✔ Define the term ‘topology’.
+✔ Define the term ‘topology'.
 - The physical organisation of a network.
 ✔ Describe the characteristics of bus, star and mesh network
 topologies.

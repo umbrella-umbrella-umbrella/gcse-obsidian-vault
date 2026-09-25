@@ -16,7 +16,6 @@ cables
 - Compare the performance of copper and fibre-optic cables and
 give examples of their use
 - Describe how high-speed broadband is delivered.
-of the student book.
 
 ### Connectivity
 

@@ -10,13 +10,12 @@
 
 Learning objectives
 In this lesson you will learn to:
-- Define the meanings of the terms ‘bandwidth’ and ‘latency’
+- Define the meanings of the terms ‘bandwidth' and ‘latency'
 - Explain how bandwidth and latency affect the performance of a
 network
 - Use bits per second (bps) to describe network speed
 - Construct expressions involving file size, transmission rate and
 time.
-of the student book.
 
 ### Network speed
 
@@ -29,7 +28,7 @@ speed?
 ### Network speed
 
 What does speed mean?
-The term ‘download speed’ refers to how much data can be
+The term ‘download speed' refers to how much data can be
 downloaded per second over a connection.
 There are a number of factors that can affect the speed of a
 connection. The two most important are the bandwidth and latency.
@@ -42,7 +41,7 @@ over a connection per second. It is a measurement of capacity. It is
 measured in bits per second (bps).
 Latency is the time taken for a transmission to reach its destination.
 It is measured in milliseconds.
-Gamers may be familiar with the term ‘ping’. This is a way of
+Gamers may be familiar with the term ‘ping'. This is a way of
 measuring latency. It times a single transmission as it travels to a
 server and back again.
 
@@ -98,7 +97,7 @@ The formula can be rearranged to calculate any of its values:
 ### Network speed
 
 Wrap up: you have learned how to…
-- Define the meanings of the terms ‘bandwidth’ and ‘latency’
+- Define the meanings of the terms ‘bandwidth' and ‘latency'
 - Explain how bandwidth and latency affect the performance of a
 network
 - Use bits per second (bps) to describe network speed

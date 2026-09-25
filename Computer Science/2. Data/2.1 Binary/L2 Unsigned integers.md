@@ -10,9 +10,8 @@
 
 Learning objectives
 In this lesson you will learn to:
-- define the terms 'nibble' and 'byte’
+- define the terms 'nibble' and 'byte'
 - convert between denary and 8-bit binary numbers.
-Topic 2 of the student book.
 
 ### Unsigned integers
 
@@ -54,7 +53,7 @@ They use just 2 symbols: 0 and 1
 ### Unsigned integers
 
 Counting
-Let’s count in binary together:
+Let's count in binary together:
 Remember 2n where n = 4, gives us 16 unique values, 0 through
 
 ### Unsigned integers
@@ -76,7 +75,7 @@ So the bit pattern 0110 is the same as 4 + 2, which equals 6.
 Nibbles
 You can also convert from a denary number into its binary equivalent.
 You can use the same table to help you. However, instead of adding,
-you’ll subtract.
+you'll subtract.
 For example, to convert 13 in denary into binary:
 - Largest column value that fits: 8
 - Put a 1 in the 8 column
@@ -116,12 +115,12 @@ This means that the leftmost digit has the largest place value.
 ### Unsigned integers
 
 Wrap up: you have learned how to…
-✔ Define the terms 'nibble' and 'byte’.
+✔ Define the terms 'nibble' and 'byte'.
 - A byte is 8 bits. A nibble is half a byte or 4 bits.
 ✔ Convert between denary and 8-bit binary numbers.
 - Adding place values for binary to denary.
 - Subtracting place values for denary to binary.
-✔ Describe what is meant by the term ‘most significant bit’.
+✔ Describe what is meant by the term ‘most significant bit'.
 
 ---
 

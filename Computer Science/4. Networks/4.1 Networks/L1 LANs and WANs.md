@@ -17,7 +17,6 @@ carry them out
 - Explain the benefits to organisations of a WAN
 - Explain why protocols are needed on a network
 - Describe the purpose of an IP address.
-of the student book.
 
 ### LANs and WANs
 
@@ -26,9 +25,9 @@ Imagine you have a computer that is not connected to any others.
 It has no network connection to a local network, the internet or other
 devices.
 What could you use this device for?
-Would it be useful in today’s world?
+Would it be useful in today's world?
 This kind of computer is called a stand-alone computer because it
-‘stands alone’, without connections to other computers or networks.
+‘stands alone', without connections to other computers or networks.
 
 ### LANs and WANs
 
@@ -56,13 +55,13 @@ Think of some examples of tasks you complete using a computer.
 Most of these will involve a network of some kind.
 For example: Printing a document requires the use of a LAN. The
 computer will be connected to a printer either directly or through the
-school’s network.
+school's network.
 
 ### LANs and WANs
 
 Why organisations have WANs
 Big organisations may have their own WAN.
-The organisation owns all of the WAN’s hardware and has full control
+The organisation owns all of the WAN's hardware and has full control
 of the network. Others cannot use its infrastructure.
 This means the network can be very secure.
 This is a very expensive option because the infrastructure has to be
@@ -137,7 +136,7 @@ Wrap up: you have learned how to…
 - Owning the network hardware gives more control. A WAN can be
 more secure than the VPN alternative.
 ✔ Explain why protocols are needed on a network.
-- Protocols mean that devices are able to ‘speak the same language’.
+- Protocols mean that devices are able to ‘speak the same language'.
 ✔ Describe the purpose of an IP address.
 - Used to identify a device or network access point on the internet.
 
