@@ -1,0 +1,69 @@
+# Hot Deserts
+
+## Plant Adaptations In Hot Deserts
+
+Saguaro Cactus – They have pleats, which work by expanding when it rains to collect as much water as humanly possible to take advantage of it. A Saguaro cactus can hold 5 tons of water – which is VERY important for its survival as the odds of it raining in a desert are comparable to the odds of Hittesh growing an inch. They also have a long and shallow root system to suck up water.
+Plants in hot deserts can remain dormant for up to 10 years before germinating after rain.
+
+## Hot Desert Features
+
+Located anywhere from 15-30 degrees north/south
+Continents they are on include Africa, Asia and North America, and Specific countries include The United States, India (more on that later) and Australia.
+They do not always have plants as there is virtually no precipitation and plants need very special adaptations to survive in the desert environment. The soil is also extremely infertile (here we go again), making it even harder for plants to grow.
+
+## The Golden Mole
+
+- Nocturnal – hunts at night, since it’s main food source (termites) only come out at night (who can blame them - deserts get HOT during the day), so it can feed on them.
+- It lives under the sand, giving it an element of surprise and making it less visible to prey, so it can catch its prey and get food.
+- Smaller than a ping pong ball so it can quickly and easily maneuver through the sand, allowing it to get to prey fast.
+
+## The Darkling Beetle
+
+- Has long limbs – can climb 1000ft sand dunes where there is moisture in the air, so it can get water. (That’s the equivalent of 2 mount Everests for us. This little fella has so much self-discipline to climb 2 mount Everests every time there’s some moisture in the air)
+- Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
+- Can store 40% of his body fat as water – making it easy to survive in the dry desert environment for months
+- Active in mornings where the chance of moisture in the air is higher
+
+## Thar Desert
+
+## Background Information
+
+Desert in the Northwest of India, has towns such as Jaisalmer.
+Really hot
+
+## Opportunities
+
+- Annual desert festival held each winter in Jaisalmer (jobs, money, economic development)
+- In 1958 the Indira Ghandi Canal was built, making previously infertile land possible to be farmed on, where crops such as Mustard,
+- Pulses and Cotton are farmed. (better food security, potential for money to be made in exports of crops)
+- The Jaisalmer wind turbine farm (jobs, renewable energy)
+- Oilfield in the Barmer district (jobs selling oil for money)
+- Mining for Phospherite (used for fertilizer, economic development and jobs)
+- Mining for gypsum
+
+## Challenges
+
+- It’s REALLY and I mean REALLY hot. Summer temperatures can reach 53 degrees. Still not as warm as my room though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
+- Mobile dunes (basically dunes which move about the place) can block roads, stopping people getting to school/work.
+- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, there are a lot of people that live here, a lot of farms here AND a lot of factories here. They all need water.
+- Lack of roads makes transport difficult. Camel travel is common.
+- It gets so hot that the literal roads start to melt, which makes the already limited road network even more inaccessible
+Basically, all the challenges are in one way or another related to the extreme temperature.
+Ok, I’m sleep deprived
+
+## Desertification
+
+Desertification is the process by which fertile land becomes desert, usually on the fringes of existing hot deserts. It becomes drier and less productive.
+
+## Causes
+
+- Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
+- Over-cultivation - where a farmer farms his land a bit too much, which stops soil from regrowing properly and eventually leads to it becoming infertile, leading to desertification.
+- Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
+
+## Strategies To Reduce It
+
+- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
+- Theres more but it’s so long-winded I’d rather get plowed than write it all out, maybe tomorrow I’ll be in more of a mood to do it idk
+Right, I just skimmed over the fieldwork which will be featured at the end of the document, which should be completed tomorrow and then ill finish with new Brighton and sampling and data types and all that.
+
