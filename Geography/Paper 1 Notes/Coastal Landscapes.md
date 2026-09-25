@@ -31,7 +31,7 @@ Freeze thaw – Water collects in a crack, and if the temperature goes below 0 d
 
 To quote Mr. Burton directly, “This doesn’t come up on exams all that much but it’s worth knowing in case it does”
 Landslides – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
-Slumping – Where a section of a cliff falls on a line of weakness
+Slumping – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
 Rockfall – Materials on a cliff face fall and land on the bottom of the cliff.
 
 ## Headlands And Bays
@@ -44,11 +44,11 @@ On a discordant coastline, there is differential erosion. Softer rock erodes mor
 e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
 SOFT ENGINEERING – Less visible, cheaper, work with natural processes.
 e.g. Managed retreat, dune regeneration, beach nourishment
-Sea wall – Waves hit it and it doesn’t get eroded but it’s expensive
-Rip-Rap – Absorbs wave energy but it’s ugly and can drive people away
-Groins – Stop longshore drift, keeping beaches with sand but are expensive and can be ugly
-Managed retreat – allowing low lying areas of beach to be flooded
-Dune regeneration- planting marram grass (that spiky long grass you get on sand dunes) on dunes, keeping them strong and acting as a natural barrier from the sea.
+Sea wall – Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
+Rock armour – Absorbs and dissipates wave energy; it can be costly and may affect views and access.
+Groynes – Trap sediment moved by longshore drift, building a wider beach locally. They can reduce sediment supply further along the coast.
+Managed retreat – Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
+Dune regeneration – Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
 Beach nourishment – physically adding sand/shingles to a beach.
 
 

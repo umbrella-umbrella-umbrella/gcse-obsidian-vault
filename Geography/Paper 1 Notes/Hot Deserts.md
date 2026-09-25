@@ -47,7 +47,7 @@ Really hot
 - Mobile dunes can migrate and block roads, stopping people getting to school/work.
 - Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
 - Lack of roads makes transport difficult. Camel travel is common.
-- It gets so hot that the literal roads start to melt, which makes the already limited road network even more inaccessible
+- Extreme heat can damage road surfaces, and sparse roads and long distances make transport difficult.
 Many challenges in hot deserts result from high temperatures, water scarcity and remoteness.
 
 ## Desertification
