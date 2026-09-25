@@ -54,3 +54,13 @@
 - Those 330K homes were rebuilt for people who lost their houses (reconstruction helped residents resume their lives and supported the local economy)
 
 
+
+## **Extra content added**
+
+**A natural hazard is a natural process that threatens people, property or the environment. Risk depends on the hazard’s magnitude, frequency and duration, the number of people and assets exposed, and their vulnerability and capacity to respond.**
+
+**Tectonic hazard patterns:** Earthquakes and volcanoes are concentrated at plate margins. The Pacific Ring of Fire has many destructive and conservative margins; constructive activity occurs along mid-ocean ridges such as the Mid-Atlantic Ridge. At constructive margins plates move apart; at destructive margins an oceanic plate subducts beneath another plate; at conservative margins plates slide past one another.**
+
+**Contrasting examples:** Nepal is a lower-income country (LIC), while Japan is a higher-income country (HIC). In Nepal, building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Immediate responses included tents, field hospitals and international aid; longer-term responses included rebuilding schools and stricter building codes. In Japan, the earthquake and tsunami caused deaths, homelessness and infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.**
+
+**Typhoon Haiyan response timescales:** Deaths, injuries, destruction of homes and boats, and damaged roads were primary effects. Disrupted transport and communications, loss of livelihoods and damage to businesses were secondary effects. Evacuation centres, food, water, shelter and international aid were immediate responses. Replacing fishing boats and rebuilding homes away from high flood-risk areas were longer-term responses.**
