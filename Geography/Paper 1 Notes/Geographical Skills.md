@@ -24,3 +24,5 @@
 
 **Interpret qualitative and quantitative evidence from maps, fieldwork, GIS, satellite images, photographs, graphs, written sources and statistics. Distinguish primary from secondary data. Communicate findings clearly, analyse evidence, evaluate limitations and reach a supported conclusion.**
 
+
+**AQA map skills include using and comparing OS maps at 1:25,000 and 1:50,000 scales; describing physical features shown on large-scale maps; and annotating or drawing field sketches from maps, photographs and field observations. Use evidence to support comparisons and conclusions.**

@@ -19,7 +19,7 @@ Soil leaching occurs when rain washes nutrients from the soil, leaving behind la
 
 - Has a prehensile tail, so it it loses footing it can catch itself on a tree trunk or vine, stopping it from falling to its death on the forest floor.
 - Travels in family groups, so if one gets stuck the others can help it, decreasing the chance of it falling, also makes it seem more threatening to predators 
-- Lives in the trees and has its food source in the trees – literally no reason to go to the forest floor, avoiding predators and increasing its chance of survival
+- Spider monkeys live and feed mainly in the forest canopy. Their prehensile tails help them move between branches and reach food.
 
 ## Deforestation
 
@@ -66,7 +66,7 @@ Oil extraction – some trees have to be cleared to access oil in the ground
 
 ## Selective Logging And Replanting
 
-Basically, loggers remove only the most valuable trees from a certain area and eventually replant the deforested area as secondary forest, which initially has a lower biodiversity than the surrounding areaa. Advantages include reducing damage to other trees, which act as habitats for animals and increase biodiversity in the area, along with replanting the area, which also provides habitats for animals and stops soil from being made infertile (latosol again). Disadvantages include more valuable trees being deforested for a short while, which can briefly destroy animal habitats. Also, the secondary replanted forest has a lower biodiversity at first, lowering the number of species in the area.
+Selective logging removes chosen trees while leaving much of the surrounding forest standing. Replanting may create secondary forest, which initially has lower biodiversity than mature rainforest. Advantages include reducing damage to other trees, which act as habitats for animals and increase biodiversity in the area, along with replanting the area, which also provides habitats for animals and stops soil from being made infertile (latosol again). Disadvantages include more valuable trees being deforested for a short while, which can briefly destroy animal habitats. Also, the secondary replanted forest has a lower biodiversity at first, lowering the number of species in the area.
 
 ## Debt Reduction
 

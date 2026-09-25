@@ -19,9 +19,9 @@ They do not always have plants as there is virtually no precipitation and plants
 
 ## The Darkling Beetle
 
-- Has long limbs – can climb 1000ft sand dunes where there is moisture in the air, so it can get water. 
+- Some Namib darkling beetles collect water from fog on their bodies; the behaviour and adaptations vary between species. 
 - Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
-- Can store 40% of his body fat as water – making it easy to survive in the dry desert environment for months
+
 - Active in mornings where the chance of moisture in the air is higher
 
 ## Thar Desert
@@ -38,17 +38,17 @@ Really hot
 - Crops include mustard, pulses and cotton, improving food security and supporting exports.
 - The Jaisalmer wind turbine farm (jobs, renewable energy)
 - Oilfield in the Barmer district (jobs selling oil for money)
-- Mining for Phospherite (used for fertilizer, economic development and jobs)
+- Mining for Phosphorite (used for fertilizer, economic development and jobs)
 - Mining for gypsum
 
 ## Challenges
 
 - It’s  hot. Summer temperatures can reach 53 degrees. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
-- Mobile dunes (basically dunes which move about the place) can block roads, stopping people getting to school/work.
+- Mobile dunes can migrate and block roads, stopping people getting to school/work.
 - Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
 - Lack of roads makes transport difficult. Camel travel is common.
 - It gets so hot that the literal roads start to melt, which makes the already limited road network even more inaccessible
-Basically, all the challenges are in one way or another related to the extreme temperature.
+Many challenges in hot deserts result from high temperatures, water scarcity and remoteness.
 
 ## Desertification
 
