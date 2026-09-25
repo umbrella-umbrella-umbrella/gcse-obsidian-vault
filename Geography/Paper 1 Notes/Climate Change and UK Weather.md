@@ -38,11 +38,6 @@ Another management strategy includes HICs using desalination, which involves boi
 - Aims to keep global warming way below 2 degrees – aiming for 1.5
 - The United States later withdrew from the Paris Agreement.
 
-
-
-
-
-
 ## **Extra content added**
 
 **Evidence of climate change:** Evidence from the Quaternary period to the present includes ice cores, fossils, pollen, tree rings, historical records and modern temperature measurements. These records show natural changes over long timescales as well as recent warming.
