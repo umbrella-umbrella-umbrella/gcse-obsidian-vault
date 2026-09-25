@@ -1,5 +1,6 @@
 > Exam Board = AQA  
 > Choices = Hot Deserts, Coastal Landscapes
+
 ## Physical Geography
 
 - [[Tectonic Hazards]]
