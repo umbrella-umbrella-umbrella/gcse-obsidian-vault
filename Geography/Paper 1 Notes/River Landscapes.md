@@ -84,3 +84,25 @@ ESTUARIES – Where the river meets the sea. The river slows down, causing it to
 **Flood management – Somerset Levels:** The 2013–14 floods affected low-lying communities around the Parrett and Tone catchments. The response included the Somerset Levels and Moors Flood Action Plan, dredging and maintaining the Parrett and Tone, repairing flood banks, raising roads and new flood-alleviation schemes. Benefits include reduced risk to homes, infrastructure and farmland; costs and trade-offs include ongoing maintenance and effects on river habitats and other places in the catchment. [Environment Agency: Somerset flood-risk work](https://www.gov.uk/government/publications/somerset-levels-and-moors-reducing-the-risk-of-flooding/somerset-levels-and-moors-reducing-the-risk-of-flooding)
 
 **Flood-management strategies:** Hard engineering includes dams and reservoirs, channel straightening, embankments and flood-relief channels. Soft engineering includes warnings and preparation, floodplain zoning, tree planting and river restoration. Compare costs, effectiveness, environmental impacts and who benefits.
+
+## Case Study: Somerset Levels Floods (2013–14)
+
+### Causes
+
+- Exceptional rainfall during the 2013–14 winter saturated the ground and increased river discharge.
+- The low-lying, flat Somerset Levels are only a few metres above sea level, so floodwater drains away slowly.
+- The Rivers Tone and Parrett had not been dredged for around 20 years, reducing channel capacity.
+
+### Impacts
+
+- About 14,000 hectares of farmland were underwater for three to four weeks.
+- Sixteen farms were evacuated, and residents used boats and tractors to travel.
+- Schools and workplaces were disrupted, affecting education and incomes.
+- Homes, businesses and infrastructure were damaged, leading to insurance claims and concern about property values.
+
+### Responses and management
+
+- Pumps removed water at a reported rate of around 10 tonnes per second.
+- A five-mile stretch of the Tone and Parrett was dredged at a cost of about £5 million; this increased channel capacity by around 40%.
+- A £20 million flood action plan included measures to improve protection and resilience.
+- Dredging can increase channel capacity, but requires maintenance and may affect river habitats or transfer flood risk downstream.

@@ -37,3 +37,26 @@ Earthquakes are unfortunately very hard to predict and happen randomly; however,
 **Global pattern and plate theory:** Earthquakes and volcanoes cluster along plate margins, especially around the Pacific Ring of Fire, and along constructive margins such as the Mid-Atlantic Ridge. Tectonic plates are sections of the Earth’s lithosphere that move slowly over the mantle. Their movement and interaction explain the global pattern of earthquakes and volcanic activity.
 
 **Hazard management:** Volcano monitoring can include changes in gas emissions, ground deformation and small earthquakes. Earthquake prediction is much less reliable, so reducing risk relies on hazard maps, building design, drills, evacuation plans and public education. Protection and planning reduce vulnerability even when an event cannot be predicted precisely.
+
+## Case Studies: Contrasting Earthquakes
+
+### Gorkha Earthquake, Nepal (2015)
+
+- Magnitude 7.8 (often rounded to 7.9); the earthquake caused widespread building collapse.
+- About 7,000 schools were destroyed and damage was estimated at around US$5 billion.
+- An avalanche at Everest's Khumbu Icefall killed 19 climbers.
+- Immediate responses included tents for around 500,000 people, field hospitals and international aid from countries including the UK, India and China.
+- Longer-term responses included rebuilding schools and introducing stricter building standards.
+
+### Tōhoku Earthquake and Tsunami, Japan (2011)
+
+- Magnitude 9.0; the undersea earthquake triggered a tsunami that reached about 38 metres in places.
+- About 4.4 million people lost electricity, 1.5 million lost running water and around 330,000 were left homeless.
+- Warnings were issued, and the government requested international aid, including food, water and shelter.
+- Emergency services and the military supported rescue and recovery. Mass burials were used where necessary to manage the large number of deaths.
+- Longer-term recovery included rebuilding homes; some Toyota and Sony operations were relocated, affecting employment in some areas.
+
+### Comparing effects and responses
+
+- **Nepal:** Building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Tents, field hospitals and international aid were immediate responses; rebuilding schools and strengthening building standards were longer-term responses.
+- **Japan:** Ground shaking and the tsunami caused deaths, homelessness and direct infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.

@@ -33,3 +33,21 @@ Also, in HICs houses in high-risk areas, Florida can be built featuring stormpro
 **Effects and responses using Typhoon Haiyan:** Primary effects included deaths, injuries, homes and infrastructure destroyed, and fishing boats lost. Secondary effects included disrupted transport and communications, loss of livelihoods and damage to businesses. Immediate responses included evacuation centres, food, water, shelter and international aid. Longer-term responses included replacing fishing boats and rebuilding homes in safer locations. Monitoring, forecasts and warnings provide time to evacuate; protection includes storm shelters and stronger buildings; planning includes evacuation drills and emergency supplies.
 
 **Climate change:** Warmer oceans may affect the distribution and intensity of tropical storms. The direction and size of any change in storm frequency are less certain, so learn distribution, frequency and intensity separately.
+
+## Case Study: Typhoon Haiyan (2013)
+
+### Impacts
+
+- About 6,300 people died.
+- Around 30,000 fishing boats were destroyed, damaging livelihoods and the local economy.
+- Around 90% of Tacloban was destroyed.
+- Flooding and landslides damaged roads, slowing rescue and aid delivery.
+- Looting and riots occurred as people struggled to obtain essential supplies.
+
+### Responses
+
+- Immediate responses included international aid with food, water and shelter, and the establishment of about 1,200 evacuation centres.
+- Oxfam helped replace fishing boats, supporting the recovery of livelihoods.
+- Homes were rebuilt away from areas at high risk of flooding, reducing future exposure.
+
+**Primary effects** included deaths, injuries and direct damage to homes, infrastructure and boats. **Secondary effects** included disrupted transport and communications, lost livelihoods and damage to businesses. Evacuation centres and emergency aid were immediate responses; replacing boats and rebuilding homes in safer locations were longer-term responses.
