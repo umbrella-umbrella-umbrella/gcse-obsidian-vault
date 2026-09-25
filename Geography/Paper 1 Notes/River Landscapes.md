@@ -35,7 +35,7 @@ Solution – where the river water can dissolve rocks in a chemical reaction, mo
 
 ## Transportation In Rivers
 
-Traction – Upper course – Large, Jagged and rough rocks roll in a circular motion in the direction of the current. They roll since the river has very little water and therefore very little energy to carry or the rocks, making them slowly roll instead.
+Traction – Large particles roll or slide along the river bed.
 Saltation – Middle Course – Smaller, more rounded but still large rocks are briefly kept up by the river, before falling back down to the riverbed, then bouncing back up again and being suspended for a few seconds, before falling again. This happens as the river has more water and therefore more energy than in the upper course, also the rocks are smaller and therefore easier to carry since they have been eroded, however the river does not have enough energy to fully keep the rocks afloat, so they fall after a few seconds.
 Suspension – Lower Course – Very small and fine sediment is carried in the river and doesn’t fall. This happens because the lower course has the most water and therefore the most energy, and the material has been eroded fully now, so it is very light and easy to carry by the river.
 Solution – Dissolved rocks flow in the direction of the current. Happened in all 3 courses since they are very light and the river has enough energy to keep them afloat.
@@ -55,7 +55,7 @@ V-Shaped valley – A V-shaped valley forms in the upper course through vertical
 ## River Landforms Created By Erosion And Deposition
 
 MEANDERS – Now it doesn’t actually say in my book how these guys form but I remember watching a video about it so enjoy my scuffed explanation:
-One way a meander can form is if an animal like a fox burrows near a river channel. The soil where that burrow is is weaker than the surrounding soil, so the river (hydraulic power) erodes it faster, causing it to collapse (). The river now flows slightly towards the old burrow, and since the water is travelling fastest on the side closer to the burrow , the side closer to the old burrow erodes faster and causes the river to begin to bend. The other side of the river begins to deposit sediment as the river water is traveling slower here since it has less energy, so it deposits sediment and forms a slip-off slope, which eventually forms new land.
+Meanders develop as flow becomes faster and deeper on the outer bend, causing erosion and a river cliff, while slower flow on the inner bend deposits sediment to form a slip-off slope. Helicoidal flow transfers sediment from the outer bend towards the inner bend downstream, helping the bend migrate and grow.
 The fastest flow is on the outside of a meander, where erosion creates the deepest channel.
 
 The eroded material is deposited on the inside of the meander since the water is traveling slowest (closer to channel bed and air) so it has less energy, so the river cannot carry the materials and instead deposits them, forming a slip-off slope, which eventually forms new land.

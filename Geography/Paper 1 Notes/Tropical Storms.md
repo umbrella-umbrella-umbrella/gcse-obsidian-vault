@@ -10,8 +10,7 @@ The Ferrel cell circulates between the Hadley and Polar cells.
 Tropical storms form when there is a thunderstorm over water which has a temperature of at least 27 degrees C. with low crosswinds, so the thunderstorm doesn’t get torn apart. Then, due to the Coriolis effect, the thunderstorm starts spinning, causing the eye and eye wall to form. It is now technically a tropical storm. When the tropical storm hits land, it brings heavy rainfall and storm surge, then dissipates since it can’t get any energy from the sea.
 - They usually form during late summer and early autumn, often August–September.
 - They form between 5° and 20° north and south of the equator. They initially move west, then turn poleward.
-Climate change is expected to increase tropical storm intensity and expand the areas where storms can form as ocean temperatures rise.
-The frequency of tropical storms may decrease.
+**Climate change may increase the proportion of the most intense tropical storms and shift the regions where they occur as ocean conditions change. The effect on the total number of storms is uncertain; frequency may decrease even if the proportion of intense storms rises.**
 ## Monitoring
 Key monitoring organizations include the National Hurricane Center in Florida and the Typhoon Warning Center in Hawaii. They track wind speed and storm paths to predict the damage it will cause.
 Hurricanes can change direction, so a cone of uncertainty has to be made to cover the whole area a hurricane may travel, so people know if their local area is at risk or not.

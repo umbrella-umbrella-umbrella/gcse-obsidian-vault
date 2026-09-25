@@ -1,12 +1,12 @@
 # Tropical Rainforests
 
 TRs are located just north or south of the equator, in between the tropics of cancer and Capricorn. Their climate is extremely wet and humid.
-There are high year-round temperatures, around 28 degrees, the first 3 months feature heavy rainfall While July, August and September feature low amounts of rainfall.
+Temperatures are high throughout the year, commonly around 25–30°C. Rainfall is high in every month, although the length and strength of any drier season varies by location.
 Rainforest soils are nutrient-poor because plants rapidly absorb nutrients released by decomposers.
 Adaptations
 Epiphytes – They grow on the side of trees and get their nutrients from the air. 
 Emergents – Trees that grow taller than the rest to get better access to sunlight, so they grow faster.
-Buttresses – They support tree structures and provide a faster rate of O₂ and CO₂ diffusion with a larger surface area.
+Buttress roots – Large surface roots that support tall trees in shallow, nutrient-poor soils.
 Soil leaching occurs when rain washes nutrients from the soil, leaving behind latosol, a red, infertile soil. Deforestation can worsen this process.
 
 ## Draco Lizard
