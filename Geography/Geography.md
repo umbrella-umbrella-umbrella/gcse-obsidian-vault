@@ -1,6 +1,4 @@
-
-> [!Exam Info]
-> Exam Board = AQA
+> Exam Board = AQA  
 > Choices = Hot Deserts, Coastal Landscapes
 ## Physical Geography
 
