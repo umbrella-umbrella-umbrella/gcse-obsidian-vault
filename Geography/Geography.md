@@ -1,4 +1,4 @@
-# Geography
+# Physical
 
 [[Physical Case Studies]]
 [[Tropical Storms]]
