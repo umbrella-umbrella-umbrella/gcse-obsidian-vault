@@ -9,17 +9,17 @@ Plants in hot deserts can remain dormant for up to 10 years before germinating a
 
 Located anywhere from 15-30 degrees north/south
 Continents they are on include Africa, Asia and North America, and Specific countries include The United States, India (more on that later) and Australia.
-They do not always have plants as there is virtually no precipitation and plants need very special adaptations to survive in the desert environment. The soil is also extremely infertile (here we go again), making it even harder for plants to grow.
+They do not always have plants as there is virtually no precipitation and plants need very special adaptations to survive in the desert environment. The soil is also extremely infertile, making it even harder for plants to grow.
 
 ## The Golden Mole
 
-- Nocturnal – hunts at night, since it’s main food source (termites) only come out at night (who can blame them - deserts get HOT during the day), so it can feed on them.
+- Nocturnal – hunts at night, since it’s main food source (termites) only come out at night, so it can feed on them.
 - It lives under the sand, giving it an element of surprise and making it less visible to prey, so it can catch its prey and get food.
 - Smaller than a ping pong ball so it can quickly and easily maneuver through the sand, allowing it to get to prey fast.
 
 ## The Darkling Beetle
 
-- Has long limbs – can climb 1000ft sand dunes where there is moisture in the air, so it can get water. (That’s the equivalent of 2 mount Everests for us. This little fella has so much self-discipline to climb 2 mount Everests every time there’s some moisture in the air)
+- Has long limbs – can climb 1000ft sand dunes where there is moisture in the air, so it can get water. 
 - Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
 - Can store 40% of his body fat as water – making it easy to survive in the dry desert environment for months
 - Active in mornings where the chance of moisture in the air is higher
@@ -49,7 +49,6 @@ Really hot
 - Lack of roads makes transport difficult. Camel travel is common.
 - It gets so hot that the literal roads start to melt, which makes the already limited road network even more inaccessible
 Basically, all the challenges are in one way or another related to the extreme temperature.
-Ok, I’m sleep deprived
 
 ## Desertification
 
@@ -64,6 +63,5 @@ Desertification is the process by which fertile land becomes desert, usually on 
 ## Strategies To Reduce It
 
 - Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
-- Theres more but it’s so long-winded I’d rather get plowed than write it all out, maybe tomorrow I’ll be in more of a mood to do it idk
+- Theres more but it’s so long-winded 
 Right, I just skimmed over the fieldwork which will be featured at the end of the document, which should be completed tomorrow and then ill finish with new Brighton and sampling and data types and all that.
-

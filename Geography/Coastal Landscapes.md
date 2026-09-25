@@ -40,10 +40,9 @@ On a discordant coastline, there is differential erosion. Softer rock erodes mor
 
 ## Coastal Management Strategies
 
-Sea walls and
 HARD (don’t even think about it) ENGINEERING – Visible, Expensive, Work against nature
 e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
-SOFT (holy) ENGINEERING – Less visible, cheaper, work with natural processes.
+SOFT ENGINEERING – Less visible, cheaper, work with natural processes.
 e.g. Managed retreat, dune regeneration, beach nourishment
 Sea wall – Waves hit it and it doesn’t get eroded but it’s expensive
 Rip-Rap – Absorbs wave energy but it’s ugly and can drive people away
@@ -51,4 +50,3 @@ Groins – Stop longshore drift, keeping beaches with sand but are expensive and
 Managed retreat – allowing low lying areas of beach to be flooded
 Dune regeneration- planting marram grass (that spiky long grass you get on sand dunes) on dunes, keeping them strong and acting as a natural barrier from the sea.
 Beach nourishment – physically adding sand/shingles to a beach.
-

@@ -42,14 +42,13 @@
 ## Tohoku Earthquake
 
 - 9.0 magnitude earthquake off the coast of Japan
-- 4.4 million people were left without electricity(disrupting communications)
+- 4.4 million people were left without electricity (disrupting communications)
 - 1.5 million people were left without running water (increasing the risk of dehydration)
 - An ice shelf broke in Antarctica due to the earthquake
 - 330,000 people left homeless
 - 38m high tsunami
 - Government sent out warnings (helping to reduce deaths)
 - Government requested international aid (including food, water and shelter)
-- Military used mass graves to bury dead people(helping to prevent the spread of disease)
+- Military used mass graves to bury dead people (helping to prevent the spread of disease)
 - Toyota and Sony permanently relocated some of their operations elsewhere (less jobs, economic damage)
 - Those 330K homes were rebuilt for people who lost their houses (the reconstruction helped residents resume their lives and supported the local economy)
-

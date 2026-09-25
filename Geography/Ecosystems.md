@@ -21,9 +21,9 @@ TDFs occur between the tropic of cancer and the arctic circle. It also occurs in
 ### Delamere Forest
 
 So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
-Below is the shrub layer, place if you ask me.
+Below the canopy is the shrub layer.
 Below that are the decomposers, who as mentioned earlier eat the dead plants and animals and recycle nutrients back into the soil.
-Finally, is the ground cover, which is like small bushes and grass..
+The ground cover contains small bushes and grasses.
 Food Chain – Shows feeding relationship between organisms in a habitat
 Food Web – shows how many organisms in an ecosystem interact.
 Food Web in a TDF - [https://shorturl.at/Eaglv](https://shorturl.at/Eaglv)
@@ -32,4 +32,3 @@ Delamere Equilibrium - [https://www.shorturl.at/IETnU](https://www.shorturl.at/I
 ## Delamere Forest Nutrient Cycle
 
 Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
-

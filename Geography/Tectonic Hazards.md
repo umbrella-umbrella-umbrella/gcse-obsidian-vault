@@ -30,4 +30,3 @@ Vancouver is also tectonically active.
 
 Volcanoes are easy to predict with monitoring and volcanologists monitoring chances in the volcano. The area at risk is then evacuated is something bad is suspected.
 Earthquakes are unfortunately very hard to predict and happen randomly; however, buildings have shock absorbers in high-risk areas (Canada, Japan etc.). Plus, there are evacuation places like open fields in major cities for people to go to in case of an emergency.
-
