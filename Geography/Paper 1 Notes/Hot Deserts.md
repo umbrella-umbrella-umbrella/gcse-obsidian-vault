@@ -64,8 +64,6 @@ Desertification is the process by which fertile land becomes desert, usually on 
 
 - Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
 
-
-
 ## **Extra content added**
 
 **Interdependence and biodiversity:** Hot desert ecosystems have very low and unreliable rainfall, high evaporation and sparse vegetation. Water availability shapes soils and plant growth; plants and animals need adaptations that conserve or obtain water. People also depend on limited water supplies. Desert biodiversity is adapted to these conditions but can be vulnerable to land-use change and water extraction.

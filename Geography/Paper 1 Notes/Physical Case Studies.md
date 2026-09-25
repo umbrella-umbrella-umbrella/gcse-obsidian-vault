@@ -53,8 +53,6 @@
 - Toyota and Sony permanently relocated some of their operations elsewhere (fewer jobs, economic damage)
 - Those 330K homes were rebuilt for people who lost their houses (reconstruction helped residents resume their lives and supported the local economy)
 
-
-
 ## **Extra content added**
 
 **A natural hazard is a natural process that threatens people, property or the environment. Risk depends on the hazard’s magnitude, frequency and duration, the number of people and assets exposed, and their vulnerability and capacity to respond.**
