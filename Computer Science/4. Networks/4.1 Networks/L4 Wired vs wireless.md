@@ -1,0 +1,107 @@
+# L4 Wired vs wireless
+
+**Pearson Edexcel GCSE Computer Science (1CP2) — specification 4.1.4.**
+
+> Notes converted from the lesson slides listed below. They are grouped under the matching specification section.
+
+## L4 Wired vs wireless
+
+### Wired vs wireless
+
+Learning objectives
+In this lesson you will learn to:
+- Describe how devices are connected on a wireless network
+- Compare the performance of wired and wireless LANs and
+give examples of situations where one is preferable to the
+other
+- Summarise the characteristics of Wi-Fi, Bluetooth®, RFiD,
+Zigbee and NFC and give examples of their use.
+of the student book.
+
+### Wired vs wireless
+
+Wireless networks
+Last lesson you learned about how wired connections allow the
+transmission of data.
+You also learned about the differences between wired and wireless
+connections.
+In this lesson you will learn about the different types of wireless
+transmission.
+
+### Wired vs wireless
+
+A bit of science
+In science you will have learned about electromagnetic waves.
+Microwaves and radio waves are frequently used to transmit data.
+This involves converting the binary data into an electromagnetic wave
+using a specific protocol.
+Wi-Fi and Bluetooth® are examples of the protocols that govern the
+conversion of data.
+
+### Wired vs wireless
+
+Limitations
+Wireless data transmission has its limits.
+- Generally the range of wireless transmission is limited to a few
+metres.
+- It is easily interrupted by other signals or physical obstacles.
+- It has much lower bandwidth than wired connections which
+makes transfer slow.
+- Security is a concern as wireless signals can be intercepted by
+others.
+
+### Wired vs wireless
+
+WLAN
+Previously you learned that a LAN is a network limited to a single
+building or site.
+WLANs are Wireless Local Area Networks.
+You probably have a WLAN at home.
+If you use Wi-Fi to connect your devices, that’s a WLAN.
+
+### Wired vs wireless
+
+Wireless access point
+In a WLAN, there will be a wireless access point (WAP) which
+sends and receives wireless transmissions to and from the other
+devices.
+A WAP is usually part of a box you call the broadband router.
+The router will be connected (usually wired) to an internet access
+point in order to connect the WLAN to the internet.
+
+### Wired vs wireless
+
+The best option
+Most LANs are generally a combination of wired and wireless
+technologies.
+
+### Wired vs wireless
+
+Other technologies
+Wi-Fi is not the only common wireless data transmission technology.
+You will probably have experienced other connection types including:
+- Bluetooth®
+- Radio Frequency Identification (RFID)
+- Near Field Communication (NFC)
+And less commonly, if you have a digital personal assistant device
+such as Alexa, a communication technology called Zigbee.
+
+### Wired vs wireless
+
+Wrap up: you have learned how to…
+✔ Describe how devices are connected on a wireless network.
+- Wi-Fi uses radio waves to transmit data to and from a wireless
+access point.
+- The router, connected to the wireless access point, distributes
+signals to the devices (unless any of them uses Wi-Fi Direct,
+which does not need the router).
+✔ Compare the performance of wired and wireless LANs and give
+examples of situations where one is preferable to the other.
+- Range, interference, ease and cost of installation, latency,
+flexibility, reliability, and bandwidth all need to be considered.
+✔ Summarise the characteristics of Wi-Fi, Bluetooth®, RFiD, Zigbee
+and NFC and give examples of their use.
+
+---
+
+**Source PDFs:** `4. Networks/L4 Wired vs wireless.pdf`.

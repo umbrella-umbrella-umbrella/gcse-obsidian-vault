@@ -1,0 +1,110 @@
+# L2 Network speed
+
+**Pearson Edexcel GCSE Computer Science (1CP2) — specification 4.1.4, 4.1.5.**
+
+> Notes converted from the lesson slides listed below. They are grouped under the matching specification section.
+
+## L2 Network speed
+
+### Network speed
+
+Learning objectives
+In this lesson you will learn to:
+- Define the meanings of the terms ‘bandwidth’ and ‘latency’
+- Explain how bandwidth and latency affect the performance of a
+network
+- Use bits per second (bps) to describe network speed
+- Construct expressions involving file size, transmission rate and
+time.
+of the student book.
+
+### Network speed
+
+Network speed
+How fast is your
+network?
+What is an acceptable
+speed?
+
+### Network speed
+
+What does speed mean?
+The term ‘download speed’ refers to how much data can be
+downloaded per second over a connection.
+There are a number of factors that can affect the speed of a
+connection. The two most important are the bandwidth and latency.
+
+### Network speed
+
+Bandwidth and latency
+Bandwidth is the maximum amount of data that can be transmitted
+over a connection per second. It is a measurement of capacity. It is
+measured in bits per second (bps).
+Latency is the time taken for a transmission to reach its destination.
+It is measured in milliseconds.
+Gamers may be familiar with the term ‘ping’. This is a way of
+measuring latency. It times a single transmission as it travels to a
+server and back again.
+
+### Network speed
+
+Measuring speed
+We measure network speed in bits per second (bps).
+Modern networks have high bandwidths, measured in millions of bits
+per second.
+The following units are used to measure network speeds.
+Units                Abbreviation  bits per second
+bits per second      bps           1
+kilobits per second  Kbps          1000
+megabits per second  Mbps          1 000 000
+gigabits per second  Gbps          1 000 000 000
+
+### Network speed
+
+File size recap
+Previously you learned how we measure the size of files. Notice that
+these units are different to the ones we use for speed.
+Unit       Abbreviation    Bytes      Equivalent to
+bit                                          1 bit
+nibble               KiB   20 bytes            4 bits
+byte               MiB   210 bytes
+kibibyte              GiB   220 bytes  8 bits or 2 nibbles
+mebibyte               TiB   230 bytes       1024 bytes
+gibibyte                    240 bytes
+tebibyte                                  1024 kibibytes
+1024 mebibytes
+1024 gibibytes
+
+### Network speed
+
+Calculating transmission times
+
+### Network speed
+
+Worked example
+How long will it take to download a 20MiB file over a 12 Mbps
+connection?
+1. Convert the file size to bits
+20 × 8 × 1024 × 1024
+2. Convert the speed to bits per second
+12 × 1000 × 1000
+3. Arrange the size and speed expressions
+
+### Network speed
+
+Calculating file size and speed
+The formula can be rearranged to calculate any of its values:
+
+### Network speed
+
+Wrap up: you have learned how to…
+- Define the meanings of the terms ‘bandwidth’ and ‘latency’
+- Explain how bandwidth and latency affect the performance of a
+network
+- Use bits per second (bps) to describe network speed
+- Construct expressions involving file size, transmission rate and
+time.
+
+---
+
+**Source PDFs:** `4. Networks/L2 Network speed.pdf`.

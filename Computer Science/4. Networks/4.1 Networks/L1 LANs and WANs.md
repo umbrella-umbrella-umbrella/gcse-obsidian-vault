@@ -1,0 +1,146 @@
+# L1 LANs and WANs
+
+**Pearson Edexcel GCSE Computer Science (1CP2) — specification 4.1.1, 4.1.2, 4.1.3, 4.1.6.**
+
+> Notes converted from the lesson slides listed below. They are grouped under the matching specification section.
+
+## L1 LANs and WANs
+
+### LANs and WANs
+
+Learning objectives
+In this lesson you will learn to:
+- Give reasons why computers are connected on a network
+- Differentiate between a LAN and a WAN
+- Categorise tasks according to the type of network required to
+carry them out
+- Explain the benefits to organisations of a WAN
+- Explain why protocols are needed on a network
+- Describe the purpose of an IP address.
+of the student book.
+
+### LANs and WANs
+
+How useful is a stand-alone computer?
+Imagine you have a computer that is not connected to any others.
+It has no network connection to a local network, the internet or other
+devices.
+What could you use this device for?
+Would it be useful in today’s world?
+This kind of computer is called a stand-alone computer because it
+‘stands alone’, without connections to other computers or networks.
+
+### LANs and WANs
+
+Think about computer networks
+- How are devices connected to each other?
+- What benefits are there to using a connected computer?
+- What tools/applications do you have access to through a
+computer network?
+- What are some of the things you could not do if your computer
+was not connected to another device?
+
+### LANs and WANs
+
+Categorising a network
+Networks can be classified based on their geographical coverage.
+Networks that are contained within a single building or site are known
+as Local Area Networks (LANs).
+Networks that are connected over a larger geographical area are
+known as Wide Area Networks (WANs).
+
+### LANs and WANs
+
+What type of network am I using?
+Think of some examples of tasks you complete using a computer.
+Most of these will involve a network of some kind.
+For example: Printing a document requires the use of a LAN. The
+computer will be connected to a printer either directly or through the
+school’s network.
+
+### LANs and WANs
+
+Why organisations have WANs
+Big organisations may have their own WAN.
+The organisation owns all of the WAN’s hardware and has full control
+of the network. Others cannot use its infrastructure.
+This means the network can be very secure.
+This is a very expensive option because the infrastructure has to be
+installed and maintained.
+
+### LANs and WANs
+
+Benefits of networks
+Users can:
+✔ share data and information with each other
+✔ communicate with each other using email, messaging, video
+conferencing, etc.
+✔ work collaboratively using web-based software, virtual meeting
+tools, etc.
+✔ share hardware devices such as printers
+✔ make use of centralised support and maintenance
+✔ socialise with one another
+
+### LANs and WANs
+
+The internet
+The internet is the largest WAN in the world.
+It is a global network of networks.
+There are potentially billions of devices connected to the internet at
+any one time.
+Can you foresee some potential problems with this?
+
+### LANs and WANs
+
+Connecting globally
+In order for multiple different devices to speak to each other, they
+need to communicate in the same way.
+To do this, devices use protocols.
+Protocols are sets of rules (agreed standards) that govern the
+communication between devices.
+For two devices to communicate, they must use the same protocol.
+There are number of protocols you need to know about and we will
+look at them in more detail in later lessons.
+
+### LANs and WANs
+
+Finding the device you need
+Another key element needed for communication is an addressing
+system.
+Each device in a network needs a unique address so that
+connections can be made to it.
+There are two types of address that you will learn about.
+- IP addresses are used on the internet.
+- MAC addresses are used on LANs.
+
+### LANs and WANs
+
+IP Addresses
+In a WAN, an IP (Internet Protocol) address is used to identify an
+individual device or network access point.
+There are two types of IP address. These are known as version 4
+and version 6 (IPv4, IPv6) addresses.
+IPv6 addresses are longer. IPv6 can therefore address a greater
+number of unique devices. They were created to help manage the
+huge number of devices on the internet.
+
+### LANs and WANs
+
+Wrap up: you have learned how to…
+✔ Give reasons why computers are connected on a network.
+- Sharing resources and devices.
+✔ Differentiate between a LAN and a WAN.
+- Local Area Networks are contained within a single site.
+- Wide Area Networks cover a larger geographical area.
+✔ Explain the benefits an organisation gets from using a WAN.
+- Able to share data and resources between different sites.
+- Owning the network hardware gives more control. A WAN can be
+more secure than the VPN alternative.
+✔ Explain why protocols are needed on a network.
+- Protocols mean that devices are able to ‘speak the same language’.
+✔ Describe the purpose of an IP address.
+- Used to identify a device or network access point on the internet.
+
+---
+
+**Source PDFs:** `4. Networks/L1 LANs and WANs.pdf`.
