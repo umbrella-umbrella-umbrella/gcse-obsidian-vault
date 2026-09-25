@@ -66,9 +66,6 @@ OXBOW LAKES - The river meanders, and on the outside of the river there is erosi
 Floodplains form beside rivers. When the river floods, it bursts its banks and floods the surrounding area, causing it to lose speed which causes it to lose energy, making it deposit sediment in the flooded area. Heavier, larger sediment is deposited first, next to the river, as it requires more energy to carry, while smaller, finer sediment is deposited furthest from the river as it requires the least amount of energy to carry. After the flood, the river returns to normal flow, and the deposited sediment remains in the originally flooded area, causing a raised, fertile floodplain to form.
 ESTUARIES – Where the river meets the sea. The river slows down, causing it to deposit sediment
 
-
-
-
 ## **Extra content added**
 
 **UK landscape overview:** Upland areas include the Scottish Highlands, Pennines, Lake District, Snowdonia and the mountains of Northern Ireland. Lowland areas are concentrated in southern and eastern England. Major river systems include the Severn, Thames, Trent, Great Ouse and the rivers draining to the east and south coasts.
