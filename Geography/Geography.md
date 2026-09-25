@@ -1,15 +1,16 @@
-# Geography
+# Geography – Paper 1
 
-[[Physical Case Studies]]
-[[Tropical Storms]]
-[[Climate Change and UK Weather]]
-[[Ecosystems]]
-[[Tropical Rainforests]]
-[[Hot Deserts]]
-[[River Landscapes]]
-[[Coastal Landscapes]]
-[[Tectonic Hazards]]
+## Physical Geography
 
-[[Geographical Skills]]
+- [[Tectonic Hazards]]
+- [[Climate Change and UK Weather]]
+- [[Tropical Storms]]
+- [[Ecosystems]]
+- [[Tropical Rainforests]]
+- [[Hot Deserts]]
+- [[River Landscapes]]
+- [[Coastal Landscapes]]
 
+## Skills
 
+- [[Geographical Skills]]
