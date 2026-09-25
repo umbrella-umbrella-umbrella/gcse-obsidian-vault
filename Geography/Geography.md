@@ -1,4 +1,4 @@
-# Physical
+# Geography
 
 [[Physical Case Studies]]
 [[Tropical Storms]]
@@ -11,4 +11,5 @@
 [[Tectonic Hazards]]
 
 [[Geographical Skills]]
+
 

@@ -2,7 +2,7 @@
 
 ## **Extra content added**
 
-**AQA assesses geographical skills across all three written papers.** [AQA Geographical Skills specification](https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/subject-content/geographical-skills)
+**AQA assesses geographical skills across all three written papers. See the [AQA Geographical Skills specification](https://www.aqa.org.uk/subjects/geography/gcse/geography-8035/specification/subject-content/geographical-skills).**
 
 ### **Cartographic skills**
 
@@ -23,3 +23,4 @@
 ### **Data and geographical communication**
 
 **Interpret qualitative and quantitative evidence from maps, fieldwork, GIS, satellite images, photographs, graphs, written sources and statistics. Distinguish primary from secondary data. Communicate findings clearly, analyse evidence, evaluate limitations and reach a supported conclusion.**
+
