@@ -31,3 +31,9 @@ Vancouver is also tectonically active.
 Volcanoes are easy to predict with monitoring and volcanologists monitoring changes in the volcano. The area at risk is then evacuated is something bad is suspected.
 Earthquakes are unfortunately very hard to predict and happen randomly; however, buildings have shock absorbers in high-risk areas (Canada, Japan etc.). Plus, there are evacuation places like open fields in major cities for people to go to in case of an emergency.
 
+
+## **Extra content added**
+
+**Global pattern and plate theory:** Earthquakes and volcanoes cluster along plate margins, especially around the Pacific Ring of Fire, and along constructive margins such as the Mid-Atlantic Ridge. Tectonic plates are sections of the Earth’s lithosphere that move slowly over the mantle. Their movement and interaction explain the global pattern of earthquakes and volcanic activity.
+
+**Hazard management:** Volcano monitoring can include changes in gas emissions, ground deformation and small earthquakes. Earthquake prediction is much less reliable, so reducing risk relies on hazard maps, building design, drills, evacuation plans and public education. Protection and planning reduce vulnerability even when an event cannot be predicted precisely.
