@@ -43,6 +43,10 @@ Also, in HICs houses in high-risk areas, Florida can be built featuring stormpro
 - Around 90% of Tacloban was destroyed.
 - Flooding and landslides damaged roads, slowing rescue and aid delivery.
 - Looting and riots occurred as people struggled to obtain essential supplies.
+### **Extra content added**
+
+- **The storm reached Category 5 strength, with winds of up to 170 mph and waves reported as high as 15 m. Around 600,000 people were displaced, about 40,000 homes were damaged or flattened, and around 14 million people were affected. Approximately 6 million people lost their source of income.**
+- **Tacloban airport was badly damaged. Flooding and landslides blocked roads to remote communities, and power supplies were cut off in some areas.**
 
 ### Responses
 

@@ -64,3 +64,9 @@ Beach nourishment – physically adding sand/shingles to a beach.
 **Management example – Mappleton:** Two rock groynes were built in 1991 to trap beach sediment and protect Mappleton and the B1242 road. The wider Holderness coast shows a management conflict: trapping sediment can protect one stretch but leave less material moving to beaches farther south, increasing pressure on unprotected stretches. [Government coastal report](https://assets.publishing.service.gov.uk/media/602e6876e90e076601e9f48c/Changes_in_asset_values_on_eroding_coasts._Technical_report.pdf)
 
 **Management comparisons:** Hard engineering includes sea walls, rock armour, gabions and groynes. Soft engineering includes beach nourishment and reprofiling, and dune regeneration. Managed retreat, also called coastal realignment, allows selected low-lying areas to flood. For a UK scheme, learn why it was needed, the strategy used, costs and benefits, effects on people and the environment, and any conflicts between groups or locations.
+
+### **Extra content added: Ventnor–Bonchurch coastal management, Isle of Wight**
+
+- **The area includes soft rocks such as clay and sand as well as chalk, and is exposed to powerful winter storms. There is little beach to reduce wave energy. The coast needs protection because it includes a holiday resort and residential properties.**
+- **A stepped sea wall reflects wave energy and supports a promenade between Ventnor and Bonchurch. Rock armour and concrete tetrapods absorb wave energy before it reaches the sea wall. Cliff drainage removes water from soft cliffs, reducing the risk of landslides.**
+- **The scheme helps protect homes, businesses and visitors, but hard engineering requires maintenance and can be costly.**

@@ -47,6 +47,11 @@ Earthquakes are unfortunately very hard to predict and happen randomly; however,
 - An avalanche at Everest's Khumbu Icefall killed 19 climbers.
 - Immediate responses included tents for around 500,000 people, field hospitals and international aid from countries including the UK, India and China.
 - Longer-term responses included rebuilding schools and introducing stricter building standards.
+### **Extra content added**
+
+- **The booklet reports around 9,000 deaths, 20,000 injuries and 8 million people affected. About 3 million people were left homeless, while around 1.4 million needed food, water and shelter in the days after the earthquake.**
+- **Landslides and avalanches blocked roads and hampered relief. A landslide blocked the Kali Gandaki River, about 140 km north-west of Kathmandu, and people were evacuated because of possible flooding.**
+- **Longer-term recovery also included repairing roads, clearing landslides and rebuilding trekking routes and facilities on Mount Everest.**
 
 ### Tōhoku Earthquake and Tsunami, Japan (2011)
 
@@ -55,6 +60,11 @@ Earthquakes are unfortunately very hard to predict and happen randomly; however,
 - Warnings were issued, and the government requested international aid, including food, water and shelter.
 - Emergency services and the military supported rescue and recovery. Mass burials were used where necessary to manage the large number of deaths.
 - Longer-term recovery included rebuilding homes; some Toyota and Sony operations were relocated, affecting employment in some areas.
+### **Extra content added**
+
+- **The booklet gives figures of 15,853 deaths and 6,023 injuries. Around 4.4 million households in north-east Japan lost electricity, and about 1.5 million people lost running water.**
+- **The tsunami caused severe disruption to factories and supply chains, including a shortage of parts that affected Nissan’s Sunderland plant. The booklet also reports that large slabs of ice broke away from the Sulzberger Ice Shelf in Antarctica following the tsunami.**
+- **Buildings in Tokyo swayed, but earthquake-resistant design limited damage there.**
 
 ### Comparing effects and responses
 

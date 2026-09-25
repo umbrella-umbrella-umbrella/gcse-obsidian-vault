@@ -90,6 +90,7 @@ ESTUARIES – Where the river meets the sea. The river slows down, causing it to
 ### Causes
 
 - Exceptional rainfall during the 2013–14 winter saturated the ground and increased river discharge.
+- **A succession of Atlantic depressions brought several weeks of wet weather. The booklet reports about 350 mm of rain in January and February, roughly 100 mm above average. High tides and storm surges pushed water up the rivers from the Bristol Channel.**
 - The low-lying, flat Somerset Levels are only a few metres above sea level, so floodwater drains away slowly.
 - The Rivers Tone and Parrett had not been dredged for around 20 years, reducing channel capacity.
 
@@ -99,6 +100,7 @@ ESTUARIES – Where the river meets the sea. The river slows down, causing it to
 - Sixteen farms were evacuated, and residents used boats and tractors to travel.
 - Schools and workplaces were disrupted, affecting education and incomes.
 - Homes, businesses and infrastructure were damaged, leading to insurance claims and concern about property values.
+- **More than 600 homes were flooded, over 1,000 livestock were evacuated and some local roads were cut off. Floodwater was contaminated with sewage, oil and chemicals, and debris had to be cleared. Somerset County Council estimated the damage cost at more than £10 million.**
 
 ### Responses and management
 
