@@ -1,6 +1,6 @@
 # Coastal Landscapes
 
-LONGSHORE DRIFT – The ocean’s swash follows the direction of the prevailing wind, depositing sediment in the direction of the wind. The backwash follows gravity, causing the sediment to be deposited straight backwards into the sea. The cycle repeats, as the next swash moves the sediment slightly in the direction of the wind again, until the sediment has been transported across the beach.
+Longshore drift moves sediment along the coast. The swash follows the prevailing wind direction. The backwash follows gravity and carries sediment down the beach. The cycle repeats, as the next swash moves the sediment slightly in the direction of the wind again, until the sediment has been transported across the beach.
 
 ## Constructive Waves
 
@@ -50,4 +50,5 @@ Groins – Stop longshore drift, keeping beaches with sand but are expensive and
 Managed retreat – allowing low lying areas of beach to be flooded
 Dune regeneration- planting marram grass (that spiky long grass you get on sand dunes) on dunes, keeping them strong and acting as a natural barrier from the sea.
 Beach nourishment – physically adding sand/shingles to a beach.
+
 

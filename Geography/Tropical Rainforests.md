@@ -26,12 +26,12 @@ Soil leaching occurs when rain washes nutrients from the soil, leaving behind la
 ## Causes
 
 - Road building – deforestation occurs 5km on each side of the road, as new developments like houses or gas stations are built alongside it
-- Commercial farming Plantations of crops, palm oil or sugar cane destroy large areas of rainforest as they need to be cleared to provide room for the farm, which is only going to increase in future as more farms are needed to meet the growing demand for resources as the global population grows.
+- Commercial farming Plantations of crops, palm oil or sugar cane destroy large areas of rainforest as they need to be cleared to provide room for the farm, as demand for farmland increases to meet the growing demand for resources as the global population grows.
 - Settlement – Trees are cut down to supply materials to build houses and they are also cut down to make space for houses. Again, this will only increase as more houses are needed to house the growing population. (We really do cause a lot of problems don’t we)
 
 ## Effects Of Tropical Rainforest Deforestation
 
-- Biodiversity loss – fairly simple, if trees are cut down animals like birds lose their homes in the trees and have to relocate elsewhere, lowering the biodiversity of the area
+- Biodiversity loss – fairly simple, if trees are cut down animals like birds lose their homes in the trees and have to relocate elsewhere, reducing biodiversity
 - Infertile soil – explained earlier (soil leaching and latosol
 - On a global scale, deforestation causes climate change as cutting trees releases CO₂ and stops more CO₂ from being absorbed. This CO₂ traps heat since it is a greenhouse gas and warms the planet.
 - Economic benefits – LICs can benefit from using the wood from trees in house building, and selling the wood which gives them income, so they can invest that into healthcare and education, benefiting the whole country.
@@ -48,7 +48,7 @@ Oil extraction – some trees have to be cleared to access oil in the ground
 ## Effects
 
 - Indigenous tribes such as the Embera have lost land due to palm oil plantations
-- Residents of the town of Curvarado have been forcibly displaced to make way for a palm oil plantation 
+- Residents of the town of Curvaradó have been forcibly displaced to make way for a palm oil plantation 
 - The Atrato river has been polluted due to toxic pesticides used in palm oil plantations
 - Animals like the Jaguar and spectacled bear have had their habitats destroyed due to palm oil plantations 
 
@@ -57,20 +57,21 @@ Oil extraction – some trees have to be cleared to access oil in the ground
 ## Why Tropical Rainforests Need To Be Managed
 
 - 25% of all modern medicines derive from tropical rainforests. Without them, potential cures for diseases will be destroyed, hurting modern populations.
-- Many international foods and drinks like bananas and coffee are heavily produced in tropical rainforests, without them supplies would drop heavily.
-- You could mention again about the latosol soil stuff and nothing being able to grow
-- CO₂ absorbed released greenhouse effect climate change 
+- Tropical rainforests support production of crops such as bananas and coffee.
+- Latosol soils have low fertility and support limited plant growth.
+- Deforestation reduces CO₂ absorption, increasing greenhouse gas concentrations and climate change.
 
 ## Strategies To Reduce Deforestation
 
 
 ## Selective Logging And Replanting
 
-Basically, loggers remove only the most valuable trees from a certain area and eventually replant the deforested area as secondary forest, which initially has a lower biodiversity than the surrounding areaa. Advantages include less valuable trees not being damaged, which act as habitats for animals and increase biodiversity in the area, along with the deforested area eventually being replanted, which also provides habitats for animals and stops soil from being made infertile (latosol again). Disadvantages include more valuable trees being deforested for a short while, which can briefly destroy animal habitats. Also, the secondary replanted forest has a lower biodiversity at first, lowering the number of species in the area.
+Basically, loggers remove only the most valuable trees from a certain area and eventually replant the deforested area as secondary forest, which initially has a lower biodiversity than the surrounding areaa. Advantages include reducing damage to other trees, which act as habitats for animals and increase biodiversity in the area, along with replanting the area, which also provides habitats for animals and stops soil from being made infertile (latosol again). Disadvantages include more valuable trees being deforested for a short while, which can briefly destroy animal habitats. Also, the secondary replanted forest has a lower biodiversity at first, lowering the number of species in the area.
 
 ## Debt Reduction
 
-Countries are encouraged to conserve rainforests in exchange for a reduction for their national debt. It alleviates poverty and helps protect forests. An example is the US government agreeing to reduce Peru’s debt if they protect their rainforests. Advantages include a country having less debt, so money can be spent in areas like healthcare and education, which improves people’s quality of life and can help bring people out of poverty. Can also help build international relationships (like with the US and Peru). However, this money doesn’t mean all to rich countries, since they already have enough money so have no debt to have reduced, so they will just deforest anyway. Similarly, some countries will make more money deforesting than in debt reduction, for example if someone offered you 20 quid a week to stop cutting down trees in your local forest (this example is so scuffed but) but you make 50 quid a week doing it, why the would you say yes.
+Countries are encouraged to conserve rainforests in exchange for a reduction for their national debt. It alleviates poverty and helps protect forests. An example is the US government agreeing to reduce Peru’s debt if they protect their rainforests. Advantages include a country having less debt, so money can be spent in areas like healthcare and education, which improves people’s quality of life and can help bring people out of poverty. Can also help build international relationships (like with the US and Peru). Debt reduction may not be attractive if income from deforestation exceeds the value of debt relief.
+
 
 
 
