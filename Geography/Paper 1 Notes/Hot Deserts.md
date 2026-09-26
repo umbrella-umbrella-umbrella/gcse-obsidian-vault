@@ -32,6 +32,7 @@
 	- Really hot
 
 - ## Opportunities
+
 	- Annual desert festival held each winter in Jaisalmer (jobs, money, economic development)
 	- The Indira Gandhi Canal enabled farming on previously infertile land.
 	- Crops include mustard, pulses and cotton, improving food security and supporting exports.
@@ -40,12 +41,12 @@
 	- Mining for Phosphorite (used for fertilizer, economic development and jobs)
 	- Mining for gypsum
 
-## Challenges
+- ## Challenges
 
-- It’s  hot. Summer temperatures can reach 53 degrees. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
-- Mobile dunes can migrate and block roads, stopping people getting to school/work.
-- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
-- Lack of roads makes transport difficult. Camel travel is common.
+	- It’s  hot. Summer temperatures can reach 53 degrees. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
+	- Mobile dunes can migrate and block roads, stopping people getting to school/work.
+	- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
+	- Lack of roads makes transport difficult. Camel travel is common.
 - Extreme heat can damage road surfaces, and sparse roads and long distances make transport difficult.
 Many challenges in hot deserts result from high temperatures, water scarcity and remoteness.
 
