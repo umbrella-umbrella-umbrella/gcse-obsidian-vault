@@ -67,8 +67,8 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 	- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff.
 
 ## Headlands And Bays
-
-On a discordant coastline, there is differential erosion. Softer rock erodes more quickly than harder rock, forming a bay. The hard rock erodes slower than the soft rock, forming a headland between the 2 bays.
+- They form due to cliffs being made of Soft and Hard rock.
+	- The Soft rock erodes quickly wheras the hard rock erodes late
 
 ## Coastal Management Strategies
 
