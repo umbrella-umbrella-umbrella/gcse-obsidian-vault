@@ -25,13 +25,14 @@
 	- Create steep beaches
 	- High in relation to their length
 
-## Spits And Bars
-- ### Spits
-	- Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. 
-	- This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction changes, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
-- ### Bars
-	- Formed when a spit extends to join two headlands
-	- The body of water trapped behind is known as a lagoon
+## Depositional Landforms
+- ## Spits And Bars
+	- ### Spits
+		- Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. 
+		- This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction changes, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
+	- ### Bars
+		- Formed when a spit extends to join two headlands
+		- The body of water trapped behind is known as a lagoon
 
 ## Wave-Cut Platform
 
