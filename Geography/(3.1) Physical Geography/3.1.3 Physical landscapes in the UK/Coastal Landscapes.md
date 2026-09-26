@@ -104,7 +104,11 @@
 			- It is made of sand and shingle, held together by marram grass
 			- Mudflats and salt marshes have developed behind the spit
 	
-- ### A coastal management scheme in the UK - 
+- ### A coastal management scheme in the UK - Ventnor–Bonchurch, Isle of Wight
+	- The area requires coastal management because
+		1. The geology of the area is a complicated mixture of clay, sands and chalk which are soft rocks
+		2. It is a high energy coast which is affected by powerful winter storms
+		3. 
 
 ## Coastal Management Strategies
 
