@@ -11,7 +11,9 @@
 
 - **Saguaro cactus** – Pleats expand as the stem takes up water after rain. A mature saguaro can weigh more than two tonnes when fully hydrated; most of its mass is water. Its shallow, widespread roots rapidly absorb water from brief rainfall.
 
-## Animal Examples in Deserts
+---
+
+### Animal Examples in Deserts
 
 - ### The Golden Mole
 	- Nocturnal – hunts at night, since it’s main food source (termites) only come out at night, so it can feed on them.
@@ -22,6 +24,9 @@
 	- Some Namib darkling beetles collect water from fog on their bodies; the behaviour and adaptations vary between species. 
 	- Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
 	- Active in mornings where the chance of moisture in the air is higher
+
+
+---
 
 ## Thar Desert (Case Study of Hot Desert)
 
@@ -49,19 +54,6 @@
 	- Extreme heat can damage road surfaces, and sparse roads and long distances make transport difficult.
 
 Many challenges in hot deserts result from high temperatures, water scarcity and remoteness.
-
-## Desertification
-
-- Desertification is the process by which fertile land becomes desert, usually on the fringes of existing hot deserts. It becomes drier and less productive.
-
-- ## Causes
-
-	- Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
-	- Over-cultivation - where land is cultivated too intensively, preventing soil recovery and reducing fertility.
-	- Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
-
-- ## Strategies To Reduce It
-	- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
 
 ## **Extra content added**
 
