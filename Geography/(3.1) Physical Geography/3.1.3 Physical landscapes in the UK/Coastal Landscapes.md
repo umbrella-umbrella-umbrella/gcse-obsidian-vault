@@ -74,7 +74,7 @@
 	- Weathering is the breaking down of rocks in-situ.
 	
 - ### Types of Weathering
-	- ### Mechanical Weathering
+	- ***Mechanical Weathering***
 		- "Freeze-thaw Action"
 			- Water enters cracks in rock. When it freezes, it expands and widens the cracks. Repeated freezing and thawing can eventually break pieces of rock off.
 	- ***Biological Weathering***, when living things break down rock.
