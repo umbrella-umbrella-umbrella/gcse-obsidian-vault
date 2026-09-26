@@ -85,6 +85,9 @@
 	- **Slumping** – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
 	- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff
 
+
+# Case Study (Not really cas)
+
 ## Coastal Management Strategies
 
 ### Hard Engineering
