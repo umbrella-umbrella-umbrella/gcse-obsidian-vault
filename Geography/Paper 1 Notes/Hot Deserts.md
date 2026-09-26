@@ -24,22 +24,21 @@
 - Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
 - Active in mornings where the chance of moisture in the air is higher
 
-# Thar Desert
+# Thar Desert (Case Study of Hot Desert)
 
-## Background Information
+- ## Background Information
 
-Desert in the Northwest of India, has towns such as Jaisalmer.
-Really hot
+	- Desert in the Northwest of India, has towns such as Jaisalmer.
+	- Really hot
 
-## Opportunities
-
-- Annual desert festival held each winter in Jaisalmer (jobs, money, economic development)
-- The Indira Gandhi Canal enabled farming on previously infertile land.
-- Crops include mustard, pulses and cotton, improving food security and supporting exports.
-- The Jaisalmer wind turbine farm (jobs, renewable energy)
-- Oilfield in the Barmer district (jobs selling oil for money)
-- Mining for Phosphorite (used for fertilizer, economic development and jobs)
-- Mining for gypsum
+- ## Opportunities
+	- Annual desert festival held each winter in Jaisalmer (jobs, money, economic development)
+	- The Indira Gandhi Canal enabled farming on previously infertile land.
+	- Crops include mustard, pulses and cotton, improving food security and supporting exports.
+	- The Jaisalmer wind turbine farm (jobs, renewable energy)
+	- Oilfield in the Barmer district (jobs selling oil for money)
+	- Mining for Phosphorite (used for fertilizer, economic development and jobs)
+	- Mining for gypsum
 
 ## Challenges
 
