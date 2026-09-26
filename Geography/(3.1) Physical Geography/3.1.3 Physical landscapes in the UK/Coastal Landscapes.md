@@ -40,12 +40,13 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 
 ## Types of Weathering
 - ### Mechanical Weathering
-	- Freeze-thaw Action
+	- "Freeze-thaw Action"
 		- 
 - Biological Weathering
 	- 
 - ### Chemical Weathering
-	- Occurs when rain water which contains CO2
+	- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
+		- This dissolves and is washed away in solution, weakening the rock.
 ## Mass Movements
 - The downhill movement of material due to gravity (e.g rocks)
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
