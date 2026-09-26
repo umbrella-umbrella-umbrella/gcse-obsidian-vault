@@ -56,37 +56,25 @@
 				- Building controls were tightened and schools were rebuilt. 
 				- Roads were repaired and landslides cleared. 
 				- Repairs were made to Everest Base Camp facilities and trekking routes; new routes had been established by August 2015.
-
+				  
 	- ### Tōhoku Earthquake and Tsunami, Japan (2011)
 		- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
 		- **Magnitude:** **9.0**. Earthquake-resistant design helped limit damage to Tokyo’s skyscrapers.
 		- ### Effects:
 			- Social:
-				- About **9,000 people died** and **20,000 were injured**
-				- Around **8 million people were affected**
-				- Approximately **3 million people became homeless**
-				- 1.4 million needed food, water and shelter
-				- About **7,000 schools were destroyed**
-				- An avalanche at Everest’s Khumbu Icefall killed **19 climbers**.
+				- **15,853 people died** and **6,023 were injured**. Around **4.4 million households** in north-east Japan lost electricity and **1.5 million** lost running water. About **332,000 people** were left homeless.
 			- Economic
-				- Damage was estimated at around **US$5 billion**
-				- Blocked roads disrupted transport and hampered rescue and relief efforts.
+				- The tsunami damaged infrastructure and disrupted businesses. Nissan’s Sunderland plant temporarily shut because of parts shortages from Japanese factories. Toyota, Sony and other companies stopped production; some later relocated operations abroad, affecting employment.
 			- Environmental
-				- Ground shaking triggered landslides and avalanches
-				- A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. 
-
-| Social                                                                                                                                                                                                         | Economic                                                                                                                                                                                                                                                                       | Environmental                                                                                                                                                                                      |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **15,853 people died** and **6,023 were injured**. Around **4.4 million households** in north-east Japan lost electricity and **1.5 million** lost running water. About **332,000 people** were left homeless. | The tsunami damaged infrastructure and disrupted businesses. Nissan’s Sunderland plant temporarily shut because of parts shortages from Japanese factories. Toyota, Sony and other companies stopped production; some later relocated operations abroad, affecting employment. | The undersea earthquake triggered a tsunami with waves up to **38 m** high. The notes also report that the tsunami caused large slabs of ice to break away from Antarctica’s Sulzberger Ice Shelf. |
-
-| Immediate responses | Long-term responses |
-|---|---|
-| Tsunami warnings prompted people to move to higher ground. The government requested international aid. Emergency services and the military supported rescue and recovery; mass burials were used to manage the large number of deaths and reduce the risk of disease. | Homes were reconstructed for people left homeless. Some companies relocated production abroad; this supported business continuity but reduced employment in some affected areas. The notes report that many people were still homeless a year after the earthquake. |
-
-- ### Comparison
-
-	- Both earthquakes caused deaths, homelessness and major disruption, but Japan’s offshore earthquake also generated a powerful tsunami.
-	- Extensive infrastructure and service disruption in both countries. In Nepal, landslides and blocked roads made access for rescue teams difficult; in Japan, the tsunami caused severe coastal damage and disrupted supply chains well beyond the affected region.
+				- The undersea earthquake triggered a tsunami with waves up to **38 m** high. The notes also report that the tsunami caused large slabs of ice to break away from Antarctica’s Sulzberger Ice Shelf.
+		- Responses
+			- Immediate
+				- Tsunami warnings prompted people to move to higher ground. The government requested international aid. Emergency services and the military supported rescue and recovery; mass burials were used to manage the large number of deaths and reduce the risk of disease.
+			- Long term
+				- Homes were reconstructed for people left homeless. Some companies relocated production abroad; this supported business continuity but reduced employment in some affected areas. The notes report that many people were still homeless a year after the earthquake.
+	- ### Comparison
+		- Both earthquakes caused deaths, homelessness and major disruption, but Japan’s offshore earthquake also generated a powerful tsunami.
+		- Extensive infrastructure and service disruption in both countries. In Nepal, landslides and blocked roads made access for rescue teams difficult; in Japan, the tsunami caused severe coastal damage and disrupted supply chains well beyond the affected region.
 
 ## **Extra content added**
 
