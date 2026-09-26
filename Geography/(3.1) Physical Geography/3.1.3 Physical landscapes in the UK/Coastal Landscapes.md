@@ -40,7 +40,9 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 
 ## Types of Weathering
 - ### Mechanical Weathering
-1. 
+	- Freeze-thaw Action
+- Biological Weathering
+	- 
 - ### Chemical Weathering
 	- 
 ## Mass Movements
