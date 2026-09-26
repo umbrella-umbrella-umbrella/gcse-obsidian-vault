@@ -24,8 +24,12 @@
 		- People may feel safe living there (Mainly HICs like Canada and America)
 
 - ## Prediction And Monitoring
-	- Volcanoes are easy to predict with monitoring and volcanologists monitoring changes in the volcano. The area at risk is then evacuated is something bad is suspected.
-	- Earthquakes cannot currently be predicted precisely. Building design, public education, emergency planning and designated evacuation areas can reduce the impacts.
+	- **Volcanoes** 
+		- Volcanoes are easy to predict with monitoring and volcanologists monitoring changes in the volcano. The area at risk is then evacuated is something bad is suspected.
+		- can include changes in gas emissions, ground deformation and small earthquakes.
+	- **Earthquakes** 
+		- They cannot currently be predicted precisely. Building design, public education, emergency planning and designated evacuation areas can reduce the impacts.
+	- Earthquake prediction is much less reliable, so reducing risk relies on hazard maps, building design, drills, evacuation plans and public education. Protection and planning reduce vulnerability even when an event cannot be predicted precisely.
 
 - ## Case Studies: Earthquakes in an LIC and HIC
 
