@@ -84,7 +84,18 @@
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
 	- **Slumping** – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
 	- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff
+## Coastal Management Strategies
 
+### Hard Engineering
+e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
+### Soft Engineering – Less visible, cheaper, work with natural processes.
+e.g. Managed retreat, dune regeneration, beach nourishment
+Sea wall – Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
+Rock armour – Absorbs and dissipates wave energy; it can be costly and may affect views and access.
+Groynes – Trap sediment moved by longshore drift, building a wider beach locally. They can reduce sediment supply further along the coast.
+Managed retreat – Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
+Dune regeneration – Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
+Beach nourishment – physically adding sand/shingles to a beach.
 
 ## Examples
 - ### A section of coastline in the UK - The Holderness coast, Yorkshire.
@@ -114,20 +125,8 @@
 		- Stepped sea wall which deflected the energy of the waves back out to sea
 		- Rock Armour to absorb the energy of the waves before they hit the sea wall
 		- Cliff drainage had been used to take excess water from the soft clay cliff to reduce landslide risk
-		- Tetrapods work in a similar way to rock armour and absorb the energy of the waves
+		- Tetrapods work in a similar way to rock armour and absorb the energy
 
-## Coastal Management Strategies
-
-### Hard Engineering
-e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
-SOFT ENGINEERING – Less visible, cheaper, work with natural processes.
-e.g. Managed retreat, dune regeneration, beach nourishment
-Sea wall – Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
-Rock armour – Absorbs and dissipates wave energy; it can be costly and may affect views and access.
-Groynes – Trap sediment moved by longshore drift, building a wider beach locally. They can reduce sediment supply further along the coast.
-Managed retreat – Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
-Dune regeneration – Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
-Beach nourishment – physically adding sand/shingles to a beach.
 ## **Extra content added**
 
 **Coastal processes:** Mechanical weathering includes freeze–thaw; chemical weathering breaks down rock through chemical reactions. Mass movement includes sliding, slumping and rockfall. Coastal erosion includes hydraulic action, abrasion and attrition. Longshore drift transports sediment along the coast. Deposition happens when waves lose energy, for example in sheltered water.
