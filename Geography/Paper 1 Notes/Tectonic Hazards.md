@@ -34,28 +34,26 @@
 		- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
 		- ### Effects:
 			- Social:
-				- About **9,000 people died** and **20,000 were injured**; around **8 million people were affected**. Approximately **3 million people became homeless**, and **1.4 million** needed food, water and shelter. About **7,000 schools were destroyed**. An avalanche at Everest’s Khumbu Icefall killed **19 climbers**.
+				- About **9,000 people died** and **20,000 were injured**
+				- Around **8 million people were affected**
+				- Approximately **3 million people became homeless**
+				- 1.4 million needed food, water and shelter
+				- About **7,000 schools were destroyed**
+				- An avalanche at Everest’s Khumbu Icefall killed **19 climbers**.
 			- Economic
 				- Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts.
 			- Environmental
-				- 
+				- Ground shaking triggered landslides and avalanches. A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. The earthquake occurred on land, so it did not generate a tsunami.
 		- ### Responses
 			- Immediate
-				- 
+				- Search-and-rescue teams and emergency supplies arrived, including support from the UK, India and China. 
+				- Helicopters rescued people caught in avalanches. 
+				- Field hospitals were set up
+				- Around **500,000 tents** were needed to shelter people left homeless.
 			- Long Term
-				- 
-
-| Social                                                                                                                                                                                                                                                                                                               | Economic                                                                                                                   | Environmental                                                                                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| About **9,000 people died** and **20,000 were injured**; around **8 million people were affected**. Approximately **3 million people became homeless**, and **1.4 million** needed food, water and shelter. About **7,000 schools were destroyed**. An avalanche at Everest’s Khumbu Icefall killed **19 climbers**. | Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts. | Ground shaking triggered landslides and avalanches. A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. The earthquake occurred on land, so it did not generate a tsunami. |
-
-
-| Immediate responses                                                                                                                                                                                                                                                                                                        | Long-term responses                                                                                                                                                                                                           |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Search-and-rescue teams and emergency supplies arrived, including support from the UK, India and China. Some rescue support was limited during the first 24 hours. Helicopters rescued people caught in avalanches. Field hospitals were set up, and around **500,000 tents** were needed to shelter people left homeless. | Building controls were tightened and schools were rebuilt. Roads were repaired and landslides cleared. Repairs were made to Everest Base Camp facilities and trekking routes; new routes had been established by August 2015. |
-
----
-
+				- Building controls were tightened and schools were rebuilt. 
+				- Roads were repaired and landslides cleared. 
+				- Repairs were made to Everest Base Camp facilities and trekking routes; new routes had been established by August 2015.
 
 - Tōhoku Earthquake and Tsunami, Japan (2011)
 	- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
