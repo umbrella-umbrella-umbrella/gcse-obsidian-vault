@@ -15,8 +15,11 @@ Also, it doesn’t necessarily have to be animals dying, for example a forest fi
 
 ## Temperate Deciduous Forests
 
-**Characteristics** – Trees in TDFs shed their leaves in Autumn and Winter to save energy and regrowing them in Spring.
-TDFs occur between the tropic of cancer and the arctic circle. It also occurs in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. They occur in the continents of North America, Europe and Asia in the northern Hemisphere and South America and Australia in the Southern hemisphere. Countries include Canada (beautiful country), the UK, Chile and Japan (another beautiful county in more ways than one…).
+- **Characteristics** – Trees in TDFs shed their leaves in Autumn and Winter to save energy and regrowing them in Spring.
+- TDFs occur *between the tropic of cancer and the arctic circle*. 
+	- It also occurs in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. 
+	- They occur in the continents of North America, Europe and Asia in the northern Hemisphere and South America and Australia in the Southern hemisphere. 
+		- Countries include Canada (beautiful country), the UK, Chile and Japan (another beautiful county in more ways than one…).
 
 ### Delamere Forest
 
@@ -30,7 +33,7 @@ Food Web in a TDF - [https://shorturl.at/Eaglv](https://shorturl.at/Eaglv)
 Delamere Equilibrium - [https://www.shorturl.at/IETnU](https://www.shorturl.at/IETnU)
 
 - Nutrient Cycle
-Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
+	- Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
 
 
 
