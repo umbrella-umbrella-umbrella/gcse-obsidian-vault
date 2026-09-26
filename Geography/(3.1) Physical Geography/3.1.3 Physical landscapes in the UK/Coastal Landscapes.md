@@ -37,6 +37,16 @@
 ## Erosional Landforms
 - ### Coastal Erosion
 	- The wearing away of the land by the sea and movement of material
+	  
+	- ### Types of Coastal Erosion
+		- ### Hydraulic Action
+			- 
+		- ### Attrition
+			- 
+		- ### Abrasion
+			- 
+		- ### Solution / Corrosion
+			- 
 	
 - ## Headlands And Bays
 	- They form due to cliffs being made of Soft and Hard rock.
@@ -69,32 +79,11 @@
 	- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
 		- This dissolves and is washed away in solution, weakening the rock.
 
-## Coastal Erosion
-- The wearing away of the land by the sea and movement of material
-
-- ### Types of Coastal Erosion
-	- ### Hydraulic Action
-		- 
-	- ### Attrition
-		- 
-	- ### Abrasion
-		- 
-	- ### Solution / Corrosion
-		- 
 ## Mass Movements
 - The downhill movement of material due to gravity (e.g rocks)
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
 	- **Slumping** – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
-	- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff.
-
-
-
-
-
-
-
-
-
+	- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff
 
 ## Coastal Management Strategies
 
