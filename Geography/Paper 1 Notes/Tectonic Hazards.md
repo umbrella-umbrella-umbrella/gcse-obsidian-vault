@@ -29,17 +29,9 @@ Volcanoes occur at constructive and destructive plate boundaries, where crust is
 Volcanoes are easy to predict with monitoring and volcanologists monitoring changes in the volcano. The area at risk is then evacuated is something bad is suspected.
 Earthquakes cannot currently be predicted precisely. Building design, public education, emergency planning and designated evacuation areas can reduce the impacts.
 
-
-## **Extra content added**
-
-**Global pattern and plate theory:** Earthquakes and volcanoes cluster along plate margins, especially around the Pacific Ring of Fire, and along constructive margins such as the Mid-Atlantic Ridge. Tectonic plates are sections of the Earth’s lithosphere that move slowly over the mantle. Their movement and interaction explain the global pattern of earthquakes and volcanic activity.
-
-**Hazard management:** Volcano monitoring can include changes in gas emissions, ground deformation and small earthquakes. Earthquake prediction is much less reliable, so reducing risk relies on hazard maps, building design, drills, evacuation plans and public education. Protection and planning reduce vulnerability even when an event cannot be predicted precisely.
-
-## Case Studies: Contrasting Earthquakes
+## Case Studies: Earthquakes in an LIC and HIC
 
 - ### Gorkha Earthquake, Nepal (2015)
-- 
 	- **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
 	- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
 
@@ -55,7 +47,6 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 
 
 - Tōhoku Earthquake and Tsunami, Japan (2011)
-
 	- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
 	- **Magnitude:** **9.0**. Earthquake-resistant design helped limit damage to Tokyo’s skyscrapers.
 
@@ -67,7 +58,13 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 |---|---|
 | Tsunami warnings prompted people to move to higher ground. The government requested international aid. Emergency services and the military supported rescue and recovery; mass burials were used to manage the large number of deaths and reduce the risk of disease. | Homes were reconstructed for people left homeless. Some companies relocated production abroad; this supported business continuity but reduced employment in some affected areas. The notes report that many people were still homeless a year after the earthquake. |
 
-### Comparison
+- ### Comparison
 
-- Both earthquakes caused deaths, homelessness and major disruption, but Japan’s offshore earthquake also generated a powerful tsunami.
-- The notes show extensive infrastructure and service disruption in both countries. In Nepal, landslides and blocked roads made access for rescue teams difficult; in Japan, the tsunami caused severe coastal damage and disrupted supply chains well beyond the affected region.
+	- Both earthquakes caused deaths, homelessness and major disruption, but Japan’s offshore earthquake also generated a powerful tsunami.
+	- Extensive infrastructure and service disruption in both countries. In Nepal, landslides and blocked roads made access for rescue teams difficult; in Japan, the tsunami caused severe coastal damage and disrupted supply chains well beyond the affected region.
+
+## **Extra content added**
+
+**Global pattern and plate theory:** Earthquakes and volcanoes cluster along plate margins, especially around the Pacific Ring of Fire, and along constructive margins such as the Mid-Atlantic Ridge. Tectonic plates are sections of the Earth’s lithosphere that move slowly over the mantle. Their movement and interaction explain the global pattern of earthquakes and volcanic activity.
+
+**Hazard management:** Volcano monitoring can include changes in gas emissions, ground deformation and small earthquakes. Earthquake prediction is much less reliable, so reducing risk relies on hazard maps, building design, drills, evacuation plans and public education. Protection and planning reduce vulnerability even when an event cannot be predicted precisely.
