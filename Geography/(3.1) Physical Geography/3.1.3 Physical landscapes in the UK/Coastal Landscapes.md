@@ -72,17 +72,9 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 	- After formation, the Soft Rock is "sheltered" by the hard rock, so it erodes less, and the Hard Rock is more vulnerable and the waves' energy is concentrated on them.
 ![[Headlands and bays.png|254]]
 
-
-
-
-
-
-
-
-
-
-
-
+## Caves, arches, stacks and stumps
+1. Headlands are made of resistant rocks that have weaknesses like cracks
+2. Waves crash into the headlands and en
 
 
 
