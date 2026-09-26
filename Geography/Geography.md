@@ -1,6 +1,7 @@
 > Exam Board = AQA  
 > Choices = Hot Deserts, Coastal Landscapes
 
+credits to J.T for the Geography Notes 👍cant find good notes anywhere.
 ## Physical Geography
 
 - [[Tectonic Hazards]]
@@ -15,6 +16,3 @@
 ## Skills
 
 - [[Geographical Skills]]
-
-
-credits to J.T for the Geography Notes 👍cant find good notes anywhere.
