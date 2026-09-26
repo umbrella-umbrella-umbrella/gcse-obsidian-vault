@@ -35,6 +35,22 @@
 		- The body of water trapped behind is known as a lagoon
 
 ## Erosional Landforms
+- ## Headlands And Bays
+- They form due to cliffs being made of Soft and Hard rock.
+	- The Soft rock erodes quickly whereas the hard rock erodes later.
+	- After formation, the Soft Rock is "sheltered" by the hard rock, so it erodes less, and the Hard Rock is more vulnerable and the waves' energy is concentrated on them.
+![[Headlands and bays.png|254]]
+
+## Caves, arches, stacks and stumps
+- ### Formation
+	1. Headlands are made of resistant rocks that have weaknesses like cracks
+	2. Waves crash into the headlands and enlarge cracks mainly by hydraulic action and abrasion.
+	   Repeated erosion and enlargement of the cracks cause the cave to form.
+	3. Waves cut through the headland to form an arch, which is continually widened at the base.
+	4. Erosion continues to wear away the rock supporting the arch until it eventually collapses
+	5. This forms a stack, an isolated rock that's separated from the headland
+	6. The stack is undercut and collapses to leave a stump which is covered up at high tide
+
 
 ## Wave-Cut Platform
 
@@ -68,23 +84,6 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
 	- **Slumping** – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
 	- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff.
-
-## Headlands And Bays
-- They form due to cliffs being made of Soft and Hard rock.
-	- The Soft rock erodes quickly whereas the hard rock erodes later.
-	- After formation, the Soft Rock is "sheltered" by the hard rock, so it erodes less, and the Hard Rock is more vulnerable and the waves' energy is concentrated on them.
-![[Headlands and bays.png|254]]
-
-## Caves, arches, stacks and stumps
-- ### Formation
-	1. Headlands are made of resistant rocks that have weaknesses like cracks
-	2. Waves crash into the headlands and enlarge cracks mainly by hydraulic action and abrasion.
-	   Repeated erosion and enlargement of the cracks cause the cave to form.
-	3. Waves cut through the headland to form an arch, which is continually widened at the base.
-	4. Erosion continues to wear away the rock supporting the arch until it eventually collapses
-	5. This forms a stack, an isolated rock that's separated from the headland
-	6. The stack is undercut and collapses to leave a stump which is covered up at high tide
-
 
 
 
