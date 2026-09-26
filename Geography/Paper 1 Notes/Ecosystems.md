@@ -25,7 +25,7 @@
 
 ### Delamere Forest
 
-	- So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
+So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
 Below the canopy is the shrub layer.
 The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
 The ground cover contains small bushes and grasses.
