@@ -76,7 +76,7 @@
 - ### Types of Weathering
 	- ### Mechanical Weathering
 		- "Freeze-thaw Action"
-			- 
+			- Water enters cracks in rock. When it freezes, it expands and widens the cracks. Repeated freezing and thawing can eventually break pieces of rock off.
 	- Biological Weathering
 		- 
 	- ### Chemical Weathering
