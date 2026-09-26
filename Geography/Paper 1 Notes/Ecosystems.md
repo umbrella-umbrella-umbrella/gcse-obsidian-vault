@@ -16,7 +16,6 @@
 		- Also, it doesn’t necessarily have to be animals dying, for example a forest fire would reduce the number of trees, which has a knock-on consequence of reducing the birds who reside in the trees by forcibly relocating them elsewhere.
 
 ## Temperate Deciduous Forests
-
 - **Characteristics** – Trees in TDFs shed their leaves in Autumn and Winter to save energy and regrowing them in Spring.
 - TDFs occur *between the tropic of cancer and the arctic circle*. 
 	- It also occurs in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. 
@@ -24,14 +23,14 @@
 		- Countries include Canada (beautiful country), the UK, Chile and Japan (another beautiful county in more ways than one…).
 
 ### Delamere Forest
-- Ecosystem Structure
-	- So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
-	- Below the canopy is the shrub layer.
+- **Ecosystem Structure**
+	- *Canopy* - where the leaves shed for 6 months of the year to conserve energy.
+	- Below the canopy is the *Shrub Layer*.
 	- The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
 	- The ground cover contains small bushes and grasses.
-- Food Chain Stuff
-	- Food Chain – Shows feeding relationship between organisms in a habitat
-	- Food Web – shows how many organisms in an ecosystem interact.
+- **Food Chain Stuff**
+	- *Food Chain* – Shows feeding relationship between organisms in a habitat
+	- *Food Web* – shows how many organisms in an ecosystem interact.
 		- [Food Web in a TDF](https://aldeciduousforestbiome.weebly.com/food-web.html)
 
 - Nutrient Cycle
