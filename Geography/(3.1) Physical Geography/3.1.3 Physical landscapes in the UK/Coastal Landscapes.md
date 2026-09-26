@@ -92,7 +92,8 @@
 	- It has a mixture of hard and soft rock, resulting in a range of coastal landforms created by erosion and deposition
 	- ### Erosional Landforms
 		1. Chalk Headland, **Flamborough Head**
-			- This is formed due to it b
+			- The chalk headland has been eroded slowly due to it being a hard resis
+			- Erosion still does take place, even if it slow.
 	- ### Depositional Landforms
 
 ## Coastal Management Strategies
