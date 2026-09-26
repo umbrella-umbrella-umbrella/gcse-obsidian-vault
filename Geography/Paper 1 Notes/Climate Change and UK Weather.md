@@ -1,6 +1,7 @@
 # Climate Change and UK Weather
 
 - *Great storm of 1703 – proof that extreme weather in the UK is not a new thing, 8,000–15,000 lives were lost at sea.*
+- Met Office records show sustained UK warming and increasing temperature extremes. Its State of the UK Climate 2025 report says 2025 was the warmest year in the UK series from 1884, and days above 30°C and nights above 18°C have more than quadrupled in Greater London in 2016–2025 compared with 1961–1990. [Met Office: State of the UK Climate](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate)
 ## Snow and Low Temperatures
 
 - When – March-April 2013
@@ -44,12 +45,11 @@ Another management strategy includes HICs using desalination, which involves boi
 
 - Adopted by 195 Parties in 2015. It is a treaty with binding procedural duties, including submitting and updating national climate plans; each country’s emissions target is nationally determined rather than imposed as a legally binding result.
 - Aims to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.
-- The United States has withdrawn and rejoined at different times; check the current status before using this as a present-day example.
+- The United States has withdrawn and rejoined at different times
 
 **Evidence of climate change:** Evidence from the Quaternary period to the present includes ice cores, fossils, pollen, tree rings, historical records and modern temperature measurements. These records show natural changes over long timescales as well as recent warming.
 
 **Effects and management:** Climate change affects people and ecosystems through changing temperatures and rainfall, sea-level rise, drought, flooding and shifts in species ranges. Mitigation reduces causes: alternatives to fossil fuels, carbon capture, tree planting and international agreements. Adaptation responds to impacts: changing crops and farming practices, managing water supplies, and protecting coasts and settlements from sea-level rise.
 
-**UK weather hazards:** The UK experiences storms, heavy rain and flooding, snow and ice, heatwaves, drought and strong winds. A single extreme event does not prove a trend; long-term records are needed. Met Office records show sustained UK warming and increasing temperature extremes. Its State of the UK Climate 2025 report says 2025 was the warmest year in the UK series from 1884, and days above 30°C and nights above 18°C have more than quadrupled in Greater London in 2016–2025 compared with 1961–1990. [Met Office: State of the UK Climate](https://www.metoffice.gov.uk/research/climate/maps-and-data/about/state-of-climate)
 
 **UK extreme-weather example – Somerset Levels floods, winter 2013–14:** Prolonged heavy rainfall, saturated ground, flat low-lying land and rivers with reduced capacity contributed to flooding. Social impacts included disrupted travel, school and work; economic impacts included damage to farms, businesses and homes; environmental impacts included flooded farmland and habitats. Responses included pumping, dredging the Rivers Tone and Parrett, repairing flood banks and the Somerset Levels and Moors Flood Action Plan. Dredging and pumping can reduce risk, but flood management also needs maintenance, warnings, preparation and wider catchment measures. [Environment Agency: Somerset flood-risk work](https://www.gov.uk/government/publications/somerset-levels-and-moors-reducing-the-risk-of-flooding/somerset-levels-and-moors-reducing-the-risk-of-flooding)
