@@ -72,6 +72,26 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 	- After formation, the Soft Rock is "sheltered" by the hard rock, so it erodes less, and the Hard Rock is more vulnerable and the waves' energy is concentrated on them.
 ![[Headlands and bays.png|254]]
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Coastal Management Strategies
 
 ## Hard Engineering
@@ -84,6 +104,31 @@ Groynes – Trap sediment moved by longshore drift, building a wider beach local
 Managed retreat – Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
 Dune regeneration – Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
 Beach nourishment – physically adding sand/shingles to a beach.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
