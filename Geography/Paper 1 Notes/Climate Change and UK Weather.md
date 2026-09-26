@@ -53,17 +53,10 @@ Another management strategy includes HICs using desalination, which involves boi
 
 
 **UK extreme-weather example – Somerset Levels floods
-- Kids couldn’t go to school (loss of education) 
-- Parents couldn’t go to work (less taxes to the local government but I’m pretty sure that’s the least of their worries since their entire area is buried in water but yk) 
-- 16 farms had to be evacuated (sad times. Also hurts habitats and food production, causing food prices nationally to increase) 
-- 14,000 hectares of farmland was underwater for 3-4 weeks (love this one, specific and can be linked to food prices going up as well along with environmental impacts) 
-- Massive insurance payouts (businesses damaged) 
-- Locals will have a hard time selling their houses in the future Massive pipes were used to pump water out of the area 
-- Local people used boats and tractors to get around (pretty smart, also they used the local church for food storage, which I remember very well for some reason) 
-- A 5-mile stretch of the rivers Tone and Parret were dredged, increasing water capacity by 40% (finally – also cost them 5 million pounds) 
-- 20 million pound flood action plan to improve the flood resistance of the area 
-
-Causes:
-- Rivers hadn’t been dredged in 20 years (it decreased the river capacity so less excess water was needed for the rivers to overflow) 
-- Extreme rainfall over the 2013-2014 winter (main cause since there was too much water for the rivers to handle – also the soil was very saturated, meaning that it couldn’t hold any more water) 
-- Somerset levels themselves are flat (few meters above sea level) so they flood very often anyway
+- **Location:** The Somerset Levels and Moors are low-lying farmland and wetlands in south-west England, bordered by the Bristol Channel and the Mendip Hills. The notes name Burrowbridge and Bridgwater.
+- **Causes:** A succession of Atlantic depressions brought **350 mm of rain in January and February 2014**, about **100 mm above average**. High tides and storm surges pushed water up rivers, which had not been dredged for at least 20 years.
+- **Social impacts:** More than **600 homes flooded**; **16 farms were evacuated**; residents needed temporary accommodation; and villages such as Moorland were cut off, disrupting daily life. Some people lost power.
+- **Economic impacts:** Somerset County Council estimated flood damage at **over £10 million**. More than **14,000 hectares of agricultural land** were underwater for **3–4 weeks**, over **1,000 livestock** were evacuated, and roads were cut off.
+- **Environmental impacts:** Floodwater was contaminated with sewage, oil and chemicals, and large amounts of debris needed clearing.
+- **Responses:** Residents and volunteers helped locally, some villagers used boats, and pumps moved water back into rivers. Longer-term measures included making temporary pumping stations permanent, widening the Sowy channel to increase drainage capacity, and improving flood-risk information online.
+- **Useful exam link:** Heavy rain and high tides caused flooding across low-lying land, leading to widespread disruption. Pumps and improved drainage increased the area’s ability to move floodwater away.
