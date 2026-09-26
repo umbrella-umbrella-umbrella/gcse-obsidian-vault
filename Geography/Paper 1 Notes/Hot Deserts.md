@@ -25,11 +25,13 @@
 
 	- Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
 	- Over-cultivation - where land is cultivated too intensively, preventing soil recovery and reducing fertility.
+	- Over-grazing
 	- Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
-	  climate change, removal of fuelwood, overgrazing and soil erosion
 
 - ## Strategies To Reduce It
 	- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
+	- managing water and soil, planting trees, reducing overgrazing and using appropriate technology such as efficient irrigation. Strategies need to suit local conditions and involve the people who use the land.
+
 
 ---
 
@@ -79,9 +81,3 @@
 	- Extreme heat can damage road surfaces, and sparse roads and long distances make transport difficult.
 
 Many challenges in hot deserts result from high temperatures, water scarcity and remoteness.
-
-## **Extra content added**
-
-**Desertification causes:** In addition to population growth, over-cultivation and deforestation, risk increases through climate change, removal of fuelwood, overgrazing and soil erosion. These can remove vegetation, expose soil and reduce its fertility.
-
-**Reducing desertification:** Strategies include managing water and soil, planting trees, reducing overgrazing and using appropriate technology such as efficient irrigation. Strategies need to suit local conditions and involve the people who use the land.
