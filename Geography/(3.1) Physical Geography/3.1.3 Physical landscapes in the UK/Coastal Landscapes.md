@@ -35,6 +35,9 @@
 		- The body of water trapped behind is known as a lagoon
 
 ## Erosional Landforms
+- ### Coastal Erosion
+	- The wearing away of the land by the sea and movement of material
+	
 - ## Headlands And Bays
 	- They form due to cliffs being made of Soft and Hard rock.
 		- The Soft rock erodes quickly whereas the hard rock erodes later.
