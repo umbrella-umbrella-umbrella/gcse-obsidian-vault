@@ -29,10 +29,9 @@ Freeze thaw – Water collects in a crack, and if the temperature goes below 0 d
 
 ## Mass Movements
 
-To quote Mr. Burton directly, “This doesn’t come up on exams all that much but it’s worth knowing in case it does”
-Landslides – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
-Slumping – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
-Rockfall – Materials on a cliff face fall and land on the bottom of the cliff.
+- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
+- **Slumping** – Rotational movement of saturated material down a curved slip plane, often after heavy rain.
+- **Rockfall** – Materials on a cliff face fall and land on the bottom of the cliff.
 
 ## Headlands And Bays
 
