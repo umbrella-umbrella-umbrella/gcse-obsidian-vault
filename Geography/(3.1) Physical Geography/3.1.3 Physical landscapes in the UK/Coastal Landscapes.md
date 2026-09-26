@@ -48,7 +48,9 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 	- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
 		- This dissolves and is washed away in solution, weakening the rock.
 
-## Types of Coastal Erosion
+## Coastal Erosion
+- The wearing away of the land by the seaand movement of material
+- ### Types of
 - ### Hydraulic Action
 	- 
 - ### Attrition
