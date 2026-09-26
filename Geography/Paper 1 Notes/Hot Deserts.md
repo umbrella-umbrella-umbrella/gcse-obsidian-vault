@@ -1,16 +1,16 @@
 # Hot Deserts
 
-### Hot Desert Features
-
-- Located anywhere from 15-30 degrees north/south
-- Continents they are on include Africa, Asia and North America, and Specific countries include The United States, India (more on that later) and Australia.
-- They do not always have plants as there is almost no precipitation and plants need very special adaptations to survive in the desert environment. 
-	- The soil is also extremely infertile, making it even harder for plants to grow.
-- Hot desert ecosystems have 
+-  Hot desert ecosystems have 
 	- very low and unreliable rainfall 
 	- high evaporation 
 	- sparse vegetation. 
+- Located anywhere from 15-30 degrees north/south
+- Continents they are on include Africa, Asia and North America, 
+	- Specific countries include The United States, India (Thar Desert) and Australia.
+- They do not always have plants as there is almost no precipitation and plants need very special adaptations to survive in the desert environment. 
+	- The soil is also extremely infertile, making it even harder for plants to grow.
 - Water availability shapes soils and plant growth; plants and animals need adaptations that conserve or obtain water. 
+
 - People also depend on limited water supplies. Desert biodiversity is adapted to these conditions but can be vulnerable to land-use change and water extraction.
 
 ---
