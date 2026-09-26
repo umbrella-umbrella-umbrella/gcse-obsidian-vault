@@ -1,29 +1,27 @@
 # Tectonic Hazards
 
-## Plate Rules
+- ## Plate Rules
+	- **Continental** **plate** 
+		- Usually thicker and less dense than oceanic crust. It does not usually subduct beneath oceanic crust; behaviour depends on the boundary.
+	- **Oceanic** **plate** 
+		- Usually thinner and denser than continental crust. It may subduct at a destructive boundary, but oceanic plates also meet at constructive and conservative boundaries.
 
-- **Continental** **plate** 
-	- Usually thicker and less dense than oceanic crust. It does not usually subduct beneath oceanic crust; behaviour depends on the boundary.
-- **Oceanic** **plate** 
-	- Usually thinner and denser than continental crust. It may subduct at a destructive boundary, but oceanic plates also meet at constructive and conservative boundaries.
-
-## Boundaries
-
-- **Destructive Boundary** 
-	- An oceanic and continental plate move together, the oceanic plate subducts under the continental plate and the oceanic crust melts into the mantle. Volcanoes occur here since the heat and pressure from the subducting oceanic plate makes the magma less dense than the surrounding areaa, forcing it up through the earth.
-- **Constructive** 
-	- Where 2 plates are moving away from each other (Iceland is a great example of this) and the magma rises through the cap and cools, which can form volcanoes.
-- **Conservative Boundary** 
-	- Where 2 plates are moving against each other. They can get stuck where massive pressure builds up and when it gets released, a massive earthquake can happen. California is a great example of this. Also there are no volcanoes here since land isn’t being created or destroyed.
-- **Convergent boundary** (e.g. Nepal) 
-	- 2 continental plates move towards each other; however, they can’t subduct so instead they fold on each other and form mountains. (No volcanoes form because crust is neither created nor destroyed.)
+- ## Boundaries
+	- **Destructive Boundary** 
+		- An oceanic and continental plate move together, the oceanic plate subducts under the continental plate and the oceanic crust melts into the mantle. Volcanoes occur here since the heat and pressure from the subducting oceanic plate makes the magma less dense than the surrounding areaa, forcing it up through the earth.
+	- **Constructive** 
+		- Where 2 plates are moving away from each other (Iceland is a great example of this) and the magma rises through the cap and cools, which can form volcanoes.
+	- **Conservative Boundary** 
+		- Where 2 plates are moving against each other. They can get stuck where massive pressure builds up and when it gets released, a massive earthquake can happen. California is a great example of this. Also there are no volcanoes here since land isn’t being created or destroyed.
+	- **Convergent boundary** (e.g. Nepal) 
+		- 2 continental plates move towards each other; however, they can’t subduct so instead they fold on each other and form mountains. (No volcanoes form because crust is neither created nor destroyed.)
 
 - ## WHY DO PEOPLE LIVE IN TECTONICALLY ACTIVE AREAS?
-	- *4 main reasons:*
-		- Geothermal energy potential (cheap and renewable – they do this a lot in Iceland)
-		- Mineral-rich soil supports farming and economic activity.
-		- People may be unable to afford to move away from tectonically active areas.
-		- People may feel safe living there (Mainly HICs like Canada and America)
+- *4 main reasons:*
+	- Geothermal energy potential (cheap and renewable – they do this a lot in Iceland)
+	- Mineral-rich soil supports farming and economic activity.
+	- People may be unable to afford to move away from tectonically active areas.
+	- People may feel safe living there (Mainly HICs like Canada and America)
 
 - ## Prediction And Monitoring
 	- Volcanoes are easy to predict with monitoring and volcanologists monitoring changes in the volcano. The area at risk is then evacuated is something bad is suspected.
