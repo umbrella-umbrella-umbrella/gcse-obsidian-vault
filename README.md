@@ -1,4 +1,5 @@
 These are GCSE notes that I use
-- I used ChatGPT to translate content from Powerpoint Slides t
-- Some may look weird / be formatted incorrectly as I use these files are used in Obisdian (note taking app)
+- I used ChatGPT to translate content from PowerPoint Slides to .md files 
+- Some may look weird / be formatted incorrectly when viewing from GitHub as I use these files are used in Obsidian, so I recommend downloading a zip of the repository and extracting to a Obsidian vault to use.
+- 
  
