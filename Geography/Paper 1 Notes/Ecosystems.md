@@ -16,7 +16,6 @@
 		- Also, it doesn’t necessarily have to be animals dying, for example a forest fire would reduce the number of trees, which has a knock-on consequence of reducing the birds who reside in the trees by forcibly relocating them elsewhere.
 
 ## Temperate Deciduous Forests
--![[Pasted image 20260926141113.png|236]]
 - **Characteristics** – Trees in TDFs shed their leaves in Autumn and Winter to save energy and regrowing them in Spring.
 - TDFs occur *between the tropic of cancer and the arctic circle*. 
 	- It also occurs in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. 
