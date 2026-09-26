@@ -24,11 +24,12 @@
 		- Countries include Canada (beautiful country), the UK, Chile and Japan (another beautiful county in more ways than one…).
 
 ### Delamere Forest
-
-So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
-Below the canopy is the shrub layer.
-The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
-The ground cover contains small bushes and grasses.
+- Ecosystem Structure
+	- So, there’s the canopy, where the leaves shed for 6 months of the year to conserve energy.
+	- Below the canopy is the shrub layer.
+	- The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
+	- The ground cover contains small bushes and grasses.
+Food Ch
 Food Chain – Shows feeding relationship between organisms in a habitat
 Food Web – shows how many organisms in an ecosystem interact.
 Food Web in a TDF - [https://shorturl.at/Eaglv](https://shorturl.at/Eaglv)
