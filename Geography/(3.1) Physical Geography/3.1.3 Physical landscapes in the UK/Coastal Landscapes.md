@@ -40,7 +40,7 @@
 	  
 	- ### Types of Coastal Erosion
 		- ### Hydraulic Action
-			- 
+			- As waves hit a cliff face air is compressed in cracks in the rocks. This blasts away small fragm
 		- ### Attrition
 			- 
 		- ### Abrasion
