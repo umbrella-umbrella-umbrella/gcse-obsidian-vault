@@ -21,9 +21,9 @@
 ### Temperate Deciduous Forests
 
 - **Characteristics** – Trees in TDFs shed their leaves in Autumn and Winter to save energy and regrowing them in Spring.
-- TDFs occur *between the tropic of cancer and the arctic circle* and also occu in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. 
-	- They occur in the continents of North America, Europe and Asia in the northern Hemisphere and South America and Australia in the Southern hemisphere. 
-		- Countries include Canada (beautiful country), the UK, Chile and Japan (another beautiful county in more ways than one…).
+- TDFs occur *between the tropic of cancer and the arctic circle* and also in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. 
+	- They occur in the continents of North America, Europe *(Northern Hemisphere)* and South America and Australia *(Southern hemisphere)* 
+		- Countries include Canada, the UK, Chile and Japan
 		
 - ### Delamere Forest (An Example of a TDF, in the UK)
 	- **Ecosystem Structure**
