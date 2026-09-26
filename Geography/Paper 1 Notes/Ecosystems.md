@@ -21,24 +21,20 @@
 	- It also occurs in the southern hemisphere between the tropic of Capricorn and the Antarctic circle. 
 	- They occur in the continents of North America, Europe and Asia in the northern Hemisphere and South America and Australia in the Southern hemisphere. 
 		- Countries include Canada (beautiful country), the UK, Chile and Japan (another beautiful county in more ways than one…).
-
-### Delamere Forest
-- **Ecosystem Structure**
-	- *Canopy* - where the leaves shed for 6 months of the year to conserve energy.
-	- Below the canopy is the *Shrub Layer*.
-	- The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
-	- The ground cover contains small bushes and grasses.
-- **Food Chain Stuff**
-	- *Food Chain* – Shows feeding relationship between organisms in a habitat
-	- *Food Web* – shows how many organisms in an ecosystem interact.
-		- [Food Web in a TDF](https://aldeciduousforestbiome.weebly.com/food-web.html)
+		
+- ### Delamere Forest (An Example of a TDF, in the UK)
+	- **Ecosystem Structure**
+		- *Canopy* - where the leaves shed for 6 months of the year to conserve energy.
+		- Below the canopy is the *Shrub Layer*.
+		- The decomposers eat the dead plants and animals and recycle nutrients back into the soil.
+		- The ground cover contains small bushes and grasses.
+	- **Food Chain Stuff**
+		- *Food Chain* – Shows feeding relationship between organisms in a habitat
+		- *Food Web* – shows how many organisms in an ecosystem interact.
+			- [Food Web in a TDF](https://aldeciduousforestbiome.weebly.com/food-web.html)
 
 - Nutrient Cycle
 	- Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
-
-
-
-## **Extra content added**
 
 **Producers** make their own food, usually by photosynthesis. Consumers obtain energy by eating plants or other animals; decomposers break down dead organisms and return nutrients to the soil. Energy flows through food chains and food webs, while nutrients are recycled.
 
