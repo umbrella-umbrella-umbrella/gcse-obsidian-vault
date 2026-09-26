@@ -1,8 +1,7 @@
 # Computer Science
 
-> Exam Board = Pearson E
-> Choices = Hot Deserts, Coastal Landscapes
-> [Specification](obsidian://open?vault=ObsidianVault&file=synced%2FGeography%2FGeography%20Spec.PDF)
+> Exam Board = Pearson Edexcel
+>[[el specification.pdf]]
 ## 2. Data
 
 ### 2.1 Binary
