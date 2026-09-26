@@ -90,7 +90,7 @@
 - Is coastal management strategies that are often more expensive than soft engineering strategies, work against natural processes and are clearly visible
 - e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
 ### Soft Engineering 
-- Coastal Management strategies that are often less expensize than Hard Engineering strategies, work with natural processes and 
+- Coastal Management strategies that are often less expensive than Hard Engineering strategies, work with natural processes and are less visible.
 e.g. Managed retreat, dune regeneration, beach nourishment
 Sea wall – Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
 Rock armour – Absorbs and dissipates wave energy; it can be costly and may affect views and access.
