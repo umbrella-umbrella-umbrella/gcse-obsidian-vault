@@ -110,8 +110,8 @@
 		2. It is a high energy coast which is affected by powerful winter storms
 		3. Along most of the coast there is no real beach to break the energy of the waves
 		4. The area is both a holiday resort and a residential area with millions of pounds worth of property
-	- **Management** includes
-	-
+	- **Management** includes:
+		- 
 
 ## Coastal Management Strategies
 
