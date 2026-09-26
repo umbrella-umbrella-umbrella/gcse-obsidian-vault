@@ -12,17 +12,16 @@
 - **Saguaro cactus** – Pleats expand as the stem takes up water after rain. A mature saguaro can weigh more than two tonnes when fully hydrated; most of its mass is water. Its shallow, widespread roots rapidly absorb water from brief rainfall.
 
 ## Animal Examples in Deserts
-- ### The Golden Mole
 
+- ### The Golden Mole
 	- Nocturnal – hunts at night, since it’s main food source (termites) only come out at night, so it can feed on them.
 	- It lives under the sand, giving it an element of surprise and making it less visible to prey, so it can catch its prey and get food.
-	- Smaller than a ping pong ball so it can quickly and easily maneuver through the sand, allowing it to get to prey fast.
+	- Smaller than a ping pong ball so it can quickly and easily manoeuvre through the sand, allowing it to get to prey fast.
 
 - ### The Darkling Beetle
-
 	- Some Namib darkling beetles collect water from fog on their bodies; the behaviour and adaptations vary between species. 
-- Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
-- Active in mornings where the chance of moisture in the air is higher
+	- Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
+	- Active in mornings where the chance of moisture in the air is higher
 
 ## Thar Desert (Case Study of Hot Desert)
 
