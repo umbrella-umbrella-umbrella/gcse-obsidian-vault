@@ -17,6 +17,7 @@
 	- Equilibrium in an ecosystem is *a balance between its living and non-living components.* (biotic and abiotic)
 		- For example, if all the deer died in a forest, it would have a knock-on consequence by lowering the number of wolves and other things that eat the deer, as they either relocate or starve.
 		- Also, it doesn’t necessarily have to be animals dying, for example a forest fire would reduce the number of trees, which has a knock-on consequence of reducing the birds who reside in the trees by forcibly relocating them elsewhere.
+		-  A change in one population can alter the balance of the ecosystem.
 
 ### Temperate Deciduous Forests
 
@@ -37,15 +38,6 @@
 			- [Food Web in a TDF](https://aldeciduousforestbiome.weebly.com/food-web.html)
 			  ![[TDF Food Web.png|339]]
 
-
-
-
-
-
-
-
 **Producers** make their own food, usually by photosynthesis. Consumers obtain energy by eating plants or other animals; decomposers break down dead organisms and return nutrients to the soil. Energy flows through food chains and food webs, while nutrients are recycled.
 
 **Interrelationships and scale:** Climate influences water availability, soils and vegetation. These affect which animals can live in an ecosystem and how people use it. A change to one component, such as removing trees, can affect habitats, food webs, soil and water movement. Ecosystems range from small local systems such as Delamere Forest to global biomes. Tropical rainforests occur near the Equator; hot deserts commonly occur around 15°–30° north and south; temperate forests occur in mid-latitudes; grasslands occur in tropical and temperate regions; and tundra and polar biomes occur at high latitudes.
-
-**Delamere Forest example:** Use the food chain, food web and nutrient cycle to show the links between producers, consumers, decomposers and abiotic components. A change in one population can alter the balance of the ecosystem.
