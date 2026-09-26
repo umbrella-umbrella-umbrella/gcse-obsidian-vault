@@ -2,13 +2,13 @@
 
 ## Plant Adaptations In Hot Deserts
 
-Saguaro cactus – Pleats expand as the stem takes up water after rain. A mature saguaro can weigh more than two tonnes when fully hydrated; most of its mass is water. Its shallow, widespread roots rapidly absorb water from brief rainfall.
+- **Saguaro cactus** – Pleats expand as the stem takes up water after rain. A mature saguaro can weigh more than two tonnes when fully hydrated; most of its mass is water. Its shallow, widespread roots rapidly absorb water from brief rainfall.
 
 
 ## Hot Desert Features
 
-Located anywhere from 15-30 degrees north/south
-Continents they are on include Africa, Asia and North America, and Specific countries include The United States, India (more on that later) and Australia.
+- Located anywhere from 15-30 degrees north/south
+- Continents they are on include Africa, Asia and North America, and Specific countries include The United States, India (more on that later) and Australia.
 They do not always have plants as there is virtually no precipitation and plants need very special adaptations to survive in the desert environment. The soil is also extremely infertile, making it even harder for plants to grow.
 
 ## The Golden Mole
