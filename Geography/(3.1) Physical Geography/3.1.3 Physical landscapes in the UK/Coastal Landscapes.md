@@ -1,17 +1,19 @@
 # Coastal Landscapes
 
 ## Longshore Drift
+
 - Longshore drift moves sediment along the coast. 
 	- The swash follows the prevailing wind direction, the backwash follows gravity and carries sediment down the beach. 
 	- The cycle repeats, as the next swash moves the sediment slightly in the direction of the wind again, until the sediment has been transported across the beach.
 	- Diagram:
 	 ![[Longshore Drift.png|274]]
+
 ## Constructive Waves
 
 - Break less frequently (usually about 6–8 waves per minute)
 - Responsible for deposition
 - Long in relation to their height
-- Swash is more powerful than backwash
+- Swash is more powerful than backwash, so sediment is deposited
 - Create gently sloping beaches
 
 ## Destructive Waves
