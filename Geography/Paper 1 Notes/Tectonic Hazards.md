@@ -43,45 +43,43 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 
 ### Gorkha Earthquake, Nepal (2015)
 
-- Magnitude 7.8 (often rounded to 7.9); the earthquake caused widespread building collapse.
-- About 7,000 schools were destroyed and damage was estimated at around US$5 billion.
-- An avalanche at Everest's Khumbu Icefall killed 19 climbers.
-- Immediate responses included tents for around 500,000 people, field hospitals and international aid from countries including the UK, India and China.
-- Longer-term responses included rebuilding schools and introducing stricter building standards.
-- Around 9,000 deaths, 20,000 injuries and 8 million people affected. About 3 million people were left homeless, while around 1.4 million needed food, water and shelter in the days after the earthquake.
-- Landslides and avalanches blocked roads and hampered relief. A landslide blocked the Kali Gandaki River, about 140 km north-west of Kathmandu, and people were evacuated because of possible flooding.
-- Longer-term recovery also included repairing roads, clearing landslides and rebuilding trekking routes and facilities on Mount Everest.
+- **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
+- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
+
+#### Effects
+
+| Effect category | Impacts |
+|---|---|
+| **Social** | About **9,000 people died** and **20,000 were injured**; around **8 million people were affected**. Approximately **3 million people became homeless**, and **1.4 million** needed food, water and shelter. About **7,000 schools were destroyed**. An avalanche at Everest’s Khumbu Icefall killed **19 climbers**. |
+| **Economic** | Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts. |
+| **Environmental / physical** | Ground shaking triggered landslides and avalanches. A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. The earthquake occurred on land, so it did not generate a tsunami. |
+
+#### Responses
+
+| Immediate responses | Long-term responses |
+|---|---|
+| Search-and-rescue teams and emergency supplies arrived, including support from the UK, India and China. Some rescue support was limited during the first 24 hours. Helicopters rescued people caught in avalanches. Field hospitals were set up, and around **500,000 tents** were needed to shelter people left homeless. | Building controls were tightened and schools were rebuilt. Roads were repaired and landslides cleared. Repairs were made to Everest Base Camp facilities and trekking routes; new routes had been established by August 2015. |
 
 ### Tōhoku Earthquake and Tsunami, Japan (2011)
 
-- Magnitude 9.0; the undersea earthquake triggered a tsunami that reached about 38 metres in places.
-- About 4.4 million people lost electricity, 1.5 million lost running water and around 330,000 were left homeless.
-- Warnings were issued, and the government requested international aid, including food, water and shelter.
-- Emergency services and the military supported rescue and recovery. Mass burials were used where necessary to manage the large number of deaths.
-- Longer-term recovery included rebuilding homes; some Toyota and Sony operations were relocated, affecting employment in some areas.
+- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
+- **Magnitude:** **9.0**. Earthquake-resistant design helped limit damage to Tokyo’s skyscrapers.
 
-### Japan and Nepal: Earthquakes in a HIC and LIC
+#### Effects
 
-- **Japan**
-    
-    - The notes describe a magnitude **9.0** earthquake at a destructive plate margin, where the Pacific Plate moves towards the Okhotsk Plate.
-    - Earthquake-resistant design limited damage to Tokyo’s skyscrapers.
-    - **15,853 people died** and **6,023 were injured**.
-    - Around **4.4 million households** in north-east Japan lost electricity; **1.5 million** lost running water.
-    - The undersea earthquake triggered a tsunami which produced waves up to **38 metres** high and left **332,400 people homeless**.
-    - Immediate responses included tsunami warnings and international aid. Longer-term responses included rebuilding homes and some companies relocating production.
-      
-- **Nepal**
-    
-    - The magnitude **7.9** earthquake struck about **80 km north-west of Kathmandu**, in the Himalayan foothills.
-    - Around **9,000 people died**, **20,000 were injured**, and **8 million were affected**.
-    - About **3 million people were left homeless**; **1.4 million** needed food, water and shelter.
-    - Landslides and avalanches blocked roads and hampered rescue efforts. An avalanche on Mount Everest killed at least **19 people**.
-    - Immediate responses included search-and-rescue teams, international aid, helicopters, tents and field hospitals. Longer-term responses included stricter building controls, rebuilding schools, repairing roads and clearing landslides.
-    
-- ### Comparing effects and responses
+| Effect category | Impacts |
+|---|---|
+| **Social** | **15,853 people died** and **6,023 were injured**. Around **4.4 million households** in north-east Japan lost electricity and **1.5 million** lost running water. About **332,000 people** were left homeless. |
+| **Economic** | The tsunami damaged infrastructure and disrupted businesses. Nissan’s Sunderland plant temporarily shut because of parts shortages from Japanese factories. Toyota, Sony and other companies stopped production; some later relocated operations abroad, affecting employment. |
+| **Environmental / physical** | The undersea earthquake triggered a tsunami with waves up to **38 m** high. The notes also report that the tsunami caused large slabs of ice to break away from Antarctica’s Sulzberger Ice Shelf. |
 
-	- **Nepal:** 
-		- Building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Tents, field hospitals and international aid were immediate responses; rebuilding schools and strengthening building standards were longer-term responses.
-	- **Japan:** 
-		- Ground shaking and the tsunami caused deaths, homelessness and direct infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.
+#### Responses
+
+| Immediate responses | Long-term responses |
+|---|---|
+| Tsunami warnings prompted people to move to higher ground. The government requested international aid. Emergency services and the military supported rescue and recovery; mass burials were used to manage the large number of deaths and reduce the risk of disease. | Homes were reconstructed for people left homeless. Some companies relocated production abroad; this supported business continuity but reduced employment in some affected areas. The notes report that many people were still homeless a year after the earthquake. |
+
+### Comparison
+
+- Both earthquakes caused deaths, homelessness and major disruption, but Japan’s offshore earthquake also generated a powerful tsunami.
+- The notes show extensive infrastructure and service disruption in both countries. In Nepal, landslides and blocked roads made access for rescue teams difficult; in Japan, the tsunami caused severe coastal damage and disrupted supply chains well beyond the affected region.
