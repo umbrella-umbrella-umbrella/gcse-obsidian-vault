@@ -59,13 +59,26 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 - Warnings were issued, and the government requested international aid, including food, water and shelter.
 - Emergency services and the military supported rescue and recovery. Mass burials were used where necessary to manage the large number of deaths.
 - Longer-term recovery included rebuilding homes; some Toyota and Sony operations were relocated, affecting employment in some areas.
-### **Extra content added**
 
-- **The booklet gives figures of 15,853 deaths and 6,023 injuries. Around 4.4 million households in north-east Japan lost electricity, and about 1.5 million people lost running water.**
-- **The tsunami caused severe disruption to factories and supply chains, including a shortage of parts that affected Nissan’s Sunderland plant. The booklet also reports that large slabs of ice broke away from the Sulzberger Ice Shelf in Antarctica following the tsunami.**
-- **Buildings in Tokyo swayed, but earthquake-resistant design limited damage there.**
+### Japan and Nepal: contrasting earthquakes
 
-### Comparing effects and responses
+- **Japan**
+    
+    - The notes describe a magnitude **9.0** earthquake at a destructive plate margin, where the Pacific Plate moves towards the Okhotsk Plate.
+    - Earthquake-resistant design limited damage to Tokyo’s skyscrapers.
+    - **15,853 people died** and **6,023 were injured**.
+    - Around **4.4 million households** in north-east Japan lost electricity; **1.5 million** lost running water.
+    - The tsunami produced waves up to **38 metres** high and left **332,400 people homeless**.
+    - Immediate responses included tsunami warnings and international aid. Longer-term responses included rebuilding homes and some companies relocating production.
+- **Nepal**
+    
+    - The magnitude **7.9** earthquake struck about **80 km north-west of Kathmandu**, in the Himalayan foothills.
+    - Around **9,000 people died**, **20,000 were injured**, and **8 million were affected**.
+    - About **3 million people were left homeless**; **1.4 million** needed food, water and shelter.
+    - Landslides and avalanches blocked roads and hampered rescue efforts. An avalanche on Mount Everest killed at least **19 people**.
+    - Immediate responses included search-and-rescue teams, international aid, helicopters, tents and field hospitals. Longer-term responses included stricter building controls, rebuilding schools, repairing roads and clearing landslides.
+- ### Comparing effects and responses
 
-- **Nepal:** Building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Tents, field hospitals and international aid were immediate responses; rebuilding schools and strengthening building standards were longer-term responses.
-- **Japan:** Ground shaking and the tsunami caused deaths, homelessness and direct infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.
+	- **Nepal:** 
+		- Building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Tents, field hospitals and international aid were immediate responses; rebuilding schools and strengthening building standards were longer-term responses.
+	- **Japan:** Ground shaking and the tsunami caused deaths, homelessness and direct infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.
