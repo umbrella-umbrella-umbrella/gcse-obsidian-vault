@@ -8,9 +8,9 @@
 
 - ## Boundaries
 	- **Destructive Boundary** 
-		- An oceanic and continental plate move together, the oceanic plate subducts under the continental plate and the oceanic crust melts into the mantle. Volcanoes occur here since the heat and pressure from the subducting oceanic plate makes the magma less dense than the surrounding areaa, forcing it up through the earth.
+		- An oceanic and continental plate move together, the oceanic plate subducts under the continental plate and the oceanic crust melts into the mantle. Volcanoes occur here since the heat and pressure from the subducting oceanic plate makes the magma less dense than the surrounding area, forcing it up through the earth.
 	- **Constructive** 
-		- Where 2 plates are moving away from each other (Iceland is a great example of this) and the magma rises through the cap and cools, which can form volcanoes.
+		- Where 2 plates are moving away from each other (Iceland is a great example of this) and the magma rises through the gap and cools, which can form volcanoes.
 	- **Conservative Boundary** 
 		- Where 2 plates are moving against each other. They can get stuck where massive pressure builds up and when it gets released, a massive earthquake can happen. California is a great example of this. Also there are no volcanoes here since land isn’t being created or destroyed.
 	- **Convergent boundary** (e.g. Nepal) 
