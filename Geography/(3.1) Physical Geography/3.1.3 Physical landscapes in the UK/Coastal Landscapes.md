@@ -108,7 +108,10 @@
 	- The area requires coastal management because
 		1. The geology of the area is a complicated mixture of clay, sands and chalk which are soft rocks
 		2. It is a high energy coast which is affected by powerful winter storms
-		3. 
+		3. Along most of the coast there is no real beach to break the energy of the waves
+		4. The area is both a holiday resort and a residential area with millions of pounds worth of property
+	- **Management** includes
+	-
 
 ## Coastal Management Strategies
 
