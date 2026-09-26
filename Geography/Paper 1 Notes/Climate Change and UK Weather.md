@@ -54,9 +54,12 @@ Another management strategy includes HICs using desalination, which involves boi
 
 **UK extreme-weather example – Somerset Levels floods
 - **Location:** The Somerset Levels and Moors are low-lying farmland and wetlands in south-west England, bordered by the Bristol Channel and the Mendip Hills. The notes name Burrowbridge and Bridgwater.
-- **Causes:** A succession of Atlantic depressions brought **350 mm of rain in January and February 2014**, about **100 mm above average**. High tides and storm surges pushed water up rivers, which had not been dredged for at least 20 years.
+- **Causes:** 
+	- A succession of Atlantic depressions brought **350 mm of rain in January and February 2014**, about **100 mm above average**. High tides and storm surges pushed water up rivers, which had not been dredged for at least 20 years.
+	
 - **Social impacts:** More than **600 homes flooded**; **16 farms were evacuated**; residents needed temporary accommodation; and villages such as Moorland were cut off, disrupting daily life. Some people lost power.
 - **Economic impacts:** Somerset County Council estimated flood damage at **over £10 million**. More than **14,000 hectares of agricultural land** were underwater for **3–4 weeks**, over **1,000 livestock** were evacuated, and roads were cut off.
 - **Environmental impacts:** Floodwater was contaminated with sewage, oil and chemicals, and large amounts of debris needed clearing.
 - **Responses:** Residents and volunteers helped locally, some villagers used boats, and pumps moved water back into rivers. Longer-term measures included making temporary pumping stations permanent, widening the Sowy channel to increase drainage capacity, and improving flood-risk information online.
 - **Useful exam link:** Heavy rain and high tides caused flooding across low-lying land, leading to widespread disruption. Pumps and improved drainage increased the area’s ability to move floodwater away.
+
