@@ -1,4 +1,4 @@
-﻿# Social and business boundaries
+# Social and business boundaries
 - Blurring social and business boundaries means the lines between personal life and professional life become less separate or clearly defined.
 
 ### How technology contributes

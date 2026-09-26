@@ -16,10 +16,12 @@
 [[B3 L14 Security Policies]]
 
 # C
-- [[C1 L15 Shared data]]
-[[C1 L16 Environmental impact]]
-[[C2 L17 Equal access to IT]]
-[[C2 L18 Social and business boundaries]]
-[[C2 L19 Respecting data and technology]]
-[[C2 L20 Intellectual property]]
+- ### C1
+	- [[C1 L15 Shared data]]
+	- [[C1 L16 Environmental impact]]
+- ### C2
+	- [[C2 L17 Equal access to IT]]
+	- [[C2 L18 Social and business boundaries]]
+	- [[C2 L19 Respecting data and technology]]
+	- [[C2 L20 Intellectual property]]
 
