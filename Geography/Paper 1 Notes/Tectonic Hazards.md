@@ -16,22 +16,22 @@
 	- **Convergent boundary** (e.g. Nepal) 
 		- 2 continental plates move towards each other; however, they can’t subduct so instead they fold on each other and form mountains. (No volcanoes form because crust is neither created nor destroyed.)
 
-- ## WHY DO PEOPLE LIVE IN TECTONICALLY ACTIVE AREAS?
-- *4 main reasons:*
-	- Geothermal energy potential (cheap and renewable – they do this a lot in Iceland)
-	- Mineral-rich soil supports farming and economic activity.
-	- People may be unable to afford to move away from tectonically active areas.
-	- People may feel safe living there (Mainly HICs like Canada and America)
+- ## Why do people live in Tectonically Active Areas?
+	- *There are 4 main reasons:*
+		- Geothermal energy potential (cheap and renewable – they do this a lot in Iceland)
+		- Mineral-rich soil supports farming and economic activity.
+		- People may be unable to afford to move away from tectonically active areas.
+		- People may feel safe living there (Mainly HICs like Canada and America)
 
 - ## Prediction And Monitoring
 	- Volcanoes are easy to predict with monitoring and volcanologists monitoring changes in the volcano. The area at risk is then evacuated is something bad is suspected.
 	- Earthquakes cannot currently be predicted precisely. Building design, public education, emergency planning and designated evacuation areas can reduce the impacts.
 
-## Case Studies: Earthquakes in an LIC and HIC
+- ## Case Studies: Earthquakes in an LIC and HIC
 
-- ### Gorkha Earthquake, Nepal (2015)
-	- **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
-	- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
+	- ### Gorkha Earthquake, Nepal (2015)
+		- **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
+		- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
 
 | Social                                                                                                                                                                                                                                                                                                               | Economic                                                                                                                   | Environmental                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
