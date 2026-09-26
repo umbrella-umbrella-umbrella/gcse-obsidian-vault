@@ -42,11 +42,11 @@
 		- ### Hydraulic Action
 			- As waves hit a cliff face air is compressed in cracks in the rocks. This blasts away small fragments of material.
 		- ### Attrition
-			-  
+			-  Where rocks, boulders, and pebbles carried by a river or the sea bump and smash into each other
 		- ### Abrasion
-			- When waves pick up sand and pebbles and then they "break" hurl
+			- When waves pick up sand and pebbles and then they "break", hurling the material they have been carrying at the cliff face.
 		- ### Solution / Corrosion
-			- 
+			- Chemical action of the sea water where acids in the water can dissolve rocks.
 	
 - ## Headlands And Bays
 	- They form due to cliffs being made of Soft and Hard rock.
