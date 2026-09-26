@@ -1,6 +1,6 @@
 # Ecosystems
 
-Ecosystem – A natural system made up of biotic (living) and abiotic (non-living) factors.
+- Ecosystem – A natural system made up of biotic (living) and abiotic (non-living) factors.
 Biotic components are the living parts of an ecosystem, including plants, animals and microorganisms.
 Abiotic is things like soil, air and water.
 Primary Consumers eat the producers, they are biotic. An example is a rabbit in a grassland.

@@ -1,6 +1,6 @@
 # Climate Change and UK Weather
 
-Great storm of 1703 – proof that extreme weather in the UK is not a new thing, 8,000–15,000 lives were lost at sea.
+*Great storm of 1703 – proof that extreme weather in the UK is not a new thing, 8,000–15,000 lives were lost at sea.*
 ## Snow and Low Temperatures
 
 When – March-April 2013
@@ -45,6 +45,8 @@ Another management strategy includes HICs using desalination, which involves boi
 - Adopted by 195 Parties in 2015. It is a treaty with binding procedural duties, including submitting and updating national climate plans; each country’s emissions target is nationally determined rather than imposed as a legally binding result.
 - Aims to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.
 - The United States has withdrawn and rejoined at different times; check the current status before using this as a present-day example.
+
+## Extra Content
 
 **Evidence of climate change:** Evidence from the Quaternary period to the present includes ice cores, fossils, pollen, tree rings, historical records and modern temperature measurements. These records show natural changes over long timescales as well as recent warming.
 
