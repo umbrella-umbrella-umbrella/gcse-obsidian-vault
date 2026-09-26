@@ -87,7 +87,7 @@
 
 ## Coastal Management Strategies
 
-## Hard Engineering
+### Hard Engineering
 e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
 SOFT ENGINEERING – Less visible, cheaper, work with natural processes.
 e.g. Managed retreat, dune regeneration, beach nourishment
@@ -97,34 +97,6 @@ Groynes – Trap sediment moved by longshore drift, building a wider beach local
 Managed retreat – Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
 Dune regeneration – Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
 Beach nourishment – physically adding sand/shingles to a beach.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## **Extra content added**
 
 **Coastal processes:** Mechanical weathering includes freeze–thaw; chemical weathering breaks down rock through chemical reactions. Mass movement includes sliding, slumping and rockfall. Coastal erosion includes hydraulic action, abrasion and attrition. Longshore drift transports sediment along the coast. Deposition happens when waves lose energy, for example in sheltered water.
