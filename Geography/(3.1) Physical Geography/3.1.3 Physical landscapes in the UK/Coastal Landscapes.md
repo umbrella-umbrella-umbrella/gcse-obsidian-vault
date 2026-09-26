@@ -50,7 +50,7 @@
 		4. Erosion continues to wear away the rock supporting the arch until it eventually collapses
 		5. This forms a stack, an isolated rock that's separated from the headland
 		6. The stack is undercut and collapses to leave a stump which is covered up at high tide
-		![[Pasted image 20260926222059.png]]
+		![[Caves, Arches, Stacks and Stumps.png]]
 
 - ## Wave-Cut Platform
 	- Between high tide and low tide is the high energy zone in the ocean. This high energy zone causes erosion into cliff faces through hydraulic power and abrasion, causing a wave-cut notch to form. Eventually, the wave-cut notch gets very deep into the cliff, causing the overhang to collapse, which forms a wave-cut platform. The process repeats as the cliff retreats backwards.
