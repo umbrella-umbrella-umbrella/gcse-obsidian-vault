@@ -47,8 +47,16 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 - ### Chemical Weathering
 	- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
 		- This dissolves and is washed away in solution, weakening the rock.
+
 ## Types of Coastal Erosion
-1. # 
+- ### Hydraulic Action
+	- 
+- ### Attrition
+	- 
+- ### Abrasion
+	- 
+- ### Solution / Corrosion
+	- 
 ## Mass Movements
 - The downhill movement of material due to gravity (e.g rocks)
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
