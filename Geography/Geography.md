@@ -1,6 +1,6 @@
 > Exam Board = AQA  
 > Choices = Hot Deserts, Coastal Landscapes
-> [Specification](obsidian://open?vault=ObsidianVault&file=synced%2FGeography%2FGeography%20Spec.PDF)
+> [[Geography Spec.PDF]]]
 
 credits to J.T for the Geography Notes 👍cant find good notes anywhere.
 

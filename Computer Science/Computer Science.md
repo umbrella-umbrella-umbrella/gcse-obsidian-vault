@@ -1,7 +1,7 @@
 # Computer Science
 
 > Exam Board = Pearson Edexcel
->[[el specification.pdf]]
+> [[Computer Science Spec.pdf]]
 ## 2. Data
 
 ### 2.1 Binary
