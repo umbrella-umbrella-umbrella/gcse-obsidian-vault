@@ -77,11 +77,11 @@
 	- ### Mechanical Weathering
 		- "Freeze-thaw Action"
 			- Water enters cracks in rock. When it freezes, it expands and widens the cracks. Repeated freezing and thawing can eventually break pieces of rock off.
-	- Biological Weathering, when living things break down rock.
+	- ***Biological Weathering***, when living things break down rock.
 		- Plant roots can grow into cracks and force them wider.
 		- Burrowing animals can loosen rock and soil.
 		- Some organisms release weak acids that gradually dissolve rock.
-	- ### Chemical Weathering
+	- ***Chemical Weathering***
 		- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
 			- This dissolves and is washed away in solution, weakening the rock.
 
