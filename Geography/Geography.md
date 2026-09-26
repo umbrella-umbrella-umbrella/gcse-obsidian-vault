@@ -2,7 +2,8 @@
 > Choices = Hot Deserts, Coastal Landscapes
 > [[Geography Spec.PDF]]]
 
-credits to J.T for the Geography Notes 👍cant find good notes anywhere.
+- credits to J.T for the Geography Notes 👍cant find good notes anywhere.
+- found a cool website https://www.internetgeography.net
 
 ## Physical Geography
 - [[Tectonic Hazards]]
