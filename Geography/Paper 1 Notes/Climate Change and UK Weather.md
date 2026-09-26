@@ -11,20 +11,28 @@ Impacts – 100,000 homes and businesses without power, 1,000 schools closed alo
 - **Changes in Earth axial tilt** – Over 41,000 years, the earth’s axis can change by 1 degree from 23.5 degrees. If it tilts closer to the sun at 22.5 degrees, the earth will get more solar energy and will affect the earth’s climate by making it warmer, however if it tilts away from the sun at 24.5 degrees, the earth will get less solar energy and will affect the earth’s climate by making it cooler.
 - **Precession (axial wobble)** – Over roughly 19,000–23,000 years, Earth’s axis slowly changes direction. This changes the timing of the seasons in relation to Earth’s position in its orbit; it does not make Earth randomly move closer to or further from the Sun.
 ## Internal Natural Factors
-- Volcanic eruptions – Sulfur and ash from eruptions can block the sun’s radiation, causing the climate to be cooler.
-- Tectonic movements – Plate tectonics move the continents, leading to changes in atmospheric circulation in different parts of the world, making some areas have a warmer climate and other areas having a cooler climate.
-- Albedo effect – Snowy areas have a cooler climate partly due to snow reflecting most light incident on it, leading to the ground and therefore the climate remaining cold as most solar radiation being reflected off it. However, grass absorbs more light than it reflects, warming the ground and making the climate warmer, keeping warm areas warm and cold areas cold.
+- **Volcanic eruptions** – Sulfur and ash from eruptions can block the sun’s radiation, causing the climate to be cooler.
+- **Tectonic movements** – Plate tectonics move the continents, leading to changes in atmospheric circulation in different parts of the world, making some areas have a warmer climate and other areas having a cooler climate.
+- **Albedo effect** – Snowy areas have a cooler climate partly due to snow reflecting most light incident on it, leading to the ground and therefore the climate remaining cold as most solar radiation being reflected off it. However, grass absorbs more light than it reflects, warming the ground and making the climate warmer, keeping warm areas warm and cold areas cold.
 ## Human Factors
-- Landfill – Decomposing waste can release methane, a greenhouse gas that contributes to climate change.
-- Deforestation – Humans cut down trees for materials and to make space for houses, which releases CO₂ into the air and makes it so that less CO₂ is absorbed from the atmosphere, contributing to the greenhouse effect and therefore contributing to climate change.
-- Industry – Humans use factories to manufacture goods like chemicals. This releases a large amount of CO₂ into the atmosphere, contributing to the greenhouse effect and climate change.
+- **Landfill** – Decomposing waste can release methane, a greenhouse gas that contributes to climate change.
+- **Deforestation** – Humans cut down trees for materials and to make space for houses, which releases CO₂ into the air and makes it so that less CO₂ is absorbed from the atmosphere, contributing to the greenhouse effect and therefore contributing to climate change.
+- **Industry** – Humans use factories to manufacture goods like chemicals. This releases a large amount of CO₂ into the atmosphere, contributing to the greenhouse effect and climate change.
 ## Climate Change Management
-Mitigation – Actions intended to reduce or prevent climate change.
-- Adaptation – Adapting to climate change after changes have taken place.
+- **Mitigation** – Actions intended to reduce or prevent climate change.
+- **Adaptation** – Adapting to climate change after changes have taken place.
 Climate change will bring more droughts and floods along with more extreme weather events – demand for water and coastal flooding will also increase.
 Climate change will also make it so tropical diseases like malaria may spread farther from the equator due to rising temperatures, killing more people.
 Climate change management (adaptation) includes the Maldives building a sea wall to combat rising sea levels, to protect the islands from rising sea levels.
 Another management strategy includes HICs using desalination, which involves boiling seawater to rid it of salt and then condensing it back into safe, potable drinking water. 
+
+
+|                                                                                           |     |
+| ----------------------------------------------------------------------------------------- | --- |
+| Climate change will bring more droughts and floods along with more extreme weather events |     |
+|                                                                                           |     |
+|                                                                                           |     |
+
 ## Kyoto Protocol (1997), Japan
 - The protocol set a target for participating developed countries to reduce greenhouse-gas emissions by an average of 5.2% below 1990 levels during 2008–2012; this was a target, not a measured global reduction.
 - The United States signed but did not ratify it. Australia signed in 1998 and ratified it in 2007.
