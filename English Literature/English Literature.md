@@ -1,9 +1,9 @@
 
 > Exam Board = Eduqas
 > Shakespearean Text = [[Romeo and Juliet]]
-> Poetry Anthology = For Exams in 2027
-> Modern Drama = Blood Brothers
-> 19th Century Text = A Christmas Carol
+> [[Poetry Anthology]] = For Exams in 2027
+> Modern Drama = [[Blood Brothers]]
+> 19th Century Text = [[A Christmas Carol]]
 
 ## Overview
 1. **Academic Opening** - 3 adjectives (e.g, Romeo - *Amorous, Passionate and Impulsive*)
