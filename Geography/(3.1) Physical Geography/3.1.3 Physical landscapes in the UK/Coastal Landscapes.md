@@ -10,7 +10,6 @@
 
 ## Wave Types
 - ### Constructive Waves
-
 	- Responsible for deposition
 	- "Break" less frequently (usually about 6–8 waves per minute)
 	- Swash is more powerful than backwash, so sediment is deposited
@@ -18,7 +17,6 @@
 	- Long in relation to their height
 
 - ### Destructive Waves
-
 	- Responsible for erosion
 	- "Break" frequently (10-25 a minute)
 	- Backwash is more powerful than swash, therefore takes sediment away from the beach causing coastal erosion
@@ -26,8 +24,9 @@
 	- High in relation to their length
 
 ## Spits And Bars
-
-Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction changes, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
+- ### Spits
+	- Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. 
+	- This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction changes, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
 
 ## Wave-Cut Platform
 
