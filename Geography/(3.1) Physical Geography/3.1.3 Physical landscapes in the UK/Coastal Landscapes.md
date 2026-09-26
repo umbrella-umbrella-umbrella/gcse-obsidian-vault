@@ -8,21 +8,22 @@
 	- Diagram:
 	 ![[Longshore Drift.png|274]]
 
-## Constructive Waves
+## Wave Types
+- ### Constructive Waves
 
-- Responsible for deposition
-- "Break" less frequently (usually about 6–8 waves per minute)
-- Swash is more powerful than backwash, so sediment is deposited
-- Create gently sloping beaches
-- Long in relation to their height
+	- Responsible for deposition
+	- "Break" less frequently (usually about 6–8 waves per minute)
+	- Swash is more powerful than backwash, so sediment is deposited
+	- Create gently sloping beaches
+	- Long in relation to their height
 
-## Destructive Waves
+- ### Destructive Waves
 
-- Responsible for erosion
-- "Break" frequently (10-25 a minute)
-- Backwash is more powerful than swash
-- Create steep beaches
-- High in relation to their length
+	- Responsible for erosion
+	- "Break" frequently (10-25 a minute)
+	- Backwash is more powerful than swash, therefore takes sediment away from the beach causing coastal erosion
+	- Create steep beaches
+	- High in relation to their length
 
 ## Spits And Bars
 
