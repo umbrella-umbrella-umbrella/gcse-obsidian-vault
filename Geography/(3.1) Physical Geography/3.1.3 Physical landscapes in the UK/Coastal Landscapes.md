@@ -1,6 +1,7 @@
 # Coastal Landscapes
-- Th
 
+## Coast
+- The coast is the narrow strip between land and sea, it is under constant attack from waves.
 ## Longshore Drift
 
 - Longshore drift moves sediment along the coast. 
