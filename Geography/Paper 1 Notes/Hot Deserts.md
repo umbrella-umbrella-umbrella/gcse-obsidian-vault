@@ -4,11 +4,13 @@
 	- very low and unreliable rainfall 
 	- high evaporation 
 	- sparse vegetation. 
-- Located anywhere from 15-30 degrees north/south
+- Located anywhere from ***15-30 degrees north/south***
 - Continents they are on include Africa, Asia and North America, 
-	- Specific countries include The United States, India (Thar Desert) and Australia.
+	- Specific countries include *The United States, India (Thar Desert) and Australia.*
+
 - They do not always have plants as there is almost no precipitation and plants need very special adaptations to survive in the desert environment. 
 	- The soil is also extremely infertile, making it even harder for plants to grow.
+
 - Water availability shapes soils and plant growth; plants and animals need adaptations that conserve or obtain water. 
 
 - People also depend on limited water supplies. Desert biodiversity is adapted to these conditions but can be vulnerable to land-use change and water extraction.
@@ -24,6 +26,7 @@
 	- Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
 	- Over-cultivation - where land is cultivated too intensively, preventing soil recovery and reducing fertility.
 	- Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
+	  climate change, removal of fuelwood, overgrazing and soil erosion
 
 - ## Strategies To Reduce It
 	- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
@@ -78,8 +81,6 @@
 Many challenges in hot deserts result from high temperatures, water scarcity and remoteness.
 
 ## **Extra content added**
-
-**Interdependence and biodiversity:** Hot desert ecosystems have very low and unreliable rainfall, high evaporation and sparse vegetation. Water availability shapes soils and plant growth; plants and animals need adaptations that conserve or obtain water. People also depend on limited water supplies. Desert biodiversity is adapted to these conditions but can be vulnerable to land-use change and water extraction.
 
 **Desertification causes:** In addition to population growth, over-cultivation and deforestation, risk increases through climate change, removal of fuelwood, overgrazing and soil erosion. These can remove vegetation, expose soil and reduce its fertility.
 
