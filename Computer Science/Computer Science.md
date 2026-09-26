@@ -45,4 +45,4 @@ Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification top
 - [[Computer Science/4. Networks/4.1 Networks/4.1.8 Network topologies]]
 
 ## Revision checklist
-- [[Computer Science/(ST1 Y11) Revision Guide]]
+- [[(ST1 Y11) Revision Guide]]
