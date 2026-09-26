@@ -69,7 +69,8 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 ## Headlands And Bays
 - They form due to cliffs being made of Soft and Hard rock.
 	- The Soft rock erodes quickly whereas the hard rock erodes later.
-	 ![[Pasted image 20260926220551.png]]
+	- After formation, the Soft Rock is "sheltered"
+![[Headlands and bays.png|254]]
 
 ## Coastal Management Strategies
 
