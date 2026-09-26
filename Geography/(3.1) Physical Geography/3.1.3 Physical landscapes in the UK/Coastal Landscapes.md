@@ -73,13 +73,16 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 ![[Headlands and bays.png|254]]
 
 ## Caves, arches, stacks and stumps
-1. Headlands are made of resistant rocks that have weaknesses like cracks
-2. Waves crash into the headlands and enlarge cracks mainly by hydraulic action and abrasion.
-   Repeated erosion and enlargement of the cracks cause the cave to form.
-3. Waves cut through the headland to form an arch, which is continually widened at the base.
-4. Erosion continues to wear away the rock supporting the arch until it eventually collapses
-5. This forms a stack, an isolated rock that's separated from the headland
-6. The stack is undercut and collapses to leave a stump which is cov
+- ### Formation
+	1. Headlands are made of resistant rocks that have weaknesses like cracks
+	2. Waves crash into the headlands and enlarge cracks mainly by hydraulic action and abrasion.
+	   Repeated erosion and enlargement of the cracks cause the cave to form.
+	3. Waves cut through the headland to form an arch, which is continually widened at the base.
+	4. Erosion continues to wear away the rock supporting the arch until it eventually collapses
+	5. This forms a stack, an isolated rock that's separated from the headland
+	6. The stack is undercut and collapses to leave a stump which is covered up at high tide
+
+
 
 
 
