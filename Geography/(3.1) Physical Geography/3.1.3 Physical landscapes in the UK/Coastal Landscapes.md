@@ -27,12 +27,14 @@
 - ### Spits
 	- Spits form when longshore drift deposits sediment offshore when there is a change in the shape of the coastline. 
 	- This sediment keeps getting deposited outward, forming a spit. A recurved end can form if the wind direction changes, and a sheltered salt marsh can form behind the spit. A river estuary prevents the spit from reaching land as it washes away any sediment that is deposited.
+- ### Bars
+	- 
 
 ## Wave-Cut Platform
 
 Between high tide and low tide is the high energy zone in the ocean. This high energy zone causes erosion into cliff faces through hydraulic power and abrasion, causing a wave-cut notch to form. Eventually, the wave-cut notch gets very deep into the cliff, causing the overhang to collapse, which forms a wave-cut platform. The process repeats as the cliff retreats backwards.
 Freeze thaw – Water collects in a crack, and if the temperature goes below 0 degrees, the water freezes and expands, widening the crack. The process repeats as water recollects and freezes.
-![[Wavecut Platform.png]]
+![[Wavecut Platform.png|331]]
 
 ## Mass Movements
 
