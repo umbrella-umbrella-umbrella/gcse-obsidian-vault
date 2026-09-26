@@ -78,7 +78,7 @@
 
 - ### Challenges
 
-	- It’s hot. Summer temperatures can reach 53°C. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
+	- It’s hot. Summer temperatures can reach 53°C.
 	- Mobile dunes can migrate and block roads, stopping people getting to school/work.
 	- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
 	- Lack of roads makes transport difficult. Camel travel is common.
