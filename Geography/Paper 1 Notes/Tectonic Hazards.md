@@ -41,9 +41,11 @@
 				- About **7,000 schools were destroyed**
 				- An avalanche at Everest’s Khumbu Icefall killed **19 climbers**.
 			- Economic
-				- Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts.
+				- Damage was estimated at around **US$5 billion**
+				- Blocked roads disrupted transport and hampered rescue and relief efforts.
 			- Environmental
-				- Ground shaking triggered landslides and avalanches. A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. The earthquake occurred on land, so it did not generate a tsunami.
+				- Ground shaking triggered landslides and avalanches
+				- A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. 
 		- ### Responses
 			- Immediate
 				- Search-and-rescue teams and emergency supplies arrived, including support from the UK, India and China. 
@@ -55,9 +57,23 @@
 				- Roads were repaired and landslides cleared. 
 				- Repairs were made to Everest Base Camp facilities and trekking routes; new routes had been established by August 2015.
 
-- Tōhoku Earthquake and Tsunami, Japan (2011)
-	- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
-	- **Magnitude:** **9.0**. Earthquake-resistant design helped limit damage to Tokyo’s skyscrapers.
+	- ### Tōhoku Earthquake and Tsunami, Japan (2011)
+		- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
+		- **Magnitude:** **9.0**. Earthquake-resistant design helped limit damage to Tokyo’s skyscrapers.
+		- ### Effects:
+			- Social:
+				- About **9,000 people died** and **20,000 were injured**
+				- Around **8 million people were affected**
+				- Approximately **3 million people became homeless**
+				- 1.4 million needed food, water and shelter
+				- About **7,000 schools were destroyed**
+				- An avalanche at Everest’s Khumbu Icefall killed **19 climbers**.
+			- Economic
+				- Damage was estimated at around **US$5 billion**
+				- Blocked roads disrupted transport and hampered rescue and relief efforts.
+			- Environmental
+				- Ground shaking triggered landslides and avalanches
+				- A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. 
 
 | Social                                                                                                                                                                                                         | Economic                                                                                                                                                                                                                                                                       | Environmental                                                                                                                                                                                      |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
