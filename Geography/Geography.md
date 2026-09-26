@@ -15,3 +15,6 @@
 ## Skills
 
 - [[Geographical Skills]]
+
+
+credits to J.T for the Geography Notes 👍cant find good n
