@@ -21,17 +21,15 @@ Impacts – 100,000 homes and businesses without power, 1,000 schools closed alo
 ## Climate Change Management
 - **Mitigation** – Actions intended to reduce or prevent climate change.
 - **Adaptation** – Adapting to climate change after changes have taken place.
-Climate change will bring more droughts and floods along with more extreme weather events – demand for water and coastal flooding will also increase.
-Climate change will also make it so tropical diseases like malaria may spread farther from the equator due to rising temperatures, killing more people.
-Climate change management (adaptation) includes the Maldives building a sea wall to combat rising sea levels, to protect the islands from rising sea levels.
+
 Another management strategy includes HICs using desalination, which involves boiling seawater to rid it of salt and then condensing it back into safe, potable drinking water. 
 
 
-|                                                                                           |     |
-| ----------------------------------------------------------------------------------------- | --- |
-| Climate change will bring more droughts and floods along with more extreme weather events |     |
-|                                                                                           |     |
-|                                                                                           |     |
+|                                                                                                                                   |                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Climate change will bring more droughts and floods along with more extreme weather events                                         | demand for water and coastal flooding will also increase.                                                    |
+| Climate change will also make it so tropical diseases like malaria may spread farther from the equator due to rising temperatures | killing more people.                                                                                         |
+| Rising Sea Levels                                                                                                                 | the Maldives building a sea wall to combat rising sea levels, to protect the islands from rising sea levels. |
 
 ## Kyoto Protocol (1997), Japan
 - The protocol set a target for participating developed countries to reduce greenhouse-gas emissions by an average of 5.2% below 1990 levels during 2008–2012; this was a target, not a measured global reduction.
