@@ -60,7 +60,7 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 - Emergency services and the military supported rescue and recovery. Mass burials were used where necessary to manage the large number of deaths.
 - Longer-term recovery included rebuilding homes; some Toyota and Sony operations were relocated, affecting employment in some areas.
 
-### Japan and Nepal: contrasting earthquakes
+### Japan and Nepal: Earthquakes in a HIC and LIC
 
 - **Japan**
     
@@ -70,6 +70,7 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
     - Around **4.4 million households** in north-east Japan lost electricity; **1.5 million** lost running water.
     - The tsunami produced waves up to **38 metres** high and left **332,400 people homeless**.
     - Immediate responses included tsunami warnings and international aid. Longer-term responses included rebuilding homes and some companies relocating production.
+      
 - **Nepal**
     
     - The magnitude **7.9** earthquake struck about **80 km north-west of Kathmandu**, in the Himalayan foothills.
@@ -77,8 +78,10 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
     - About **3 million people were left homeless**; **1.4 million** needed food, water and shelter.
     - Landslides and avalanches blocked roads and hampered rescue efforts. An avalanche on Mount Everest killed at least **19 people**.
     - Immediate responses included search-and-rescue teams, international aid, helicopters, tents and field hospitals. Longer-term responses included stricter building controls, rebuilding schools, repairing roads and clearing landslides.
+    
 - ### Comparing effects and responses
 
 	- **Nepal:** 
 		- Building collapse and deaths were primary effects; landslides, blocked roads and disruption to services were secondary effects. Tents, field hospitals and international aid were immediate responses; rebuilding schools and strengthening building standards were longer-term responses.
-	- **Japan:** Ground shaking and the tsunami caused deaths, homelessness and direct infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.
+	- **Japan:** 
+		- Ground shaking and the tsunami caused deaths, homelessness and direct infrastructure damage; power and water outages and business disruption were further effects. Warnings and emergency aid were immediate responses; rebuilding homes and relocating some business operations were longer-term responses.
