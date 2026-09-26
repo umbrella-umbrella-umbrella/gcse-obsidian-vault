@@ -52,17 +52,16 @@ Many challenges in hot deserts result from high temperatures, water scarcity and
 
 ## Desertification
 
-Desertification is the process by which fertile land becomes desert, usually on the fringes of existing hot deserts. It becomes drier and less productive.
+- Desertification is the process by which fertile land becomes desert, usually on the fringes of existing hot deserts. It becomes drier and less productive.
 
-## Causes
+- ## Causes
 
-- Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
-- Over-cultivation - where land is cultivated too intensively, preventing soil recovery and reducing fertility.
-- Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
+	- Deforestation if trees get cut down, the root system holding the soil together dies, causing the soil to become less strong, making it infertile and therefore making it easier to be desertified.
+	- Over-cultivation - where land is cultivated too intensively, preventing soil recovery and reducing fertility.
+	- Population growth kind of ties in will all of this, as more people mean more food needed, so more over-cultivation, along with more deforestation, leading to more desertification.
 
-## Strategies To Reduce It
-
-- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
+- ## Strategies To Reduce It
+	- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
 
 ## **Extra content added**
 
