@@ -68,7 +68,7 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
     - Earthquake-resistant design limited damage to Tokyo’s skyscrapers.
     - **15,853 people died** and **6,023 were injured**.
     - Around **4.4 million households** in north-east Japan lost electricity; **1.5 million** lost running water.
-    - The tsunami produced waves up to **38 metres** high and left **332,400 people homeless**.
+    - The undersea earthquake triggered a tsunami which produced waves up to **38 metres** high and left **332,400 people homeless**.
     - Immediate responses included tsunami warnings and international aid. Longer-term responses included rebuilding homes and some companies relocating production.
       
 - **Nepal**
