@@ -32,6 +32,7 @@
 
 Between high tide and low tide is the high energy zone in the ocean. This high energy zone causes erosion into cliff faces through hydraulic power and abrasion, causing a wave-cut notch to form. Eventually, the wave-cut notch gets very deep into the cliff, causing the overhang to collapse, which forms a wave-cut platform. The process repeats as the cliff retreats backwards.
 Freeze thaw – Water collects in a crack, and if the temperature goes below 0 degrees, the water freezes and expands, widening the crack. The process repeats as water recollects and freezes.
+![[Wavecut Platform.png]]
 
 ## Mass Movements
 
