@@ -99,10 +99,12 @@
 		
 	- ### Depositional Landforms
 		1. Spurn Point
-			- A curved split created by deposited sediment transported south along the holderness coast.
+			- A curved spit created by deposited sediment transported south along the holderness coast.
 			- It is approx. 6km long and only 50m wied in someplaces.
 			- It is made of sand and shingle, held together by marram grass
-			- Mudflats and salt marshes have develope
+			- Mudflats and salt marshes have developed behind the spit
+	
+- 
 
 ## Coastal Management Strategies
 
