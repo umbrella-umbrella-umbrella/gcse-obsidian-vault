@@ -3,9 +3,9 @@
 - *Great storm of 1703 – proof that extreme weather in the UK is not a new thing, 8,000–15,000 lives were lost at sea.*
 ## Snow and Low Temperatures
 
-When – March-April 2013
-Where – North England, North Wales, Scotland, Northern Ireland
-Impacts – 100,000 homes and businesses without power, 1,000 schools closed along with severe disruption to transport
+- When – March-April 2013
+- Where – North England, North Wales, Scotland, Northern Ireland
+- Impacts – 100,000 homes and businesses without power, 1,000 schools closed along with severe disruption to transport
 ## External Natural Factors
 
 - **Changes in solar output** – If the sun outputs more solar energy, it will affect Earth climate by making it warmer.
@@ -46,11 +46,7 @@ Another management strategy includes HICs using desalination, which involves boi
 - Aims to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.
 - The United States has withdrawn and rejoined at different times; check the current status before using this as a present-day example.
 
-## Extra Content
-
 **Evidence of climate change:** Evidence from the Quaternary period to the present includes ice cores, fossils, pollen, tree rings, historical records and modern temperature measurements. These records show natural changes over long timescales as well as recent warming.
-
-**Causes:** Natural causes include orbital changes, volcanic activity and changes in solar output. Human causes include burning fossil fuels for energy and transport, agriculture (including methane from livestock), and deforestation (which releases carbon dioxide and reduces its removal from the atmosphere).
 
 **Effects and management:** Climate change affects people and ecosystems through changing temperatures and rainfall, sea-level rise, drought, flooding and shifts in species ranges. Mitigation reduces causes: alternatives to fossil fuels, carbon capture, tree planting and international agreements. Adaptation responds to impacts: changing crops and farming practices, managing water supplies, and protecting coasts and settlements from sea-level rise.
 
