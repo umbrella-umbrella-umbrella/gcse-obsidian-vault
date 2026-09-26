@@ -112,7 +112,9 @@
 		4. The area is both a holiday resort and a residential area with millions of pounds worth of property
 	- **Management** includes:
 		- Stepped sea wall which deflected the energy of the waves back out to sea
-		- Rock Armour to absorb the energy of the waves b
+		- Rock Armour to absorb the energy of the waves before they hit the sea wall
+		- Cliff drainage had been used to take excess water from the soft clay cliff to reduce landslide risk
+		- Tetrapods work in a similar way to rock armour and absorb the energy of the waves
 
 ## Coastal Management Strategies
 
