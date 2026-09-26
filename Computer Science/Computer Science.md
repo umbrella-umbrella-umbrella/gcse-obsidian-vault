@@ -44,5 +44,11 @@ Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification top
 - [[4.1.4 Wireless connectivity]]
 - [[4.1.8 Network topologies]]
 
+## 5. Issues
+
+### 5.3 Cybersecurity
+- [[5.3.1 Threats to digital systems]]
+- [[5.3.2 Protecting digital systems and data]]
+
 ## Revision checklist
 - [[(ST1 Y11) Revision Guide]]
