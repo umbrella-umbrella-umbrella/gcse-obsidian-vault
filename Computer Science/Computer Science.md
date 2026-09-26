@@ -1,6 +1,5 @@
 # Computer Science
 
-Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification topic. Each Markdown lesson note corresponds to one source PDF.
 
 ## 2. Data
 
