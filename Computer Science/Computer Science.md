@@ -1,5 +1,6 @@
 # Computer Science
 
+Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification topic.
 
 ## 2. Data
 
