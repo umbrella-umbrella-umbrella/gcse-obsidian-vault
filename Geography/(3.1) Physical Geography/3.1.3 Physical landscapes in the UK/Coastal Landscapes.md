@@ -38,6 +38,11 @@
 Between high tide and low tide is the high energy zone in the ocean. This high energy zone causes erosion into cliff faces through hydraulic power and abrasion, causing a wave-cut notch to form. Eventually, the wave-cut notch gets very deep into the cliff, causing the overhang to collapse, which forms a wave-cut platform. The process repeats as the cliff retreats backwards.
 ![[Wavecut Platform.png|331]]
 
+## Types of Weathering
+- ### Mechanical Weathering
+1. 
+- ### Chemical Weathering
+	- 
 ## Mass Movements
 - The downhill movement of material due to gravity (e.g rocks)
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
