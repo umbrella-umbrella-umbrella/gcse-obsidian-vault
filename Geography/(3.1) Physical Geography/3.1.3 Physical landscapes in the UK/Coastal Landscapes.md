@@ -10,16 +10,16 @@
 
 ## Constructive Waves
 
-- Break less frequently (usually about 6–8 waves per minute)
 - Responsible for deposition
-- Long in relation to their height
+- "Break" less frequently (usually about 6–8 waves per minute)
 - Swash is more powerful than backwash, so sediment is deposited
 - Create gently sloping beaches
+- Long in relation to their height
 
 ## Destructive Waves
 
 - Responsible for erosion
-- Break frequently (10-25 a minute)
+- "Break" frequently (10-25 a minute)
 - Backwash is more powerful than swash
 - Create steep beaches
 - High in relation to their length
