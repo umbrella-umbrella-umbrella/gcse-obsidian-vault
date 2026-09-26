@@ -39,9 +39,9 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 ## Case Studies: Contrasting Earthquakes
 
 - ### Gorkha Earthquake, Nepal (2015)
-
+- 
 	- **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
-- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
+	- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
 
 | Social                                                                                                                                                                                                                                                                                                               | Economic                                                                                                                   | Environmental                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -50,8 +50,11 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 | Immediate responses                                                                                                                                                                                                                                                                                                        | Long-term responses                                                                                                                                                                                                           |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Search-and-rescue teams and emergency supplies arrived, including support from the UK, India and China. Some rescue support was limited during the first 24 hours. Helicopters rescued people caught in avalanches. Field hospitals were set up, and around **500,000 tents** were needed to shelter people left homeless. | Building controls were tightened and schools were rebuilt. Roads were repaired and landslides cleared. Repairs were made to Everest Base Camp facilities and trekking routes; new routes had been established by August 2015. |
-|                                                                                                                                                                                                                                                                                                                            |                                                                                                                                                                                                                               |
-- ### Tōhoku Earthquake and Tsunami, Japan (2011)
+
+---
+
+
+- Tōhoku Earthquake and Tsunami, Japan (2011)
 
 	- **Location and cause:** An undersea earthquake off north-east Japan occurred at a destructive plate margin, where the Pacific Plate moves towards and subducts beneath the Okhotsk Plate.
 	- **Magnitude:** **9.0**. Earthquake-resistant design helped limit damage to Tokyo’s skyscrapers.
