@@ -70,6 +70,7 @@
 	![[Wavecut Platform.png|331]]
 
 ## Types of Weathering
+- Weathering is the breaking d
 - ### Mechanical Weathering
 	- "Freeze-thaw Action"
 		- 
