@@ -9,7 +9,8 @@
 
 - Located anywhere from 15-30 degrees north/south
 - Continents they are on include Africa, Asia and North America, and Specific countries include The United States, India (more on that later) and Australia.
-They do not always have plants as there is virtually no precipitation and plants need very special adaptations to survive in the desert environment. The soil is also extremely infertile, making it even harder for plants to grow.
+- They do not always have plants as there is almost no precipitation and plants need very special adaptations to survive in the desert environment. 
+	- The soil is also extremely infertile, making it even harder for plants to grow.
 
 ## The Golden Mole
 
@@ -21,10 +22,9 @@ They do not always have plants as there is virtually no precipitation and plants
 
 - Some Namib darkling beetles collect water from fog on their bodies; the behaviour and adaptations vary between species. 
 - Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
-
 - Active in mornings where the chance of moisture in the air is higher
 
-## Thar Desert
+# Thar Desert
 
 ## Background Information
 
