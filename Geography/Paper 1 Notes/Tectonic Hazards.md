@@ -43,13 +43,11 @@ Earthquakes cannot currently be predicted precisely. Building design, public edu
 - **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
 - **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
 
-#### Effects
+#### Effect
 
-| Effect category | Impacts |
-|---|---|
-| **Social** | About **9,000 people died** and **20,000 were injured**; around **8 million people were affected**. Approximately **3 million people became homeless**, and **1.4 million** needed food, water and shelter. About **7,000 schools were destroyed**. An avalanche at Everest’s Khumbu Icefall killed **19 climbers**. |
-| **Economic** | Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts. |
-| **Environmental / physical** | Ground shaking triggered landslides and avalanches. A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. The earthquake occurred on land, so it did not generate a tsunami. |
+| Social                                                                                                                                                                                                                                                                                                               | Economic                                                                                                                   | Environmental                                                                                                                                                                                                                                                       |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| About **9,000 people died** and **20,000 were injured**; around **8 million people were affected**. Approximately **3 million people became homeless**, and **1.4 million** needed food, water and shelter. About **7,000 schools were destroyed**. An avalanche at Everest’s Khumbu Icefall killed **19 climbers**. | Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts. | Ground shaking triggered landslides and avalanches. A landslide blocked the Kali Gandaki River, about **140 km north-west of Kathmandu**, creating a risk of flooding and prompting evacuations. The earthquake occurred on land, so it did not generate a tsunami. |
 
 #### Responses
 
