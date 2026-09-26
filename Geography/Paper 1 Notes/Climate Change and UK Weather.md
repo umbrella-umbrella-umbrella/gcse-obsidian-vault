@@ -32,21 +32,19 @@ Climate change will also make it so tropical diseases like malaria may spread fa
 Climate change management (adaptation) includes the Maldives building a sea wall to combat rising sea levels, to protect the islands from rising sea levels.
 Another management strategy includes HICs using desalination, which involves boiling seawater to rid it of salt and then condensing it back into safe, potable drinking water. 
 
-## Kyoto Protocol (1997), Japan
+## Agreements
+### Kyoto Protocol (1997), Japan
 
 - The protocol set a target for participating developed countries to reduce greenhouse-gas emissions by an average of 5.2% below 1990 levels during 2008–2012; this was a target, not a measured global reduction.
 - The United States signed but did not ratify it. Australia signed in 1998 and ratified it in 2007.
 - It entered into force in 2005 after the required ratifications.
-## Copenhagen Accord (2009), Denmark
-
+### Copenhagen Accord (2009), Denmark
 - The accord was not a formal treaty and relied on voluntary pledges.
-## Paris Agreement (2015)
+### Paris Agreement (2015)
 
 - Adopted by 195 Parties in 2015. It is a treaty with binding procedural duties, including submitting and updating national climate plans; each country’s emissions target is nationally determined rather than imposed as a legally binding result.
 - Aims to hold warming well below 2°C and pursue efforts to limit it to 1.5°C.
 - The United States has withdrawn and rejoined at different times; check the current status before using this as a present-day example.
-
-## **Extra content added**
 
 **Evidence of climate change:** Evidence from the Quaternary period to the present includes ice cores, fossils, pollen, tree rings, historical records and modern temperature measurements. These records show natural changes over long timescales as well as recent warming.
 
