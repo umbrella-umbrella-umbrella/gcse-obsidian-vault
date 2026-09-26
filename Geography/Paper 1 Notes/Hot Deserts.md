@@ -30,7 +30,11 @@
 
 - ## Strategies To Reduce It
 	- Planting trees reduces desertification by holding soil together through the roots and keeping the soil strong, making it less likely to be desertified.
-	- managing water and soil, planting trees, reducing overgrazing and using appropriate technology such as efficient irrigation. Strategies need to suit local conditions and involve the people who use the land.
+	- Managing water and soil
+	- Planting trees 
+	- Reducing overgrazing 
+	- Using appropriate technology such as efficient irrigation 
+	 - **Strategies need to suit local conditions and involve the people who use the land.**
 
 
 ---
@@ -74,7 +78,7 @@
 
 - ### Challenges
 
-	- It’s  hot. Summer temperatures can reach 53 degrees. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
+	- It’s hot. Summer temperatures can reach 53°C. Still not as warm as  though, nothing ever will be. (This makes working inside or outside biblically accurate hell)
 	- Mobile dunes can migrate and block roads, stopping people getting to school/work.
 	- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
 	- Lack of roads makes transport difficult. Camel travel is common.
