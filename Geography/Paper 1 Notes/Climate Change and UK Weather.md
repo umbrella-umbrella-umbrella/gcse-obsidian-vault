@@ -1,6 +1,6 @@
 # Climate Change and UK Weather
 
-*Great storm of 1703 – proof that extreme weather in the UK is not a new thing, 8,000–15,000 lives were lost at sea.*
+- *Great storm of 1703 – proof that extreme weather in the UK is not a new thing, 8,000–15,000 lives were lost at sea.*
 ## Snow and Low Temperatures
 
 When – March-April 2013
