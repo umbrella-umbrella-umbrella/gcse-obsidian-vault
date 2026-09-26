@@ -95,8 +95,11 @@
 			- The chalk headland has been eroded slowly due to it being a hard resistant rock
 			- Erosion still does take place, even if it slow.
 		2. Soft clay cliffs south of Bridlington, **Bridlington Bay**
-			- Formed due to it being made of a soft clay and how 
+			- Formed due to it being made of a soft clay, weathering has caused the cliffs to collapse
+		
 	- ### Depositional Landforms
+		1. Spurn Point
+			- A curved split create
 
 ## Coastal Management Strategies
 
