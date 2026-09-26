@@ -35,7 +35,7 @@
 		- The body of water trapped behind is known as a lagoon
 
 ## Erosional Landforms
-- ### Coastal Erosion
+- ### Erosion
 	- The wearing away of the land by the sea and movement of material
 	  
 	- ### Types of Coastal Erosion
@@ -70,15 +70,18 @@
 	![[Wavecut Platform.png|331]]
 
 ## Types of Weathering
-- Weathering is the breaking d
-- ### Mechanical Weathering
-	- "Freeze-thaw Action"
+- ### Weathering
+	- Weathering is the breaking down of rocks in-situ.
+	
+- ### Types of Weathering
+	- ### Mechanical Weathering
+		- "Freeze-thaw Action"
+			- 
+	- Biological Weathering
 		- 
-- Biological Weathering
-	- 
-- ### Chemical Weathering
-	- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
-		- This dissolves and is washed away in solution, weakening the rock.
+	- ### Chemical Weathering
+		- Occurs when rain water which contains CO2 reacts with the Calcium Carbonate in rocks such as limestone and chalk.
+			- This dissolves and is washed away in solution, weakening the rock.
 
 ## Mass Movements
 - The downhill movement of material due to gravity (e.g rocks)
