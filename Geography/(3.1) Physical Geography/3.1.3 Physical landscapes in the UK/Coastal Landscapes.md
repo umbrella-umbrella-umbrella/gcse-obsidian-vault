@@ -93,7 +93,7 @@
 
 - ### Hard Engineering
 	- Is coastal management strategies that are often more expensive than soft engineering strategies, work against natural processes and are clearly visible
-	- e.g. Rip-Rap (aka rock armor), Sea walls, Groins, gabions (caged rocks)
+	- e.g. Rip-Rap (aka rock armour), Sea walls, Groins, gabions (caged rocks)
 - ### Soft Engineering 
 	- Coastal Management strategies that are often less expensive than Hard Engineering strategies, work with natural processes and are less visible.
 - ### Examples:
