@@ -32,7 +32,18 @@
 	- ### Gorkha Earthquake, Nepal (2015)
 		- **Location:** The epicentre was about 80 km north-west of Kathmandu, in the Himalayan foothills.
 		- **Cause and magnitude:** The Indo-Australian Plate collides with the Eurasian Plate at a destructive plate margin. The magnitude is given as **7.8**, often rounded to **7.9**.
-		- 
+		- ### Effects:
+			- Social:
+				- About **9,000 people died** and **20,000 were injured**; around **8 million people were affected**. Approximately **3 million people became homeless**, and **1.4 million** needed food, water and shelter. About **7,000 schools were destroyed**. An avalanche at Everest’s Khumbu Icefall killed **19 climbers**.
+			- Economic
+				- Damage was estimated at around **US$5 billion**. Blocked roads disrupted transport and hampered rescue and relief efforts.
+			- Environmental
+				- 
+		- ### Responses
+			- Immediate
+				- 
+			- Long Term
+				- 
 
 | Social                                                                                                                                                                                                                                                                                                               | Economic                                                                                                                   | Environmental                                                                                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
