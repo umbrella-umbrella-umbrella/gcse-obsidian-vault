@@ -53,3 +53,17 @@ Another management strategy includes HICs using desalination, which involves boi
 
 
 **UK extreme-weather example – Somerset Levels floods
+- Kids couldn’t go to school (loss of education) 
+- Parents couldn’t go to work (less taxes to the local government but I’m pretty sure that’s the least of their worries since their entire area is buried in water but yk) 
+- 16 farms had to be evacuated (sad times. Also hurts habitats and food production, causing food prices nationally to increase) 
+- 14,000 hectares of farmland was underwater for 3-4 weeks (love this one, specific and can be linked to food prices going up as well along with environmental impacts) 
+- Massive insurance payouts (businesses damaged) 
+- Locals will have a hard time selling their houses in the future Massive pipes were used to pump water out of the area 
+- Local people used boats and tractors to get around (pretty smart, also they used the local church for food storage, which I remember very well for some reason) 
+- A 5-mile stretch of the rivers Tone and Parret were dredged, increasing water capacity by 40% (finally – also cost them 5 million pounds) 
+- 20 million pound flood action plan to improve the flood resistance of the area 
+
+Causes:
+- Rivers hadn’t been dredged in 20 years (it decreased the river capacity so less excess water was needed for the rivers to overflow) 
+- Extreme rainfall over the 2013-2014 winter (main cause since there was too much water for the rivers to handle – also the soil was very saturated, meaning that it couldn’t hold any more water) 
+- Somerset levels themselves are flat (few meters above sea level) so they flood very often anyway
