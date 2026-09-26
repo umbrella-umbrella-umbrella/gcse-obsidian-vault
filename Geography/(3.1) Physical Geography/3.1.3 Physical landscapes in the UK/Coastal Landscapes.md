@@ -88,6 +88,8 @@
 
 ## Examples
 - ### A section of coastline in the UK - The Holderness coast, Yorkshire.
+	- Holderness is an area of the East Riding of Yorkshire, on the east coast of England
+	- It has a mixture of hard and soft rock, resulting in a range of coastal landforms created by erosion and deposition
 	- 
 
 ## Coastal Management Strategies
