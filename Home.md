@@ -1,7 +1,7 @@
-# Computer Science
-# Digital Information Technology
-# Geography
-# English Iterature
-# Biology
-# Chemistry
-# Physics
+# [[Computer Science]]
+# [[DIT - Effective digital working practises]]
+# [[Geography]]
+# [[English Literature]]
+# Biology]]
+# Chemistry]]
+# Physics]
