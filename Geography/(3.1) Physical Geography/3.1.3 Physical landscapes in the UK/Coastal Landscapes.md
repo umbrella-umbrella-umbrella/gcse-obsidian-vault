@@ -49,16 +49,17 @@ Between high tide and low tide is the high energy zone in the ocean. This high e
 		- This dissolves and is washed away in solution, weakening the rock.
 
 ## Coastal Erosion
-- The wearing away of the land by the seaand movement of material
-- ### Types of
-- ### Hydraulic Action
-	- 
-- ### Attrition
-	- 
-- ### Abrasion
-	- 
-- ### Solution / Corrosion
-	- 
+- The wearing away of the land by the sea and movement of material
+
+- ### Types of Coastal Erosion
+	- ### Hydraulic Action
+		- 
+	- ### Attrition
+		- 
+	- ### Abrasion
+		- 
+	- ### Solution / Corrosion
+		- 
 ## Mass Movements
 - The downhill movement of material due to gravity (e.g rocks)
 	- **Landslides** – Where a large amount on unconsolidated material falls down a slope, usually after rainfall.
