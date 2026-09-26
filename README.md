@@ -1,4 +1,4 @@
-# README
+# README.md
 
 These are GCSE notes that I use
 - I used ChatGPT to translate content from PowerPoint Slides to .md files 
