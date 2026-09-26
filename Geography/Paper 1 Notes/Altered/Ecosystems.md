@@ -35,6 +35,7 @@
 		- *Food Chain* – Shows feeding relationship between organisms in a habitat
 		- *Food Web* – shows how many organisms in an ecosystem interact.
 			- [Food Web in a TDF](https://aldeciduousforestbiome.weebly.com/food-web.html)
+			  ![[TDF Food Web.png|339]]
 
 
 
