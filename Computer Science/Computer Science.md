@@ -1,7 +1,8 @@
 # Computer Science
 
-Pearson Edexcel GCSE Computer Science (1CP2) notes, grouped by specification topic.
-
+> Exam Board = Pearson E
+> Choices = Hot Deserts, Coastal Landscapes
+> [Specification](obsidian://open?vault=ObsidianVault&file=synced%2FGeography%2FGeography%20Spec.PDF)
 ## 2. Data
 
 ### 2.1 Binary

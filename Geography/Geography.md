@@ -3,8 +3,8 @@
 > [Specification](obsidian://open?vault=ObsidianVault&file=synced%2FGeography%2FGeography%20Spec.PDF)
 
 credits to J.T for the Geography Notes 👍cant find good notes anywhere.
-## Physical Geography
 
+## Physical Geography
 - [[Tectonic Hazards]]
 - [[Climate Change and UK Weather]]
 - [[Tropical Storms]]
@@ -15,5 +15,4 @@ credits to J.T for the Geography Notes 👍cant find good notes anywhere.
 - [[Coastal Landscapes]]
 
 ## Skills
-
 - [[Geographical Skills]]
