@@ -91,7 +91,8 @@
 	- Holderness is an area of the East Riding of Yorkshire, on the east coast of England
 	- It has a mixture of hard and soft rock, resulting in a range of coastal landforms created by erosion and deposition
 	- ### Erosional Landforms
-		1. 
+		1. Chalk Headland, **Flamborough Head**
+			- This is formed due to it b
 	- ### Depositional Landforms
 
 ## Coastal Management Strategies
