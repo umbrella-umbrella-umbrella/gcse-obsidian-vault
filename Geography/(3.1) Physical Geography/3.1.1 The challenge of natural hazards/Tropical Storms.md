@@ -18,8 +18,15 @@
 ## The Coriolis effect:
 - When the Earth Rotates and causes wind to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere
 ## Tropical Storm Formation
-- ### Conditions
-	- 
+- ### Formation
+	- Tropical storms form over water of 27°C and over, and between roughly 5-30° N/S of the equator
+	- They need the spin of the Coriolis Effect
+- ### Development
+	- The air above the warm ocean is heated. Once the ocean water reaches at least 27°C, the warm air rises quickly, causing an area of very low pressure.
+	- As the air continues to rise quickly it draws more warm moist air up from above the ocean leading to strong winds.
+	- The rapidly rising warm air spirals upwards, cools, condenses and large cumulonimbus clouds form.
+	- These clouds form the eye wall of the storm and produce heavy rainfall.
+	- In the centre of the storm, cold air sinks forming the eye of the storm – here, conditions are calm and dry.
 
 
 
