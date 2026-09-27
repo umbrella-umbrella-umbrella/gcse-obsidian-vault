@@ -1,13 +1,16 @@
 # Coastal Landscapes
 
-## Coast
-- The coast is the narrow strip between land and sea, it is under constant attack from waves.
+## Definitions
+- ## Coast
+	- The coast is the narrow strip between land and sea, it is under constant attack from waves.
 ## Longshore Drift
 
 - Longshore drift moves sediment along the coast. 
-	- The swash moves the beach material in the directiom of the prevailing wind
+	- The swash moves the beach material in the direction of the prevailing wind
 	- Due to gravity, the backwash takes the material back to sea at a 90° angle
-	- This proc
+	- This process repeats itself, moving beach material up the beach
+		- When this material hits a groyne, it can no longer move further up. (Hard Engineering)
+		  
 	- Diagram:
 	 ![[Longshore Drift.png|274]]
 
