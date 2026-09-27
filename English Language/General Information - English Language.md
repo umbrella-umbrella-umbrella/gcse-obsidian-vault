@@ -18,7 +18,14 @@
 	- Leave enough time to cover Q5
 	- READ WITH PURPOSE - Look at what the question is asking first, then read. After sectioning you could also put question focus words above the extract section (e.g drama, tension)
 		- Select evidence ***as you read***
-	- Try to peel back layers of meaning, beyond the obvious / surface,
+	- Try to peel back layers of meaning, beyond the obvious / surface
+	- Refrain from question structures, embed your evidence (quotes) naturally into paragraphs
+
+- DONT
+	- Drift away from question focus
+	- Retell the story
+	- Don't point out a technique (e.g simile) without explaining its effect
+	- Quote too much
 
 --- 
 
