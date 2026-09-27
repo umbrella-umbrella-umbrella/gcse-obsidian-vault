@@ -69,6 +69,7 @@
 	- They form due to cliffs being made of Soft and Hard rock.
 		- The Soft rock erodes quickly whereas the hard rock erodes later.
 		- After formation, the Soft Rock is "sheltered" by the hard rock, so it erodes less, and the Hard Rock is more vulnerable and the waves' energy is concentrated on them.
+		  
 	![[Headlands and bays.png|254]]
 
 - ## Caves, arches, stacks and stumps
@@ -153,7 +154,7 @@
 	- ### Depositional Landforms
 		1. Spurn Point
 			- A curved spit created by deposited sediment transported south along the holderness coast.
-			- It is approx. 6km long and only 50m wide in someplaces.
+			- It is approx. 6km long and only 50m wide in some places.
 			- It is made of sand and shingle, held together by marram grass
 			- Mudflats and salt marshes have developed behind the spit
 	
