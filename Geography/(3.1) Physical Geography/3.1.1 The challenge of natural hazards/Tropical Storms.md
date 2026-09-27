@@ -15,8 +15,20 @@
 	- Air rises at 60° N/S however it wont rise as high due to the air not getting as heated
 	- High level winds blow towards the pole and sinks
 	- Surface level winds blow back towards 60° N/S
-
+## The Coriolis effect:
+- When the Earth Rotates and causes wind to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere
 ## Tropical Storm Formation
+- ### Conditions
+	- 
+
+
+
+
+
+
+
+
+
 Tropical storms form when there is a thunderstorm over water which has a temperature of at least 27 degrees C. with low crosswinds, so the thunderstorm doesn’t get torn apart. Then, due to the Coriolis effect, the thunderstorm starts spinning, causing the eye and eye wall to form. It is now technically a tropical storm. When the tropical storm hits land, it brings heavy rainfall and storm surge, then dissipates since it can’t get any energy from the sea.
 - They usually form during late summer and early autumn, often August–September.
 - They form between 5° and 20° north and south of the equator. They initially move west, then turn poleward.
