@@ -98,18 +98,18 @@
 	- e.g. Rip-Rap (aka rock armour), Sea walls, Groins, gabions (caged rocks)
 - ### Soft Engineering 
 	- Coastal Management strategies that are often less expensive than Hard Engineering strategies, work with natural processes and are less visible.
-- ### Examples:
+- ### *Examples*:
 	- ### Sea wall
 		- Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
-	- Rock armour
+	- ### Rock armour
 		- Absorbs and dissipates wave energy; it can be costly and may affect views and access.
-	- Groynes
+	- ### Groynes
 		- Trap sediment moved by longshore drift, building a wider beach locally. They can reduce sediment supply further along the coast.
-	- Managed retreat 
+	- ### Managed retreat 
 		- Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
-	- Dune regeneration
+	- ### Dune regeneration
 		- Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
-	- Beach nourishment 
+	- ### Beach nourishment 
 		- physically adding sand/shingles to a beach.
 
 ## Examples
@@ -146,11 +146,8 @@
 
 **Coastal processes:** Mechanical weathering includes freeze–thaw; chemical weathering breaks down rock through chemical reactions. Mass movement includes sliding, slumping and rockfall. Coastal erosion includes hydraulic action, abrasion and attrition. Longshore drift transports sediment along the coast. Deposition happens when waves lose energy, for example in sheltered water.
 
-**Additional landforms:** Waves erode cracks into caves, which may develop into arches and stacks as cliffs retreat. Beaches and sand dunes form through deposition; dune vegetation such as marram grass helps stabilise sand. A spit may develop where longshore drift carries sediment beyond a bend or river mouth; a bar can extend across a bay.
-
 **Management example – Mappleton:** Two rock groynes were built in 1991 to trap beach sediment and protect Mappleton and the B1242 road. The wider Holderness coast shows a management conflict: trapping sediment can protect one stretch but leave less material moving to beaches farther south, increasing pressure on unprotected stretches. [Government coastal report](https://assets.publishing.service.gov.uk/media/602e6876e90e076601e9f48c/Changes_in_asset_values_on_eroding_coasts._Technical_report.pdf)
 
-**Management comparisons:** Hard engineering includes sea walls, rock armour, gabions and groynes. Soft engineering includes beach nourishment and reprofiling, and dune regeneration. Managed retreat, also called coastal realignment, allows selected low-lying areas to flood. For a UK scheme, learn why it was needed, the strategy used, costs and benefits, effects on people and the environment, and any conflicts between groups or locations.
 
 ### **Extra content added: Ventnor–Bonchurch coastal management, Isle of Wight**
 
