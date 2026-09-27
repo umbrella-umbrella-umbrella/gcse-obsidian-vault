@@ -44,8 +44,6 @@
 - Warm air holds more water = more rainfall
 
 
-
-
 ## Monitoring
 Key monitoring organizations include the National Hurricane Center in Florida and the Typhoon Warning Center in Hawaii. They track wind speed and storm paths to predict the damage it will cause.
 Hurricanes can change direction, so a cone of uncertainty has to be made to cover the whole area a hurricane may travel, so people know if their local area is at risk or not.
