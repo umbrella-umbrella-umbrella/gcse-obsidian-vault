@@ -1,8 +1,12 @@
 # Coastal Landscapes
 
 ## Definitions
-- ## Coast
+- ### Coast
 	- The coast is the narrow strip between land and sea, it is under constant attack from waves.
+- ### Swash
+	- Where the water comes onto the land
+- ### Backwash
+	- Where the water returns to sea
 ## Longshore Drift
 
 - Longshore drift moves sediment along the coast. 
