@@ -16,6 +16,11 @@
 	- Use tracking phrases for Q2-5 (e.g "at the start of the text" "towards the end of the extract")
 	- Treat each question as a mark a minute
 	- Leave enough time to cover Q5
+	- READ WITH PURPOSE - Look at what the question is asking first, then read. After sectioning you could also put question focus words above the extract section (e.g drama, tension)
+		- Select evidence ***as you read***
+	- Try to peel back layers of meaning, beyond the obvious / surface,
+
+--- 
 
 Question 1
 - Bullet point
@@ -24,3 +29,7 @@ Question 1
 Question 2
 - Minimum of 4 for a strong mark
 
+Question 3-5
+- Minimum of 7-8 quotes as a minimum
+- Track through the question
+- Zoom at least once
