@@ -5,8 +5,9 @@
 ## Longshore Drift
 
 - Longshore drift moves sediment along the coast. 
-	- The swash follows the prevailing wind direction, the backwash follows gravity and carries sediment down the beach. 
-	- The cycle repeats, as the next swash moves the sediment slightly in the direction of the wind again, until the sediment has been transported across the beach.
+	- The swash moves the beach material in the directiom of the prevailing wind
+	- Due to gravity, the backwash takes the material back to sea at a 90° angle
+	- This proc
 	- Diagram:
 	 ![[Longshore Drift.png|274]]
 
