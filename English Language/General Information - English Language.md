@@ -1,4 +1,6 @@
 - 1 hour time limit
+	- (Recommend) - 10 minutes reading, 50 minutes answering
+
 - 40 marks
 
 - Five questions
@@ -14,3 +16,11 @@
 	- Use tracking phrases for Q2-5 (e.g "at the start of the text" "towards the end of the extract")
 	- Treat each question as a mark a minute
 	- Leave enough time to cover Q5
+
+Question 1
+- Bullet point
+- You can put more than 5 points
+
+Question 2
+- Minimum of 4 for a strong mark
+
