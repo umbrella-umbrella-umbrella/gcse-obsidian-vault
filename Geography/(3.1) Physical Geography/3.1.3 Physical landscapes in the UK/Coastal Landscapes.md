@@ -113,7 +113,7 @@
 		- physically adding sand/shingles to a beach.
 
 ## Examples
-- ### A section of coastline in the UK - The Holderness coast, Yorkshire.
+- # A section of coastline in the UK - The Holderness coast, Yorkshire.
 	- Holderness is an area of the East Riding of Yorkshire, on the east coast of England
 	- It has a mixture of hard and soft rock, resulting in a range of coastal landforms created by erosion and deposition
 	- ### Erosional Landforms
@@ -130,7 +130,7 @@
 			- It is made of sand and shingle, held together by marram grass
 			- Mudflats and salt marshes have developed behind the spit
 	
-- ### A coastal management scheme in the UK - Ventnor–Bonchurch, Isle of Wight
+- # A coastal management scheme in the UK - Ventnor–Bonchurch, Isle of Wight
 	- The area requires coastal management because
 		1. The geology of the area is a complicated mixture of clay, sands and chalk which are soft rocks
 		2. It is a high energy coast which is affected by powerful winter storms
@@ -141,16 +141,3 @@
 		- Rock Armour to absorb the energy of the waves before they hit the sea wall
 		- Cliff drainage had been used to take excess water from the soft clay cliff to reduce landslide risk
 		- Tetrapods work in a similar way to rock armour and absorb the energy
-
-## **Extra content added**
-
-**Coastal processes:** Mechanical weathering includes freeze–thaw; chemical weathering breaks down rock through chemical reactions. Mass movement includes sliding, slumping and rockfall. Coastal erosion includes hydraulic action, abrasion and attrition. Longshore drift transports sediment along the coast. Deposition happens when waves lose energy, for example in sheltered water.
-
-**Management example – Mappleton:** Two rock groynes were built in 1991 to trap beach sediment and protect Mappleton and the B1242 road. The wider Holderness coast shows a management conflict: trapping sediment can protect one stretch but leave less material moving to beaches farther south, increasing pressure on unprotected stretches. [Government coastal report](https://assets.publishing.service.gov.uk/media/602e6876e90e076601e9f48c/Changes_in_asset_values_on_eroding_coasts._Technical_report.pdf)
-
-
-### **Extra content added: Ventnor–Bonchurch coastal management, Isle of Wight**
-
-- **The area includes soft rocks such as clay and sand as well as chalk, and is exposed to powerful winter storms. There is little beach to reduce wave energy. The coast needs protection because it includes a holiday resort and residential properties.**
-- **A stepped sea wall reflects wave energy and supports a promenade between Ventnor and Bonchurch. Rock armour and concrete tetrapods absorb wave energy before it reaches the sea wall. Cliff drainage removes water from soft cliffs, reducing the risk of landslides.**
-- **The scheme helps protect homes, businesses and visitors, but hard engineering requires maintenance and can be costly.**
