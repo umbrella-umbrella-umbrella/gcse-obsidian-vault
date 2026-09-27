@@ -7,6 +7,25 @@
 	- Where the water comes onto the land
 - ### Backwash
 	- Where the water returns to sea
+
+## Waves
+- Waves are created through friction with the wind
+- 
+- ### Wave Types
+	- ### Constructive Waves
+		- Responsible for deposition
+		- "Break" less frequently (usually about 6–8 waves per minute)
+		- Swash is more powerful than backwash, so sediment is deposited
+		- Create gently sloping beaches
+		- Long in relation to their height
+	
+	- ### Destructive Waves
+		- Responsible for erosion
+		- "Break" frequently (10-25 a minute)
+		- Backwash is more powerful than swash, therefore takes sediment away from the beach causing coastal erosion
+		- Create steep beaches
+		- High in relation to their length
+
 ## Longshore Drift
 
 - Longshore drift moves sediment along the coast. 
@@ -17,21 +36,6 @@
 		  
 	- Diagram:
 	 ![[Longshore Drift.png|274]]
-
-## Wave Types
-- ### Constructive Waves
-	- Responsible for deposition
-	- "Break" less frequently (usually about 6–8 waves per minute)
-	- Swash is more powerful than backwash, so sediment is deposited
-	- Create gently sloping beaches
-	- Long in relation to their height
-
-- ### Destructive Waves
-	- Responsible for erosion
-	- "Break" frequently (10-25 a minute)
-	- Backwash is more powerful than swash, therefore takes sediment away from the beach causing coastal erosion
-	- Create steep beaches
-	- High in relation to their length
 
 ## Depositional Landforms
 - ### Spits And Bars
