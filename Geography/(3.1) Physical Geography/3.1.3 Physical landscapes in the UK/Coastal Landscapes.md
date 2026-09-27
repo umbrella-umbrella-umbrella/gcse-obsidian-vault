@@ -96,21 +96,26 @@
 - ### Hard Engineering
 	- Is coastal management strategies that are often more expensive than soft engineering strategies, work against natural processes and are clearly visible
 	- e.g. Rip-Rap (aka rock armour), Sea walls, Groins, gabions (caged rocks)
+	  
 - ### Soft Engineering 
 	- Coastal Management strategies that are often less expensive than Hard Engineering strategies, work with natural processes and are less visible.
+	  
 - ### *Examples*:
-	- ### Sea wall
-		- Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
-	- ### Rock armour
-		- Absorbs and dissipates wave energy; it can be costly and may affect views and access.
-	- ### Groynes
-		- Trap sediment moved by longshore drift, building a wider beach locally. They can reduce sediment supply further along the coast.
-	- ### Managed retreat 
-		- Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
-	- ### Dune regeneration
-		- Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
-	- ### Beach nourishment 
-		- physically adding sand/shingles to a beach.
+	- ### Hard Engineering
+		- ### Sea wall
+			- Reflects or dissipates wave energy and protects land behind it. It can be damaged, overtopped or undermined by scour, and is expensive to build and maintain.
+		- ### Rock armour
+			- Absorbs and dissipates wave energy; it can be costly and may affect views and access.
+		- ### Groynes
+			- Trap sediment moved by longshore drift, building a wider beach locally. They can reduce sediment supply further along the coast.
+			  
+	- ### Soft Engineering
+		- ### Managed retreat 
+			- Allows the coast to move inland in selected areas, reducing flood risk and creating habitats, but may require relocation or loss of land and property.
+		- ### Dune regeneration
+			- Marram grass traps and stabilises sand, helping dunes act as a natural barrier; this requires maintenance and can restrict access.
+		- ### Beach nourishment 
+			- physically adding sand/shingles to a beach.
 
 ## Examples
 - # A section of coastline in the UK - The Holderness coast, Yorkshire.
