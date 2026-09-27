@@ -66,7 +66,9 @@
 		![[Caves, Arches, Stacks and Stumps.png]]
 
 - ## Wave-Cut Platform
-	- Between high tide and low tide is the high energy zone in the ocean, so er
+	- Between high tide and low tide is the high energy zone in the ocean, so erosion occurs on the cliff here.
+	- Attrition and Hydraulic Action causes a wave-cut notch to form, and therefore an unsupported overhang on top of the notch
+	- The Over
 	![[Wavecut Platform.png|331]]
 
 ## Types of Weathering
