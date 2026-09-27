@@ -9,11 +9,13 @@
 	- Where the water returns to sea
 
 ## Waves
-- Waves are created through friction with the wind
-- The amount of energy a wave has is determined by the three aspects of the wind
-	1. Wind Speeds
-	2. Length of time the wind blows on the water
-	3. Length of distance (fetch) tjat tje womd n;pws pm tje water fpr
+- ### Creation
+	- Waves are created through friction with the wind
+	- The amount of energy a wave has is determined by the three aspects of the wind
+		1. Wind Speeds
+		2. Length of time the wind blows on the water
+		3. Length of distance (fetch) that the wind blows on the water for
+	   
 - ### Wave Types
 	- ### Constructive Waves
 		- Responsible for deposition
