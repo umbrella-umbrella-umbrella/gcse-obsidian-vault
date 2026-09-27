@@ -1,6 +1,7 @@
 # Tropical Storms
 
 ## The Three Cell Model
+
 - ### Hadley Cell
 	- The Hadley cell lies between the equator and 30° N/S 
 	- At the equator the temperature is high which leads to warm air Rising. This creates a name of low pressure
@@ -15,31 +16,36 @@
 	- Air rises at 60° N/S however it wont rise as high due to the air not getting as heated
 	- High level winds blow towards the pole and sinks
 	- Surface level winds blow back towards 60° N/S
+
 ## The Coriolis effect:
 - When the Earth Rotates and causes wind to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere
-## Tropical Storm Formation
-- ### Formation
-	- Tropical storms form over water of 27°C and over, and between roughly 5-30° N/S of the equator
-	- They need the spin of the Coriolis Effect
-- ### Development
-	- The air above the warm ocean is heated. Once the ocean water reaches at least 27°C, the warm air rises quickly, causing an area of very low pressure.
-	- As the air continues to rise quickly it draws more warm moist air up from above the ocean leading to strong winds.
-	- The rapidly rising warm air spirals upwards, cools, condenses and large cumulonimbus clouds form.
-	- These clouds form the eye wall of the storm and produce heavy rainfall.
-	- In the centre of the storm, cold air sinks forming the eye of the storm – here, conditions are calm and dry.
+
+## Formation of Tropical Storms
+- Tropical storms form over water of 27°C and over, and between roughly 5-30° N/S of the equator
+- They need the spin of the Coriolis Effect
+## Development of Tropical Storms
+- The air above the warm ocean is heated. Once the ocean water reaches at least 27°C, the warm air rises quickly, causing an area of very low pressure.
+- As the air continues to rise quickly it draws more warm moist air up from above the ocean leading to strong winds.
+- The rapidly rising warm air spirals upwards, cools, condenses and large cumulonimbus clouds form.
+- These clouds form the eye wall of the storm and produce heavy rainfall.
+- In the centre of the storm, cold air sinks forming the eye of the storm – here, conditions are calm and dry.
+
+## Features of Tropical Storms
+- ### Eye
+	- Centre of the tropical storm, cold air is sinking creating high pressure this creates clear skies
+- ### Eye wall
+	- Found around the eye, large currents of warm is rising creating extremely low pressure, this creates heavy rainfall and high wind speeds
+	
+![[Pasted image 20260927133125.png|324]]
+
+## What's causing more Storms?
+- Global Warming = More warm water
+- Higher temps = Stronger Storm
+- Warm air holds more water = more rainfall
 
 
 
 
-
-
-
-
-
-Tropical storms form when there is a thunderstorm over water which has a temperature of at least 27 degrees C. with low crosswinds, so the thunderstorm doesn’t get torn apart. Then, due to the Coriolis effect, the thunderstorm starts spinning, causing the eye and eye wall to form. It is now technically a tropical storm. When the tropical storm hits land, it brings heavy rainfall and storm surge, then dissipates since it can’t get any energy from the sea.
-- They usually form during late summer and early autumn, often August–September.
-- They form between 5° and 20° north and south of the equator. They initially move west, then turn poleward.
-**Climate change may increase the proportion of the most intense tropical storms and shift the regions where they occur as ocean conditions change. The effect on the total number of storms is uncertain; frequency may decrease even if the proportion of intense storms rises.**
 ## Monitoring
 Key monitoring organizations include the National Hurricane Center in Florida and the Typhoon Warning Center in Hawaii. They track wind speed and storm paths to predict the damage it will cause.
 Hurricanes can change direction, so a cone of uncertainty has to be made to cover the whole area a hurricane may travel, so people know if their local area is at risk or not.
