@@ -6,12 +6,13 @@
 	
 	- **Abiotic** is things like soil, air and water.
 	  
-	- Decomposers, such as fungi and bacteria, break down dead material and release nutrients back into the soil. Earthworms are detritivores that fragment dead material. Energy flows through food chains and is eventually lost as heat; it is not recycled in soil.
+	- Decomposers, such as fungi and bacteria, break down dead material and release onutrients back into the soil. Earthworms are detritivores that fragment dead material. Energy flows through food chains and is eventually lost as heat; it is not recycled in soil.
 	  
 	- Climate is the average weather over 30 years, and it’s an important driver in an ecosystem as it determines the average rainfall and temperature. Climate is an abiotic factor. The Biotics adapt to the climate.
 	
 	- **Nutrient Cycle**
 		- Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
+- ### Types of Ecosystem 
 
 - ### Equilibrium In An Ecosystem
 	- Equilibrium in an ecosystem is *a balance between its living and non-living components.* (biotic and abiotic)
