@@ -12,7 +12,36 @@
 	
 	- **Nutrient Cycle**
 		- Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
-- ### Types of Ecosystem 
+		  
+- ### Types of Ecosystem / Global Ecosystems
+	- **Tundra** 
+		- Climate
+			- Cold, long winter, short cool summer
+			- Low rain (dry)
+		- Vegetation
+			- No trees
+			- Low growing plants (moss, shrubs)
+	- **Taiga (coniferous forest)**
+		- Climate
+			- Cold, long winters, short mild summer
+			- Low rain, mainly snow
+		- Vegetation
+			- Evergreen conifer trees
+				- Needle leaves reduce water loss
+			- Thin, acidic, nutrient-poor soil
+	- **Temperate deciduous forest**
+		- Climate
+			- Mild
+		- Vegetation
+			- No trees
+			- Low growing plants (moss, shrubs)
+	- **Savanna grassland**
+		- Climate
+			- Cold, long winter, short cool summer
+			- Low rain (dry)
+		- Vegetation
+			- No trees
+			- Low growing plants (moss, shrubs)
 
 - ### Equilibrium In An Ecosystem
 	- Equilibrium in an ecosystem is *a balance between its living and non-living components.* (biotic and abiotic)
