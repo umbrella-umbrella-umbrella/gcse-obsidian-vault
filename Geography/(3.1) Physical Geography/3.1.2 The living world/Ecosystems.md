@@ -14,14 +14,14 @@
 		- Producers grow and get eaten by consumers, which die and get eaten by the decomposers, which causes the energy to be transferred into the soil, which have mineral salts and water, which make their way back into plants and the cycle repeats.
 		  
 - ### Types of Ecosystem / Global Ecosystems
-	- **Tundra** 
+	- **Tundra** (60-70° North)
 		- Climate
 			- Cold, long winter, short cool summer
 			- Low rain (dry)
 		- Vegetation
 			- No trees
 			- Low growing plants (moss, shrubs)
-	- **Taiga (coniferous forest)**
+	- **Taiga / Temperate boreal / coniferous forest** (50-70° North)
 		- Climate
 			- Cold, long winters, short mild summer
 			- Low rain, mainly snow
@@ -29,19 +29,22 @@
 			- Evergreen conifer trees
 				- Needle leaves reduce water loss
 			- Thin, acidic, nutrient-poor soil
-	- **Temperate deciduous forest**
+	- **Temperate deciduous forest** (30-60° N/S)
 		- Climate
-			- Mild
+			- Mild temperature, four distinct seasons
+			- Moderate rainfall
 		- Vegetation
-			- No trees
-			- Low growing plants (moss, shrubs)
-	- **Savanna grassland**
+			- Trees shed leaves in Autumn 
+			- Thick leaf litter on floor
+			- Soil is fertile (enriched by leaf litter)
+	- **Savanna** (5-20° N/S)
 		- Climate
-			- Cold, long winter, short cool summer
-			- Low rain (dry)
+			- Hot and tropical
+			- Distinct wet and dry seasons
 		- Vegetation
-			- No trees
-			- Low growing plants (moss, shrubs)
+			- Tall grass layer and scattered trees
+			- Plants adapted to drought
+			- Generally infertile soil
 
 - ### Equilibrium In An Ecosystem
 	- Equilibrium in an ecosystem is *a balance between its living and non-living components.* (biotic and abiotic)
