@@ -1,4 +1,4 @@
-# 4.1.4 Wireless connectivity
+# Wireless connectivity
 
 ### Wireless networks
 

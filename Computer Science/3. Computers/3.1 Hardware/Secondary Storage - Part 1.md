@@ -1,4 +1,4 @@
-# 3.1.2 Secondary Storage - Part 1
+# Secondary Storage - Part 1
 
 ### General purpose devices
 

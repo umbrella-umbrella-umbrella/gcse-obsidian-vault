@@ -1,4 +1,4 @@
-# 3.1.2 Secondary Storage - Part 2
+# Secondary Storage - Part 2
 
 ### Things to consider
 

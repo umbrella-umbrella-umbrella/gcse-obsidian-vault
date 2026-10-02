@@ -1,4 +1,4 @@
-# 2.2.1 ASCII character encoding
+# ASCII character encoding
 
 ### How computers store data
 

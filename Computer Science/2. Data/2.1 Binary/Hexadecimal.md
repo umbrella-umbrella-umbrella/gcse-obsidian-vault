@@ -1,4 +1,4 @@
-# 2.1.6 Hexadecimal
+# Hexadecimal
 
 ### Human problems
 

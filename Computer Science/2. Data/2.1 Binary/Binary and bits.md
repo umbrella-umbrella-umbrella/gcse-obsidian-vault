@@ -1,4 +1,4 @@
-# 2.1.1 Binary and bits
+# Binary and bits
 
 ### What is binary and why do we use it?
 

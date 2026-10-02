@@ -1,4 +1,4 @@
-# 2.1.2 Two complement - Part 1
+# Two complement - Part 1
 
 ### Unsigned integers
 

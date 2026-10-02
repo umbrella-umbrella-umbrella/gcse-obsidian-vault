@@ -1,4 +1,4 @@
-# 2.1.4 Logical binary shifts
+# Logical binary shifts
 
 ### Binary arithmetic
 

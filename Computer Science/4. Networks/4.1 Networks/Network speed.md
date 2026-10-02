@@ -1,4 +1,4 @@
-# 4.1.4-4.1.5 Network speed
+# Network speed
 
 ### Network speed
 

@@ -1,4 +1,4 @@
-# 4.1.1-4.1.3 4.1.6 LANs WANs and protocols
+# LANs WANs and protocols
 
 ### How useful is a stand-alone computer?
 

@@ -1,4 +1,4 @@
-# 3.1.3 Embedded Systems
+# Embedded Systems
 
 ### Computer Systems
 

@@ -1,4 +1,4 @@
-# 2.1.4-2.1.5 Binary addition and overflow
+# Binary addition and overflow
 
 ### Adding in binary
 

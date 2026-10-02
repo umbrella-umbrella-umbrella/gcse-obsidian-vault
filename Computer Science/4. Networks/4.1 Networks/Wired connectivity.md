@@ -1,4 +1,4 @@
-# 4.1.4 Wired connectivity
+# Wired connectivity
 
 ### Transmitting data
 

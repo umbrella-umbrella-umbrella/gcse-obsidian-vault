@@ -1,4 +1,4 @@
-# 2.1.4 Arithmetic binary shifts
+# Arithmetic binary shifts
 
 ### Left arithmetic shifting
 

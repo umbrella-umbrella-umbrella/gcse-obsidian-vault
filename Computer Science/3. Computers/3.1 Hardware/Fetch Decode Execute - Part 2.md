@@ -1,4 +1,4 @@
-# 3.1.1 Fetch Decode Execute - Part 2
+# Fetch Decode Execute - Part 2
 
 ### Instructions and data
 

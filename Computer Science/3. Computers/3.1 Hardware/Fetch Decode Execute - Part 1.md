@@ -1,4 +1,4 @@
-# 3.1.1 Fetch Decode Execute - Part 1
+# Fetch Decode Execute - Part 1
 
 ![[Von Neumann Arcitecture.png|418]]
 

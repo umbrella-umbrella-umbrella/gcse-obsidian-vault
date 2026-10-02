@@ -1,4 +1,4 @@
-# 4.1.8 Network topologies
+# Network topologies
 
 ### Our network
 

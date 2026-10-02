@@ -1,4 +1,4 @@
-# 2.1.2-2.1.3 Two complement - Part 2
+# Two complement - Part 2
 
 ### Two's complement
 
