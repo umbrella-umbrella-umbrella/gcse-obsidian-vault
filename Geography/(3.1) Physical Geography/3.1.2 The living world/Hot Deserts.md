@@ -49,22 +49,26 @@
 
 - ### The Golden Mole
 	- Nocturnal – hunts at night, since it’s main food source (termites) only come out at night, so it can feed on them.
-	- It lives under the sand, giving it an element of surprise and making it less visible to prey, so it can catch its prey and get food.
 	- Smaller than a ping pong ball so it can quickly and easily manoeuvre through the sand, allowing it to get to prey fast.
+	- Blind, really good hearing
 
 - ### The Darkling Beetle
 	- Some Namib darkling beetles collect water from fog on their bodies; the behaviour and adaptations vary between species. 
 	- Has microscopic bumps on its skin to lead water towards its mouth, so he only has to sit there at the top of the dune, and the water will end up in his mouth anyway
 	- Active in mornings where the chance of moisture in the air is higher
 
----
+- ### Shovel Snouted Lizard
+	- Alternate feet on hot sand
+		- 60°C surface temperature
+		- Hides in the shade, as its cooler
+	- Camouflage in sand
 
 ## Thar Desert (Case Study of Hot Desert)
 
 - ### Background Information
-
-	- Desert in the Northwest of India, has towns such as Jaisalmer.
-	- Really hot
+	- Desert in the Northwest of India
+	- Classed as a hot desert 
+		- Less than 250mm rainfall per annum and temps often exceed 50°
 
 - ### Opportunities
 
@@ -72,13 +76,12 @@
 	- The Indira Gandhi Canal enabled farming on previously infertile land.
 	- Crops include mustard, pulses and cotton, improving food security and supporting exports.
 	- The Jaisalmer wind turbine farm (jobs, renewable energy)
-	- Oilfield in the Barmer district (jobs selling oil for money)
 	- Mining for Phosphorite (used for fertilizer, economic development and jobs)
 	- Mining for gypsum
 
 - ### Challenges
 
-	- It’s hot. Summer temperatures can reach 53°C.
+	- It’s hot. Summer temperatures can reach 50°C.
 	- Mobile dunes can migrate and block roads, stopping people getting to school/work.
 	- Extreme water scarcity – lack of rainfall along with high rates of evaporation. Plus, People, farms and factories all require water.
 	- Lack of roads makes transport difficult. Camel travel is common.
